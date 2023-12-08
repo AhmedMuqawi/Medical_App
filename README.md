@@ -1,6 +1,6 @@
 # Medical_App
 
-##App structure
+##App structure:
 .
 └── medical_app
     ├── __init__.py
