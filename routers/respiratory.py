@@ -7,7 +7,7 @@ collection_name = "Respiratory_diseases"
 
 
 # get a list of illnesses name
-@router.get("/", response_model=list[schemas.IllnessName])
+@router.get("/", response_model=schemas.IllnessNames)
 def read_illnesses():
     illnesses = medical_info.get_illnesses_names(collection_name)
     return illnesses

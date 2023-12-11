@@ -8,13 +8,13 @@ class IllnessCategory(BaseModel):
 
 
 # create pydantic model for the document name
-class IllnessName(BaseModel):
-    illness_name: str
+class IllnessNames(BaseModel):
+    illnesses: List[str]
 
 
 # create pydantic model for the fields
 class MedicalInformation(BaseModel):
-    Symptoms: List[Union[str, dict]]
+    Symptoms: List[Union[str, dict]] | str = None
     Red_Flags: List[Union[str, dict]]
     Initial_Management: List[Union[str, dict]]
     Do_Or_Not: Dict[str, List[str]]
