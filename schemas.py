@@ -8,7 +8,7 @@ class IllnessCategory(BaseModel):
 
 
 # create pydantic model for the document name
-class IllnessNames(BaseModel):
+class IllnessName(BaseModel):
     illness_name: str
 
 
