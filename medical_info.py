@@ -7,7 +7,7 @@ db = database.db
 
 def get_illnesses_types() -> list[str]:
     collections_list = db.list_collection_names()
-    return collections_list
+    return schemas.IllnessCategory(illness_type=collections_list)
 
 
 def get_illnesses_names(collection_name: str) -> List[str]:
@@ -22,12 +22,8 @@ def get_illness_info(collection_name: str, document_key: str) -> Dict:
     info = collection.distinct(document_key)[0]
     # print(type(info))
     formatted_data = {
-        "Symptoms": info[
-            "Symptoms"
-        ],  # Assuming Symptoms is a list of strings or dictionaries
-        "Red_Flags": info[
-            "Red Flags"
-        ],  # Assuming Red_Flags, Initial_Management, and Do_Or_Not are initialized lists
+        "Symptoms": info["Symptoms"],
+        "Red_Flags": info["Red Flags"],
         "Initial_Management": info["Initial management"],
         "Do_Or_Not": info["Do Or Not to Do"],
     }
