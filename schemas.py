@@ -4,7 +4,7 @@ from typing import List, Dict, Union
 
 # create pydantic model for the collection name
 class IllnessCategory(BaseModel):
-    illness_type: str
+    illness_type: List[str]
 
 
 # create pydantic model for the document name
