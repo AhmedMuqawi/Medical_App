@@ -3,7 +3,7 @@ from .. import schemas, medical_info
 
 
 router = APIRouter(prefix="/Emergency", tags=["Pediatric Emergency"])
-collection_name = "Pediatric_Emergency"
+collection_name = "Pediatric Emergency"
 
 
 # get a list of illnesses name

@@ -3,7 +3,7 @@ from .. import schemas, medical_info
 
 
 router = APIRouter(prefix="/GIT", tags=["GIT diseases"])
-collection_name = "GIT_diseases"
+collection_name = "GIT Diseases"
 
 
 # get a list of illnesses name
