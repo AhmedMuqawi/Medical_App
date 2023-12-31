@@ -1,5 +1,6 @@
 from fastapi import APIRouter
 from .. import schemas, medical_info
+from typing import List
 
 
 router = APIRouter(prefix="/Urinary", tags=["Urinary Tract diseases"])
@@ -7,7 +8,7 @@ collection_name = "Urinary Tract Diseases"
 
 
 # get a list of illnesses name
-@router.get("/", response_model=schemas.IllnessNames)
+@router.get("/", response_model=List[schemas.IllnessNames])
 def read_illnesses():
     illnesses = medical_info.get_illnesses_names(collection_name)
     return illnesses
