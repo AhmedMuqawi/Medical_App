@@ -74,7 +74,7 @@ ls -l MedicalInfoDB/import.sh
 ```
 you suppose to see the following output
 
-![Alt text](image-1.png)
+![Alt text](image-3.png)
 ### running docker compose
 now its time to run the compose file
 ```bash
