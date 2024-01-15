@@ -6,7 +6,7 @@ This repository contains a FastAPI-based application for managing medical inform
 ### Structure:
 ```
 .
-└── medical_app
+└── Medical_app
     ├── __init__.py  # Package initializer
     ├── medical_info.py  # selecting medical data
     ├── database.py  # Manages the database connection
@@ -37,3 +37,8 @@ This repository contains a FastAPI-based application for managing medical inform
 - `medical_app/routers/miscellaneous.py`: Routes related to miscellaneous diseases.
 
 
+ chmod +x MedicalInfoDB/import.sh
+ahmed@pop-os:~/Desktop/learning python/medical_app/Medical_App$ ls -l MedicalInfoDB/import.sh
+-rwxrwxr-x 1 ahmed ahmed 1104 Jan 14 23:14 MedicalInfoDB/import.sh
+
+http://localhost/docs
