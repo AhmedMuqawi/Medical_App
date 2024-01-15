@@ -1,0 +1,183 @@
+[{
+  "_id": {
+    "$oid": "659bd573eafe58b3356a5140"
+  },
+  "Urticaria": {
+    "Symptoms": [
+      "1. Raised Welts (Wheals): The primary symptom of urticaria is the presence of raised, red or pink welts on the skin. These welts can be small or large and are often surrounded by an area of redness.",
+      "2. Itching: Urticaria is typically accompanied by intense itching. Children may complain of itching or discomfort associated with the welts.",
+      "3. Variable Appearance: The welts associated with urticaria can change shape and move around the body. New welts may appear while others fade away. The rash can be dynamic and change rapidly.",
+      "4. Red or White Center: The center of each welt may appear red or white, giving it a distinct appearance. This is sometimes referred to as a 'wheal and flare' reaction.",
+      "5. Swelling: In addition to redness and itching, some children may experience swelling of the affected areas. Swelling can be mild to severe, depending on the individual's reaction.",
+      "6. Facial Swelling: In some cases, urticaria can cause swelling of the face, lips, and eyes, leading to a puffy appearance.",
+      "7. Angioedema: In more severe cases, children may experience angioedema, which involves swelling deeper in the skin layers. This can occur around the eyes, lips, hands, feet, or genitalia.",
+      "8. Symptoms of an Underlying Condition: Urticaria can sometimes be a symptom of an underlying condition or allergy. If the welts are accompanied by other symptoms like difficulty breathing, wheezing, or abdominal pain, it's important to seek medical attention promptly."
+    ],
+    "Red Flags": [
+      "1. Difficulty Breathing: If a child is experiencing difficulty breathing, wheezing, or shortness of breath along with urticaria, it could indicate a severe allergic reaction known as anaphylaxis. This is a medical emergency, and immediate intervention, including the use of an epinephrine auto-injector (if available), is crucial.",
+      "2. Swelling of the Face, Lips, or Tongue: Severe swelling of the face, lips, or tongue, known as angioedema, can be associated with urticaria. If this swelling is significant and affecting the child's ability to breathe or swallow, seek emergency medical help.",
+      "3. Rapid Spread of Hives: If the hives are spreading rapidly and covering large areas of the body, it may indicate a more severe allergic or systemic reaction. This could be a sign of a serious underlying condition and requires prompt medical assessment.",
+      "4. Persistent Vomiting or Diarrhea: If urticaria is accompanied by persistent vomiting or diarrhea, it may suggest a more systemic reaction that requires medical evaluation.",
+      "5. Change in Consciousness or Alertness: Any alteration in consciousness, such as drowsiness, confusion, or loss of consciousness, is a critical red flag. This may indicate a severe allergic reaction or anaphylaxis, and immediate medical attention is needed.",
+      "6. Bluish Discoloration of the Lips or Skin: Bluish discoloration, especially around the lips or in the extremities, can be a sign of inadequate oxygenation and requires immediate medical intervention.",
+      "7. History of Severe Allergic Reactions: If the child has a known history of severe allergic reactions or anaphylaxis, any appearance of urticaria should be taken seriously, as it may be a part of a systemic allergic response.",
+      "8. Unresponsiveness to Antihistamines: If the child has taken antihistamines, which are commonly used to treat urticaria, and there is no improvement or the symptoms worsen, it's important to seek medical advice."
+    ],
+    "Initial management": [
+      "1. Identify and Avoid Triggers: If possible, identify and avoid triggers that may be causing the urticarial reaction. Common triggers include certain foods, medications, insect stings, and infections.",
+      "2. Prophylactic Measures: In cases where triggers are identified, prophylactic measures involve avoiding exposure to those triggers. For example, if a specific food is causing the reaction, eliminate it from the child's diet.",
+      {
+        "Antihistamines": [
+          "3. Antihistamines: Antihistamines are the mainstay of treatment for urticaria. They help block the effects of histamine, a chemical released during an allergic reaction that causes the symptoms of urticaria. Over-the-counter or prescription antihistamines may be used.",
+          "4. Dosage Adjustment: Adjust the dosage of antihistamines based on the child's age and weight. It's essential to follow the healthcare provider's recommendations for the appropriate dosage.",
+          "5. Symptom Relief: Antihistamines can help relieve itching and reduce the appearance of hives. They are typically taken on a regular basis for a period determined by the healthcare provider."
+        ]
+      },
+      "6. Observation and Monitoring: Keep a close eye on the child's symptoms. If symptoms persist or worsen, or if there are any concerning signs like difficulty breathing, seek medical attention promptly.",
+      "7. Cool Compresses and Loose Clothing: Applying cool compresses to the affected areas can help alleviate itching and discomfort. Dress the child in loose-fitting, breathable clothing to minimize irritation.",
+      "8. Hydration: Ensure the child stays well-hydrated, as dehydration can exacerbate symptoms.",
+      "9. Avoidance of Triggers: If a trigger is identified, take steps to avoid it. This may involve dietary changes, environmental modifications, or other preventive measures.",
+      "10. Consultation with a Healthcare Professional: If the symptoms are severe, persistent, or associated with any red flags (as mentioned in the previous response), seek prompt medical attention. A healthcare professional can provide a thorough evaluation, determine the underlying cause, and recommend appropriate treatment."
+    ],
+    "Do Or Not to Do": {
+      "Do": [
+        "1. Consult a Healthcare Professional: If your child develops urticaria, especially if it's severe or accompanied by other symptoms, consult a healthcare professional for proper diagnosis and guidance.",
+        "2. Identify and Avoid Triggers: Work with healthcare providers to identify and, if possible, avoid triggers that may be causing the urticarial reactions.",
+        "3. Administer Antihistamines as Prescribed: Give antihistamines as prescribed by the healthcare provider. These medications help relieve itching and reduce the appearance of hives.",
+        "4. Follow Dosage Instructions: Administer antihistamines according to the recommended dosage based on the child's age and weight.",
+        "5. Use Cool Compresses: Apply cool compresses to the affected areas to soothe itching and reduce inflammation.",
+        "6. Dress in Comfortable Clothing: Dress the child in loose-fitting, breathable clothing to minimize irritation.",
+        "7. Maintain Hydration: Ensure the child stays well-hydrated, as proper hydration can help alleviate symptoms.",
+        "8. Monitor for Red Flags: Keep a close eye on the child's symptoms. If there are signs of a severe allergic reaction (e.g., difficulty breathing, swelling of the face), seek immediate medical attention.",
+        "9. Follow Up with Healthcare Provider: Attend follow-up appointments as recommended by the healthcare provider to monitor the child's progress and adjust treatment if necessary."
+      ],
+      "Do Not": [
+        "1. Delay Seeking Medical Attention: If the child exhibits severe symptoms, such as difficulty breathing or swelling of the face, do not delay seeking emergency medical attention. This could be indicative of anaphylaxis, which is a medical emergency.",
+        "2. Discontinue Medication Without Consulting a Healthcare Professional: Do not stop or change the child's medication without consulting the healthcare provider. Abruptly stopping medication can lead to a recurrence of symptoms.",
+        "3. Ignore Red Flags: If you observe any red flags or warning signs, such as difficulty breathing or a change in consciousness, do not ignore them. Seek immediate medical help.",
+        "4. Overuse of Medications: Avoid overusing medications without proper guidance. Excessive use of antihistamines, for example, may have side effects and should be used as directed.",
+        "5. Assume Hives Will Resolve on Their Own: While urticaria can be self-limiting, it's essential to seek medical advice, especially if the condition is persistent, severe, or associated with other concerning symptoms"
+      ]
+    }
+  },
+  "Iron Deficiency Anemia": {
+    "Symptoms": [
+      "1. Fatigue and Weakness: Children with iron deficiency anemia may appear tired, lethargic, or weak. They may lack energy for normal activities.",
+      "2. Pale Skin: Anemia can cause a paleness in the skin, especially noticeable in areas like the face, inside the lower eyelids, and the palms of the hands.",
+      "3. Irritability: Children may become more irritable or cranky than usual. Irritability can be a result of the decreased oxygen supply to the brain.",
+      "4. Decreased Appetite: A child with iron deficiency anemia may have a reduced appetite and may be less interested in eating.",
+      "5. Delayed Growth and Development: In severe cases, iron deficiency anemia can affect a child's growth and development. It may lead to a delay in reaching developmental milestones.",
+      "6. Breathing Problems: In some cases, children with severe anemia may experience rapid or irregular breathing.",
+      "7. Frequent Infections: Iron deficiency can weaken the immune system, making children more susceptible to infections.",
+      "8. Cold Hands and Feet: Insufficient oxygen delivery to peripheral tissues can result in cold hands and feet."
+    ],
+    "Red Flags": [
+      "1. Severe Fatigue or Weakness: If the child appears extremely tired, weak, or lethargic and this is not improving with rest, it may indicate a more serious condition.",
+      "2. Pale or Bluish Skin: A child with severe anemia may have very pale or bluish skin, particularly in the lips and nail beds. This suggests a significant lack of oxygen in the blood.",
+      "3. Rapid or Difficult Breathing: If the child is experiencing rapid or labored breathing, it could be a sign that the body is not getting enough oxygen.",
+      "4. Severe Dizziness or Fainting: Extreme dizziness or fainting spells may be indicative of severe anemia and should be addressed urgently.",
+      "5. Chest Pain: Severe anemia can strain the cardiovascular system, leading to chest pain. If a child complains of chest pain, seek medical attention immediately.",
+      "6. Confusion or Changes in Mental Status: Anemia affecting oxygen supply to the brain may result in confusion or changes in mental alertness. If a child seems disoriented or behaves unusually, seek urgent medical help.",
+      "7. Severe Abdominal Pain: In some cases, iron deficiency anemia can cause abdominal pain. If the pain is severe or persistent, it requires prompt medical evaluation.",
+      "8. Difficulty Swallowing or Breathing: Swelling of the tongue or throat can occur in severe cases, leading to difficulty swallowing or breathing. This is a medical emergency and requires immediate attention."
+    ],
+    "Initial management": [
+      {
+        "Prophylaxis (Prevention)": [
+          "1. Dietary Measures:   - Ensure that the child has a well-balanced diet that includes iron-rich foods such as lean meats, poultry, fish, beans, lentils, tofu, fortified cereals, and green leafy vegetables.",
+          "2. Iron-Fortified Foods:   - Use iron-fortified infant cereals and formula for infants.   - Include iron-fortified foods in the diet, such as iron-fortified cereals and bread.",
+          "3. Breastfeeding:   - For infants, promote breastfeeding, which provides a good source of iron. Iron-fortified infant cereals can be introduced when appropriate.",
+          "4. Limiting Milk Consumption:  - Limit the intake of cow's milk for toddlers and young children, as excessive milk consumption can interfere with iron absorption."
+        ]
+      },
+      {
+        "Treatment": [
+          "1. Iron Supplements:   - If dietary measures are insufficient or if the child has difficulty maintaining an adequate iron intake, iron supplements may be prescribed by a healthcare professional.",
+          "2. Liquid Iron Preparations:   - For young children or those who have difficulty swallowing pills, liquid iron preparations may be used.",
+          "3. Monitoring:   - Regular monitoring of hemoglobin levels and iron status is essential to track progress and adjust treatment as needed.",
+          "4. Addressing Underlying Causes:   - Identify and address any underlying causes of iron deficiency, such as gastrointestinal issues or chronic blood loss.",
+          "5. Education and Support:   - Educate parents and caregivers about the importance of maintaining a nutritious diet and, when necessary, adhering to the prescribed iron supplementation regimen.",
+          "6. Follow-Up:   - Schedule regular follow-up appointments with healthcare professionals to assess the child's response to treatment and make any necessary adjustments."
+        ]
+      }
+    ],
+    "Do Or Not to Do": {
+      "Do": [
+        "1. Consult a Healthcare Professional:   - If you suspect iron deficiency anemia or notice symptoms, consult with a healthcare professional for proper diagnosis and guidance.",
+        "2. Dietary Modifications:   - Include iron-rich foods in the child's diet, such as lean meats, poultry, fish, beans, lentils, tofu, fortified cereals, and green leafy vegetables.",
+        "3. Vitamin C Intake:   - Encourage the consumption of vitamin C-rich foods alongside iron-rich foods, as vitamin C enhances iron absorption.",
+        "4. Iron-Fortified Foods:   - Use iron-fortified infant cereals and formula for infants.   - Include iron-fortified foods in the diet, such as iron-fortified cereals and bread.",
+        "5. Breastfeeding:   - For infants, promote breastfeeding, which provides a good source of iron. Iron-fortified infant cereals can be introduced when appropriate.",
+        "6. Limit Milk Intake:   - Limit the intake of cow's milk for toddlers and young children, as excessive milk consumption can interfere with iron absorption.",
+        "7. Iron Supplements:   - If prescribed by a healthcare professional, administer iron supplements as directed.",
+        "8. Regular Monitoring:   - Schedule regular check-ups to monitor the child's hemoglobin levels and iron status.",
+        "9. Education and Support:   - Educate parents and caregivers about the importance of maintaining a nutritious diet and, when necessary, adhering to the prescribed iron supplementation regimen."
+      ],
+      "Not to Do": [
+        "1. Self-Diagnosis and Treatment:   - Avoid attempting to diagnose or treat iron deficiency anemia without professional guidance. It's important to get a proper diagnosis and treatment plan from a healthcare provider.",
+        "2. Excessive Milk Consumption:   - Limit the intake of cow's milk for toddlers and young children to avoid interference with iron absorption. Follow the recommendations of healthcare professionals regarding appropriate milk intake.",
+        "3. Ignoring Symptoms:   - Don't ignore signs and symptoms of anemia. If you notice fatigue, paleness, or other concerning symptoms, seek medical advice promptly.",
+        "4. Overlook Underlying Causes:   - If iron deficiency anemia is identified, work with healthcare professionals to identify and address any underlying causes, such as gastrointestinal issues or chronic blood loss.",
+        "5. Discontinuing Treatment Prematurely:   - If iron supplements are prescribed, do not discontinue them without consulting with a healthcare professional, even if symptoms improve. It's important to complete the prescribed course.",
+        "6. Ignoring Follow-Up Appointments:   - Regular follow-up appointments are crucial to monitor the child's response to treatment. Do not skip or ignore these appointments."
+      ]
+    }
+  },
+  "Chicken Pox": {
+    "Symptoms": [
+      "1. Rash: The hallmark sign of chickenpox is a red, itchy rash that usually starts on the face, chest, and back before spreading to other parts of the body. The rash progresses to form small, fluid-filled blisters, which eventually crust over and scab.",
+      "2. Fever: Children with chickenpox often develop a mild to moderate fever. The fever may precede the appearance of the rash or occur at the same time.",
+      "3. Fatigue and Malaise: Infected children may feel generally unwell, tired, and irritable.",
+      "4. Loss of Appetite: Chickenpox can cause a temporary loss of appetite in affected children.",
+      "5. Headache: Some children may experience headaches along with other symptoms.",
+      "6. Sore Throat: A mild sore throat may also accompany the other symptoms.",
+      "7. Coughing: In some cases, a mild cough may be present."
+    ],
+    "Red Flags": [
+      "1. High Fever: If the child develops a high fever (above 102°F or 38.9°C), especially if it persists for more than a few days or if the child is uncomfortable despite fever-reducing medications, it's a cause for concern.",
+      "2. Severe Skin Infection: If the chickenpox blisters become very red, warm to the touch, and appear to be infected (with increasing pain, swelling, or pus), medical attention is necessary.",
+      "3. Difficulty Breathing or Wheezing: If the child experiences difficulty breathing, develops a persistent cough, or shows signs of wheezing, it could indicate a respiratory complication and requires immediate medical attention.",
+      "4. Persistent Vomiting: Severe or persistent vomiting can lead to dehydration. If a child with chickenpox is unable to keep fluids down, medical help is needed.",
+      "5. Stiff Neck or Severe Headache: These symptoms could indicate meningitis, a rare but serious complication of chickenpox. If a child complains of a stiff neck, severe headache, or has difficulty moving their neck, seek medical attention promptly.",
+      "6. Drowsiness or Confusion: If the child becomes unusually drowsy, lethargic, or confused, it may be a sign of a more serious complication and requires immediate medical evaluation.",
+      "7. Persistent Cough or Shortness of Breath: If the child develops a persistent cough or experiences difficulty breathing, it could be a sign of respiratory complications that require medical attention.",
+      "8. Seizures: Seizures can occur as a rare complication of chickenpox. If a child experiences seizures, seek emergency medical help."
+    ],
+    "Initial management": [
+      {
+        "Prophylaxis (Prevention)": [
+          "1. Vaccination:   - The most effective way to prevent chickenpox is through vaccination. The varicella vaccine is routinely recommended for children and is typically administered in two doses. The first dose is usually given at 12-15 months of age, and the second dose at 4-6 years.",
+          "2. Varicella Zoster Immune Globulin (VZIG):   - VZIG is a product containing antibodies against the varicella-zoster virus. It may be recommended for certain high-risk individuals, such as immunocompromised children or pregnant women, who have been exposed to chickenpox."
+        ]
+      },
+      {
+        "Treatment": [
+          "1. Symptomatic Relief:   - Over-the-counter medications such as acetaminophen (paracetamol) can help reduce fever and alleviate pain.  - Avoid the use of aspirin in children with chickenpox due to the risk of Reye's syndrome, a rare but serious condition.",
+          "2. Itch Relief:   - Calamine lotion or oatmeal baths can be used to soothe itching. Keeping fingernails short can prevent scratching and reduce the risk of bacterial infections.",
+          "3. Hydration:   - Ensure the child stays well-hydrated by encouraging them to drink plenty of fluids, especially if there is a fever.",
+          "4. Rest:   - Allow the child to rest to support the body's natural healing process.",
+          "5. Isolation:   - Keep the child isolated from others, especially pregnant women, infants, and individuals with weakened immune systems, to prevent the spread of the virus.",
+          "6. Antiviral Medications:   - In certain cases, antiviral medications (such as acyclovir) may be prescribed, particularly for children at higher risk of severe illness or complications."
+        ]
+      }
+    ],
+    "Do Or Not to Do": {
+      "What to Do": [
+        "1. Isolate the Child:   - Keep the infected child away from other children, especially those who have not had chickenpox or been vaccinated against it.",
+        "2. Provide Comfort Measures:   - Use over-the-counter creams or lotions to help relieve itching.   - Trim the child's fingernails to minimize the risk of scratching and bacterial infection.",
+        "3. Fever Control:   - Use acetaminophen (paracetamol) to control fever and discomfort. Avoid using aspirin, especially in children recovering from viral infections, as it has been linked to a rare but serious condition called Reye's syndrome.",
+        "4. Hydration:   - Encourage the child to drink plenty of fluids to stay hydrated, especially if there is a fever.",
+        "5. Rest:   - Ensure the child gets adequate rest during the illness.",
+        "6. Consult a Healthcare Professional:   - If you suspect your child has chickenpox, consult a healthcare professional for a proper diagnosis and guidance."
+      ],
+      "What Not to Do": [
+        "1. Avoid Non-steroidal Anti-Inflammatory Drugs (NSAIDs):   - Avoid giving NSAIDs (like ibuprofen) unless directed by a healthcare professional, as they may increase the risk of skin infections.",
+        "2. Don't Scratch:   - Discourage the child from scratching the pox, as it can lead to scarring and increase the risk of bacterial infection.",
+        "3. Avoid Aspirin:   - As mentioned earlier, avoid giving aspirin to children with chickenpox.",
+        "4. Limit Exposure:   - Do not expose the child to pregnant women who have not had chickenpox or the vaccine, as the virus can be harmful to the unborn child.",
+        "5. Do Not Use Aspirin Products:   - Avoid using products containing aspirin, as this has been associated with Reye's syndrome in children with viral infections.",
+        "6. Don't Self-Medicate:   - Do not self-diagnose or self-medicate without consulting a healthcare professional."
+      ]
+    }
+  }
+}]
