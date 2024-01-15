@@ -74,8 +74,7 @@ ls -l MedicalInfoDB/import.sh
 ```
 you suppose to see the following output
 
-![Alt text](image.png)
-
+![Alt text](image-1.png)
 ### running docker compose
 now its time to run the compose file
 ```bash
@@ -84,7 +83,7 @@ docker compose up -d
 Now you can go to http://localhost/docs
 
 You will see the automatic interactive API documentation (provided by Swagger UI):
-![Alt text](image-1.png)
+![Alt text](image-2.png)
 
 if you want to close the container run the following commadn
 
