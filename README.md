@@ -73,9 +73,9 @@ to check that you have the permission run the following command
 ls -l MedicalInfoDB/import.sh
 ```
 you suppose to see the following output
-```
+
 ![Alt text](image.png)
-```
+
 ### running docker compose
 now its time to run the compose file
 ```bash
