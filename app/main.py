@@ -24,7 +24,7 @@ def get_main_category():
 
 # route that will return the collection name
 @app.get(
-    "/diseases", response_model=List[schemas.IllnessCategory], tags=["disease Category"]
+    "/diseases", response_model=List[schemas.IllnessCategory], tags=["Illness Category"]
 )
 def get_category():
     return medical_info.get_illnesses_types()
