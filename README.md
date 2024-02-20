@@ -100,8 +100,8 @@ navigate to import.sh file that is exist in MedicalInfoDB folder
 
     *.*Click on it and select "LF" (Unix) as the line ending format.
 
-    ![alt text](image.png)
-    
+    ![alt text](image-4.png)
+
 3. *Save the File*: After changing the line endings, save the file.
 
 
