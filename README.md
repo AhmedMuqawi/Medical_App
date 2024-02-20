@@ -60,6 +60,7 @@ This repository contains a FastAPI-based application for managing medical inform
 - `medical_app/README.md`: readme file.
 
 navigate to the working directory of this project 
+
 for linux
 ```bash
 cd path/to/Medical_app/
