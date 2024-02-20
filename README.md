@@ -91,18 +91,18 @@ navigate to import.sh file that is exist in MedicalInfoDB folder
 ```bash
 .\MedicalInfoDB\import.sh
 ```
-1. *Open the Script File*: Open your script file (`import.sh`) in Visual Studio Code.
+1. **Open the Script File**: Open your script file (`import.sh`) in Visual Studio Code.
 
-2. *Change Line Endings*:
+2. **Change Line Endings**:
 
-    *.*Go to the bottom right corner of the window where it says the file encoding (e.g., UTF-8).
+    *Go to the bottom right corner of the window where it says the file encoding (e.g., UTF-8).
     ![Alt text](image-1.png)
 
-    *.*Click on it and select "LF" (Unix) as the line ending format.
+    *Click on it and select "LF" (Unix) as the line ending format.
 
     ![alt text](image-4.png)
 
-3. *Save the File*: After changing the line endings, save the file.
+3. **Save the File**: After changing the line endings, save the file.
 
 
 ### running docker compose
