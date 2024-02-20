@@ -97,8 +97,11 @@ navigate to import.sh file that is exist in MedicalInfoDB folder
 
     *.*Go to the bottom right corner of the window where it says the file encoding (e.g., UTF-8).
     ![Alt text](image-1.png)
+
     *.*Click on it and select "LF" (Unix) as the line ending format.
+
     ![alt text](image.png)
+    
 3. *Save the File*: After changing the line endings, save the file.
 
 
