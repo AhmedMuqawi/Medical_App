@@ -32,9 +32,9 @@ def test_get_main_category():
     assert response.status_code == 200
 
 
-# def test_get_category():
-#     response = client.get("/diseases")
-#     assert response.status_code == 200
+def test_get_category():
+    response = client.get("/diseases")
+    assert response.status_code == 200
 
 
 def test_get_git_diseases():
@@ -61,9 +61,9 @@ def test_get_miscellaneous_disease_info():
         assert response.status_code == 200
 
 
-# def test_get_Emergency_diseases():
-#     response = client.get("/Emergency")
-#     assert response.status_code == 200
+def test_get_Emergency_diseases():
+    response = client.get("/Emergency")
+    assert response.status_code == 200
 
 
 def test_get_Emergency_disease_info():

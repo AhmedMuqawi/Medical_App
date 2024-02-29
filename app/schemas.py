@@ -2,27 +2,22 @@ from pydantic import BaseModel
 from typing import List, Dict, Union
 
 
+# create pydantic model for the category info
+class MedicalCategory(BaseModel):
+    medical_category_name: str
+    medical_category_image: str
 
 
 # create pydantic model for the collection name and photo
 class DiseaseCategory(BaseModel):
-    disease_name: str
-    disease_image: str
+    disease_type: str
+    disease_type_image: str
 
 
 # create pydantic model for the document name
 class DiseaseNames(BaseModel):
     disease_name: str
     disease_image: str
-
-
-# create pydantic model for the category info
-class MedicalCategory(BaseModel):
-    medical_category_name: str
-    medical_category_image: str
-    # data: Union[ List[DiseaseCategory],List[DiseaseNames] ]
-    data: List[DiseaseCategory]|List[DiseaseNames]
-
 
 
 # create pydantic model for the fields
