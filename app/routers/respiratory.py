@@ -7,15 +7,15 @@ router = APIRouter(prefix="/respiratory", tags=["Respiratory diseases"])
 collection_name = "Respiratory Diseases"
 
 
-# get a list of illnesses name
-@router.get("/", response_model=List[schemas.IllnessNames])
-def read_illnesses():
-    illnesses = medical_info.get_illnesses_names(collection_name)
-    return illnesses
+# get a list of diseases name
+@router.get("/", response_model=List[schemas.DiseaseNames])
+def read_diseases():
+    diseases = medical_info.get_diseases_names(collection_name)
+    return diseases
 
 
-# get a specific illness information
-@router.get("/{illness_name}", response_model=schemas.MedicalInformation)
-def read_illness_info(illness_name: str):
-    illness_info = medical_info.get_illness_info(collection_name, illness_name)
-    return illness_info
+# get a specific disease information
+@router.get("/{disease_name}", response_model=schemas.MedicalInformation)
+def read_disease_info(disease_name: str):
+    disease_info = medical_info.get_disease_info(collection_name, disease_name)
+    return disease_info

@@ -9,15 +9,15 @@ class MedicalCategory(BaseModel):
 
 
 # create pydantic model for the collection name and photo
-class IllnessCategory(BaseModel):
-    illness_type: str
-    illness_type_image: str
+class DiseaseCategory(BaseModel):
+    disease_type: str
+    disease_type_image: str
 
 
 # create pydantic model for the document name
-class IllnessNames(BaseModel):
-    illness_name: str
-    illness_image: str
+class DiseaseNames(BaseModel):
+    disease_name: str
+    disease_image: str
 
 
 # create pydantic model for the fields

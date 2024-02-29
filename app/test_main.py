@@ -37,60 +37,60 @@ def test_get_category():
     assert response.status_code == 200
 
 
-def test_get_git_illnesses():
+def test_get_git_diseases():
     response = client.get("/GIT")
     assert response.status_code == 200
 
 
-def test_get_git_illness_info():
+def test_get_git_disease_info():
     items = collection_keys["GIT Diseases"]
     for item in items:
         response = client.get(f"/GIT/{item}")
         assert response.status_code == 200
 
 
-def test_get_miscellaneous_illnesses():
+def test_get_miscellaneous_diseases():
     response = client.get("/Miscellaneous")
     assert response.status_code == 200
 
 
-def test_get_miscellaneous_illness_info():
+def test_get_miscellaneous_disease_info():
     items = collection_keys["Miscellaneous"]
     for item in items:
         response = client.get(f"/Miscellaneous/{item}")
         assert response.status_code == 200
 
 
-def test_get_Emergency_illnesses():
+def test_get_Emergency_diseases():
     response = client.get("/Emergency")
     assert response.status_code == 200
 
 
-def test_get_Emergency_illness_info():
+def test_get_Emergency_disease_info():
     items = collection_keys["Pediatric Emergency"]
     for item in items:
         response = client.get(f"/Emergency/{item}")
         assert response.status_code == 200
 
 
-def test_get_respiratory_illnesses():
+def test_get_respiratory_diseases():
     response = client.get("/respiratory")
     assert response.status_code == 200
 
 
-def test_get_respiratory_illnesses_info():
+def test_get_respiratory_diseases_info():
     items = collection_keys["Respiratory Diseases"]
     for item in items:
         response = client.get(f"/respiratory/{item}")
         assert response.status_code == 200
 
 
-def test_get_urinary_illnesses():
+def test_get_urinary_diseases():
     response = client.get("/Urinary")
     assert response.status_code == 200
 
 
-def test_get_urinary_illnesses_info():
+def test_get_urinary_diseases_info():
     items = collection_keys["Urinary Tract Diseases"]
     for item in items:
         response = client.get(f"/Urinary/{item}")

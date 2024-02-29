@@ -24,10 +24,10 @@ def get_main_category():
 
 # route that will return the collection name
 @app.get(
-    "/diseases", response_model=List[schemas.IllnessCategory], tags=["Medical Information"]
+    "/diseases", response_model=List[schemas.DiseaseCategory], tags=["Medical Information"]
 )
 def get_category():
-    return medical_info.get_illnesses_types()
+    return medical_info.get_diseases_types()
 
 
 # include the APIRouters for git, miscellaneous ,etc..
