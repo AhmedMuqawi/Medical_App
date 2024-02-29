@@ -15,21 +15,19 @@ def get_main_category():
     info = "Medical Information"
     emergency_photo = medical_info.get_image(emergency)
     info_photo = medical_info.get_image(info)
-    emergency_data = medical_info.get_diseases_names(emergency)
-    info_data = medical_info.get_diseases_types()
     main_category = [
-        {"medical_category_name": emergency, "medical_category_image": emergency_photo, "data": emergency_data},
-        {"medical_category_name": info, "medical_category_image": info_photo, "data": info_data},
+        {"medical_category_name": emergency, "medical_category_image": emergency_photo},
+        {"medical_category_name": info, "medical_category_image": info_photo},
     ]
     return main_category
 
 
-# # route that will return the collection name
-# @app.get(
-#     "/diseases", response_model=List[schemas.DiseaseCategory], tags=["Medical Information"]
-# )
-# def get_category():
-#     return medical_info.get_diseases_types()
+# route that will return the collection name
+@app.get(
+    "/diseases", response_model=List[schemas.DiseaseCategory], tags=["Medical Information"]
+)
+def get_category():
+    return medical_info.get_diseases_types()
 
 
 # include the APIRouters for git, miscellaneous ,etc..
