@@ -6,8 +6,8 @@ from typing import List, Dict, Union
 
 # create pydantic model for the collection name and photo
 class DiseaseCategory(BaseModel):
-    disease_type: str
-    disease_type_image: str
+    disease_name: str
+    disease_image: str
 
 
 # create pydantic model for the document name
