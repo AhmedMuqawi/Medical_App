@@ -113,7 +113,7 @@
         "8. Regular Monitoring:   - Schedule regular check-ups to monitor the child's hemoglobin levels and iron status.",
         "9. Education and Support:   - Educate parents and caregivers about the importance of maintaining a nutritious diet and, when necessary, adhering to the prescribed iron supplementation regimen."
       ],
-      "Not to Do": [
+      "Do Not": [
         "1. Self-Diagnosis and Treatment:   - Avoid attempting to diagnose or treat iron deficiency anemia without professional guidance. It's important to get a proper diagnosis and treatment plan from a healthcare provider.",
         "2. Excessive Milk Consumption:   - Limit the intake of cow's milk for toddlers and young children to avoid interference with iron absorption. Follow the recommendations of healthcare professionals regarding appropriate milk intake.",
         "3. Ignoring Symptoms:   - Don't ignore signs and symptoms of anemia. If you notice fatigue, paleness, or other concerning symptoms, seek medical advice promptly.",
@@ -162,7 +162,7 @@
       }
     ],
     "Do Or Not to Do": {
-      "What to Do": [
+      "Do": [
         "1. Isolate the Child:   - Keep the infected child away from other children, especially those who have not had chickenpox or been vaccinated against it.",
         "2. Provide Comfort Measures:   - Use over-the-counter creams or lotions to help relieve itching.   - Trim the child's fingernails to minimize the risk of scratching and bacterial infection.",
         "3. Fever Control:   - Use acetaminophen (paracetamol) to control fever and discomfort. Avoid using aspirin, especially in children recovering from viral infections, as it has been linked to a rare but serious condition called Reye's syndrome.",
@@ -170,7 +170,7 @@
         "5. Rest:   - Ensure the child gets adequate rest during the illness.",
         "6. Consult a Healthcare Professional:   - If you suspect your child has chickenpox, consult a healthcare professional for a proper diagnosis and guidance."
       ],
-      "What Not to Do": [
+      "Do Not": [
         "1. Avoid Non-steroidal Anti-Inflammatory Drugs (NSAIDs):   - Avoid giving NSAIDs (like ibuprofen) unless directed by a healthcare professional, as they may increase the risk of skin infections.",
         "2. Don't Scratch:   - Discourage the child from scratching the pox, as it can lead to scarring and increase the risk of bacterial infection.",
         "3. Avoid Aspirin:   - As mentioned earlier, avoid giving aspirin to children with chickenpox.",
