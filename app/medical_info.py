@@ -22,7 +22,7 @@ def get_diseases_types() -> List[schemas.DiseaseCategory]:
         if collection_name not in excepts:
             image_url = get_image(collection_name)
             disease_data = schemas.DiseaseCategory(
-                disease_type=collection_name, disease_type_image=image_url
+                disease_type=collection_name, disease_type_image=image_url, diseases=get_diseases_names(collection_name)
             )
             disease_types_with_images.append(disease_data)
 
