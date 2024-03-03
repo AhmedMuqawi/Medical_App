@@ -8,16 +8,17 @@ class MedicalCategory(BaseModel):
     medical_category_image: str
 
 
-# create pydantic model for the collection name and photo
-class DiseaseCategory(BaseModel):
-    disease_type: str
-    disease_type_image: str
-
-
 # create pydantic model for the document name
 class DiseaseNames(BaseModel):
     disease_name: str
     disease_image: str
+
+
+# create pydantic model for the collection name and photo
+class DiseaseCategory(BaseModel):
+    disease_type: str
+    disease_type_image: str
+    diseases: List[DiseaseNames]
 
 
 # create pydantic model for the fields

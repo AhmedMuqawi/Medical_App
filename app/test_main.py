@@ -37,9 +37,9 @@ def test_get_category():
     assert response.status_code == 200
 
 
-def test_get_git_diseases():
-    response = client.get("/GIT")
-    assert response.status_code == 200
+# def test_get_git_diseases():
+#     response = client.get("/GIT")
+#     assert response.status_code == 200
 
 
 def test_get_git_disease_info():
@@ -49,9 +49,9 @@ def test_get_git_disease_info():
         assert response.status_code == 200
 
 
-def test_get_miscellaneous_diseases():
-    response = client.get("/Miscellaneous")
-    assert response.status_code == 200
+# def test_get_miscellaneous_diseases():
+#     response = client.get("/Miscellaneous")
+#     assert response.status_code == 200
 
 
 def test_get_miscellaneous_disease_info():
@@ -73,9 +73,9 @@ def test_get_Emergency_disease_info():
         assert response.status_code == 200
 
 
-def test_get_respiratory_diseases():
-    response = client.get("/respiratory")
-    assert response.status_code == 200
+# def test_get_respiratory_diseases():
+#     response = client.get("/respiratory")
+#     assert response.status_code == 200
 
 
 def test_get_respiratory_diseases_info():
@@ -85,9 +85,9 @@ def test_get_respiratory_diseases_info():
         assert response.status_code == 200
 
 
-def test_get_urinary_diseases():
-    response = client.get("/Urinary")
-    assert response.status_code == 200
+# def test_get_urinary_diseases():
+#     response = client.get("/Urinary")
+#     assert response.status_code == 200
 
 
 def test_get_urinary_diseases_info():
