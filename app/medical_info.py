@@ -1,6 +1,7 @@
 from . import database
 from typing import List, Dict
 from . import schemas
+from bson.objectid import ObjectId
 
 db = database.db
 
@@ -47,9 +48,14 @@ def get_diseases_names(collection_name: str) -> List[schemas.DiseaseNames]:
     return disease_names_with_images
 
 
-def get_disease_info(collection_name: str, document_key: str) -> Dict:
-    collection = db[collection_name]
-    info = collection.distinct(document_key)[0]
+def get_disease_info(collection_name: str, id: str) -> Dict:
+    collection = db.get_collection(collection_name)
+    # print(collection)
+    info = collection.find_one({"_id": ObjectId(id)}, projection={"_id": 0})
+    key = list(info.keys())[0]
+    print(key)
+    info = info[key]
+    # print(info)
     # print(type(info))
     formatted_data = {
         "Symptoms": info["Symptoms"],
@@ -58,6 +64,7 @@ def get_disease_info(collection_name: str, document_key: str) -> Dict:
         "Do_Or_Not": info["Do Or Not to Do"],
     }
     return schemas.MedicalInformation(**formatted_data)
+    # return None
 
 
 # print(get_diseases_types())
@@ -70,7 +77,7 @@ def get_disease_info(collection_name: str, document_key: str) -> Dict:
 #         print(k)
 #     print("*" * 50)
 # print(get_diseases_names("Pediatric Emergency"))
-# print(get_disease_info("Urinary_Tract_diseases", "Urinary Tract Infection"))
+# print(get_disease_info("Miscellaneous", "65e4a4c18bdb9e941ec816a4"))
 # print(get_image("Pediatric Emergency"))
 # print(len(get_diseases_types()))
 # temp = get_diseases_types()

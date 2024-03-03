@@ -15,7 +15,7 @@ def read_diseases():
 
 
 # get a specific disease information
-@router.get("/{disease_name}", response_model=schemas.MedicalInformation)
-def read_disease_info(disease_name: str):
-    disease_info = medical_info.get_disease_info(collection_name, disease_name)
+@router.get("/{disease_id}", response_model=schemas.MedicalInformation)
+def read_disease_info(disease_id: str):
+    disease_info = medical_info.get_disease_info(collection_name, disease_id)
     return disease_info

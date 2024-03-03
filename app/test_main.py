@@ -7,11 +7,13 @@ client = TestClient(app)
 
 db = database.db
 
+excepts = "Photos"
+
 # Get the collection names
 collection_names = db.list_collection_names()
 
 # Create a dictionary to store collection names and their document keys
-collection_keys = {}
+documents_id = {}
 
 # Iterate through collections
 for collection_name in collection_names:
@@ -23,8 +25,8 @@ for collection_name in collection_names:
 
     # Exclude _id field from the document keys
     if sample_document:
-        keys_without_id = [key for key in sample_document.keys() if key != "_id"]
-        collection_keys[collection_name] = keys_without_id
+        id = [value for value in sample_document.values() if value == "_id"]
+        documents_id[collection_name] = id
 
 
 def test_get_main_category():
@@ -42,11 +44,12 @@ def test_get_category():
 #     assert response.status_code == 200
 
 
-def test_get_git_disease_info():
-    items = collection_keys["GIT Diseases"]
-    for item in items:
-        response = client.get(f"/GIT/{item}")
-        assert response.status_code == 200
+def test_get_disease_info():
+    for collection in collection_names:
+        items = documents_id[collection]
+        for item in items:
+            response = client.get(f"/{collection}?{item}")
+            assert response.status_code == 200
 
 
 # def test_get_miscellaneous_diseases():
@@ -54,20 +57,20 @@ def test_get_git_disease_info():
 #     assert response.status_code == 200
 
 
-def test_get_miscellaneous_disease_info():
-    items = collection_keys["Miscellaneous"]
-    for item in items:
-        response = client.get(f"/Miscellaneous/{item}")
-        assert response.status_code == 200
+# def test_get_miscellaneous_disease_info():
+#     items = collection_keys["Miscellaneous"]
+#     for item in items:
+#         response = client.get(f"/Miscellaneous/{item}")
+#         assert response.status_code == 200
 
 
 def test_get_Emergency_diseases():
-    response = client.get("/Emergency")
+    response = client.get("/Emergency/")
     assert response.status_code == 200
 
 
 def test_get_Emergency_disease_info():
-    items = collection_keys["Pediatric Emergency"]
+    items = documents_id["Pediatric Emergency"]
     for item in items:
         response = client.get(f"/Emergency/{item}")
         assert response.status_code == 200
@@ -78,11 +81,11 @@ def test_get_Emergency_disease_info():
 #     assert response.status_code == 200
 
 
-def test_get_respiratory_diseases_info():
-    items = collection_keys["Respiratory Diseases"]
-    for item in items:
-        response = client.get(f"/respiratory/{item}")
-        assert response.status_code == 200
+# def test_get_respiratory_diseases_info():
+#     items = collection_keys["Respiratory Diseases"]
+#     for item in items:
+#         response = client.get(f"/respiratory/{item}")
+#         assert response.status_code == 200
 
 
 # def test_get_urinary_diseases():
@@ -90,8 +93,8 @@ def test_get_respiratory_diseases_info():
 #     assert response.status_code == 200
 
 
-def test_get_urinary_diseases_info():
-    items = collection_keys["Urinary Tract Diseases"]
-    for item in items:
-        response = client.get(f"/Urinary/{item}")
-        assert response.status_code == 200
+# def test_get_urinary_diseases_info():
+#     items = collection_keys["Urinary Tract Diseases"]
+#     for item in items:
+#         response = client.get(f"/Urinary/{item}")
+#         assert response.status_code == 200

@@ -32,7 +32,12 @@ def get_category():
 
 # include the APIRouters for git, miscellaneous ,etc..
 app.include_router(pediatric.router)
-app.include_router(git.router)
-app.include_router(respiratory.router)
-app.include_router(urinary.router)
-app.include_router(miscellaneous.router)
+@app.get("/{disease_type}", response_model=schemas.MedicalInformation, tags=["diseases information"])
+def read_disease_info(disease_type: str,disease_id):
+    disease_info = medical_info.get_disease_info(disease_type, disease_id)
+    return disease_info
+
+# app.include_router(git.router)
+# app.include_router(respiratory.router)
+# app.include_router(urinary.router)
+# app.include_router(miscellaneous.router)
