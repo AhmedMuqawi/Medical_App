@@ -12,6 +12,7 @@ class MedicalCategory(BaseModel):
 class DiseaseNames(BaseModel):
     disease_name: str
     disease_image: str
+    ID: str
 
 
 # create pydantic model for the collection name and photo

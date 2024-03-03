@@ -31,16 +31,18 @@ def get_diseases_types() -> List[schemas.DiseaseCategory]:
 
 def get_diseases_names(collection_name: str) -> List[schemas.DiseaseNames]:
     collection = db.get_collection(collection_name)
-    documents = list(collection.find({}, {"_id": 0}))
+    documents = list(collection.find({}))
     disease_names_with_images = []
-
+    
     for doc in documents:
-        for disease_name, _ in doc.items():
-            image_url = get_image(disease_name)
-            disease_data = schemas.DiseaseNames(
-                disease_name=disease_name, disease_image=image_url
-            )
-            disease_names_with_images.append(disease_data)
+        id = list(doc.keys())[0]
+        disease_name = list(doc.keys())[1]
+        # print(f"id = {doc[id]},disease_name = {disease_name}")
+        image_url = get_image(disease_name)
+        disease_data = schemas.DiseaseNames(
+            disease_name=disease_name, disease_image=image_url, ID=str(doc[id])
+        )
+        disease_names_with_images.append(disease_data)
 
     return disease_names_with_images
 
@@ -67,7 +69,7 @@ def get_disease_info(collection_name: str, document_key: str) -> Dict:
 #     for k in j:
 #         print(k)
 #     print("*" * 50)
-# print(get_diseases_names("Pediatric_Emergency"))
+# print(get_diseases_names("Pediatric Emergency"))
 # print(get_disease_info("Urinary_Tract_diseases", "Urinary Tract Infection"))
 # print(get_image("Pediatric Emergency"))
 # print(len(get_diseases_types()))
