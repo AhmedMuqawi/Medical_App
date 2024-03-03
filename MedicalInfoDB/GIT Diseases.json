@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "659bd44eeafe58b3356a5138"
+    "$oid": "65e4a539c3ab90d9b365d218"
   },
   "Gastroenteritis": {
     "Symptoms": [
@@ -42,6 +42,11 @@
         "4. Use Anti-diarrheal Medications: These are generally not recommended for children without consulting a healthcare professional."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a539c3ab90d9b365d219"
   },
   "Aphthous ulcer": {
     "Symptoms": [
@@ -93,6 +98,11 @@
         "4. Ignore severe or persistent symptoms: If the ulcers are severe, persistent, or if your child is having difficulty eating or drinking, consult with a healthcare professional for further evaluation and guidance."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a539c3ab90d9b365d21a"
   },
   "GERD": {
     "Symptoms": [
@@ -158,6 +168,11 @@
         "4. Ignore Symptoms: If your child continues to experience symptoms, don't ignore them. Follow up with the pediatrician for further evaluation."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a539c3ab90d9b365d21b"
   },
   "Parasitic Infestation": {
     "Symptoms": [
@@ -204,6 +219,11 @@
         "4. Neglect hygiene practices: Reinforce the importance of hygiene, including regular handwashing and maintaining a clean living environment, to prevent the spread of parasites."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a539c3ab90d9b365d21c"
   },
   "Infantile colic": {
     "Symptoms": [

@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "659bd573eafe58b3356a5140"
+    "$oid": "65e4a4c18bdb9e941ec816a4"
   },
   "Urticaria": {
     "Symptoms": [
@@ -59,6 +59,11 @@
         "5. Assume Hives Will Resolve on Their Own: While urticaria can be self-limiting, it's essential to seek medical advice, especially if the condition is persistent, severe, or associated with other concerning symptoms"
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4c18bdb9e941ec816a5"
   },
   "Iron Deficiency Anemia": {
     "Symptoms": [
@@ -122,6 +127,11 @@
         "6. Ignoring Follow-Up Appointments:   - Regular follow-up appointments are crucial to monitor the child's response to treatment. Do not skip or ignore these appointments."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4c18bdb9e941ec816a6"
   },
   "Chicken Pox": {
     "Symptoms": [

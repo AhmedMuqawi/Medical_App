@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "659bd496eafe58b3356a513c"
+    "$oid": "65e4a50c402042be5560eed6"
   },
   "Common Cold": {
     "Symptoms": [
@@ -63,6 +63,11 @@
         "7. Avoid Dairy Products Before Bed: Some children may produce more mucus after consuming dairy products, so you might consider avoiding them before bedtime if your child has a cough."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a50c402042be5560eed7"
   },
   "Allergic Rhinitis": {
     "Symptoms": [
@@ -124,6 +129,11 @@
         "5. Don't Ignore Symptoms: Seek advice from a healthcare professional if your child's symptoms persist or worsen."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a50c402042be5560eed8"
   },
   "Acute Otitis Media": {
     "Symptoms": [
@@ -187,6 +197,11 @@
         "6. Excessive Noise Exposure: Protect the child's ears from loud noises to prevent increased pain."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a50c402042be5560eed9"
   },
   "Acute Bronchitis": {
     "Symptoms": [
@@ -236,6 +251,11 @@
         "6. Don't Overuse Bronchodilators: - Bronchodilators (inhaled medications that open up the airways) are generally not recommended for routine use in acute bronchitis unless there is a specific indication."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a50c402042be5560eeda"
   },
   "Tonsilitis": {
     "Symptoms": [

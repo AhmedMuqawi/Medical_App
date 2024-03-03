@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "659bd47aeafe58b3356a513a"
+    "$oid": "65e4a4ef8ed0c5d25deaf4ed"
   },
   "Vomiting": {
     "Symptoms": [
@@ -60,6 +60,11 @@
         "6. Do Not Neglect Hygiene: Properly clean up any vomit to prevent the spread of infections, and practice good hygiene to minimize the risk of contamination."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4ee"
   },
   "Diarrhea": {
     "Symptoms": [
@@ -112,6 +117,11 @@
         "5. Delay Medical Attention: If there are concerning symptoms or if the child's condition worsens, don't hesitate to seek medical attention promptly."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4ef"
   },
   "Constipation": {
     "Symptoms": [
@@ -169,6 +179,11 @@
         "5. *Ignoring Diet:* Ensure your child has a balanced diet with sufficient fiber. Don't rely solely on medications without addressing dietary factors."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4f0"
   },
   "Febrile convulsion": {
     "Symptoms": [
@@ -226,6 +241,11 @@
         "5. *Assume Every Fever Leads to Seizures:* Not all fevers lead to seizures. Febrile seizures are relatively common, but not every child with a fever will experience them."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4f1"
   },
   "Epilepsy": {
     "Symptoms": [
@@ -275,6 +295,11 @@
         "5. *Exclude the Child:* Foster a supportive and inclusive environment at home and school."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4f2"
   },
   "Fever": {
     "Symptoms": [
@@ -336,6 +361,11 @@
         "6. *Ignore Other Symptoms:* If the child has other concerning symptoms, such as difficulty breathing, persistent vomiting, or signs of a more serious illness, don't ignore these signs. seek medical attention promptly."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4f3"
   },
   "Choking": {
     "Symptoms": [
@@ -386,6 +416,11 @@
         "5. *Offer Water or Fluids:* Avoid giving water or fluids to a choking child as it can worsen the situation."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4f4"
   },
   "Acute asthma": {
     "Symptoms": [
@@ -445,6 +480,11 @@
         "6. *Use Home Remedies:* Rely on prescribed medications during acute asthma attacks."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4f5"
   },
   "Burn": {
     "Symptoms": "",
@@ -490,6 +530,11 @@
         "6. *Delay Medical Attention:* Especially for severe burns or if unsure about care."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4f6"
   },
   "Corrosive Ingestion": {
     "Symptoms": [
@@ -535,6 +580,11 @@
         "5. *Do NOT Hesitate to Call for Help:* - If in doubt, don't hesitate to call for emergency assistance. It's better to err on the side of caution and let healthcare professionals assess the situation."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4f7"
   },
   "Bite": {
     "Symptoms": [
@@ -588,6 +638,11 @@
         "7. Neglect Follow-Up Care: If a healthcare professional provides specific instructions for follow-up care, such as wound care or medication, be sure to follow their recommendations."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a4ef8ed0c5d25deaf4f8"
   },
   "Epistaxis": {
     "Symptoms": [

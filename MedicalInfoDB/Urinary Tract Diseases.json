@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "659bd533eafe58b3356a513e"
+    "$oid": "65e4a523be0ff3d3fb9c88ea"
   },
   "Urinary Tract Infection": {
     "Symptoms": [
@@ -72,6 +72,11 @@
         "5. *Ignore Recurrent Symptoms:* If your child experiences recurrent UTIs, it's important not to ignore the issue."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a523be0ff3d3fb9c88eb"
   },
   "Nocturnal Enuresis": {
     "Symptoms": [
@@ -126,6 +131,11 @@
         "6. *Forget the Importance of Emotional Support:* - Emotional support is crucial. Don't underestimate the impact of bedwetting on a child's self-esteem and emotions."
       ]
     }
+  }
+},
+{
+  "_id": {
+    "$oid": "65e4a523be0ff3d3fb9c88ec"
   },
   "Anuria": {
     "Symptoms": [
