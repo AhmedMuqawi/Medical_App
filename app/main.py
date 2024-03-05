@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from typing import List
-from .routers import git, miscellaneous, pediatric, respiratory, urinary
+from .routers import git, miscellaneous, pediatric, respiratory, urinary, baby_cry
 from . import schemas
 from . import medical_info
  # for testing
@@ -41,3 +41,9 @@ def read_disease_info(disease_type: str,disease_id):
 # app.include_router(respiratory.router)
 # app.include_router(urinary.router)
 # app.include_router(miscellaneous.router)
+
+
+##################
+# baby_cry
+##################
+app.include_router(baby_cry.router)
