@@ -53,7 +53,7 @@ def get_disease_info(collection_name: str, id: str) -> Dict:
     # print(collection)
     info = collection.find_one({"_id": ObjectId(id)}, projection={"_id": 0})
     key = list(info.keys())[0]
-    print(key)
+    # print(key)
     info = info[key]
     # print(info)
     # print(type(info))
