@@ -12,7 +12,7 @@ with open(f"{BASE_DIR}/BabyCry.pkl","rb") as f:
 
 photo = {
     "tired" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1709667113/Photos/jctslebxolctwgsuras5.jpg",
-    "belly_pain" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1709667122/Photos/tcyaxoef4hww6lhwklzt.jpg",
+    "belly pain" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1709667122/Photos/tcyaxoef4hww6lhwklzt.jpg",
     "hungry" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1709667131/Photos/x7p2xw9hhs00yijhsoyt.jpg",
     "discomfort" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1709667141/Photos/dwjt39eidjg29abchtof.jpg",
     "burping" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1709667151/Photos/tftrw6gelgl1ucpy0ozb.jpg"
@@ -37,9 +37,11 @@ def Predicting_emotions(baby_cry_audio:UploadFile):
 
         # Make prediction
         prediction = model.predict([mfccs_mean])
+        if (prediction[0]=="belly_pain"):
+            prediction[0] = "belly pain"
 
         # Return prediction as string
-        return {"feeling" : prediction[0],
+        return {"feeling" : prediction[0].title(),
                 "photo" : photo[prediction[0]]
                 }
 
