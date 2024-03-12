@@ -24,7 +24,7 @@ class DiseaseCategory(BaseModel):
 
 # create pydantic model for the fields
 class MedicalInformation(BaseModel):
-    Symptoms: List[Union[str, dict]] | str = None
+    Symptoms: Union[List[Union[str, dict]] , str] = None
     Red_Flags: List[Union[str, dict]]
     Initial_Management: List[Union[str, dict]]
     Do_Or_Not: Dict[str, List[str]]
