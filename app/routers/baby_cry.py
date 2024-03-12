@@ -47,4 +47,4 @@ def Predicting_emotions(baby_cry_audio:UploadFile):
 
     except Exception as e:
         # Handle any potential errors during processing
-        return f"Error: {str(e)}"
+        return {"Error":str(e)}

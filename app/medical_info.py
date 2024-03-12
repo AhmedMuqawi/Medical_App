@@ -1,3 +1,5 @@
+import bson
+from fastapi.responses import JSONResponse
 from . import database
 from typing import List, Dict
 from . import schemas
@@ -51,19 +53,28 @@ def get_diseases_names(collection_name: str) -> List[schemas.DiseaseNames]:
 def get_disease_info(collection_name: str, id: str) -> Dict:
     collection = db.get_collection(collection_name)
     # print(collection)
-    info = collection.find_one({"_id": ObjectId(id)}, projection={"_id": 0})
-    key = list(info.keys())[0]
-    # print(key)
-    info = info[key]
-    # print(info)
-    # print(type(info))
-    formatted_data = {
-        "Symptoms": info["Symptoms"],
-        "Red_Flags": info["Red Flags"],
-        "Initial_Management": info["Initial management"],
-        "Do_Or_Not": info["Do Or Not to Do"],
-    }
-    return schemas.MedicalInformation(**formatted_data)
+    try:
+        info = collection.find_one({"_id": ObjectId(id)}, projection={"_id": 0})
+
+        key = list(info.keys())[0]
+        # print(key)
+        info = info[key]
+        # print(info)
+        # print(type(info))
+        formatted_data = {
+            "Symptoms": info["Symptoms"],
+            "Red_Flags": info["Red Flags"],
+            "Initial_Management": info["Initial management"],
+            "Do_Or_Not": info["Do Or Not to Do"],
+        }
+        return schemas.MedicalInformation(**formatted_data)
+    except (ValueError, KeyError, TypeError ) :
+        return JSONResponse(status_code=400, content={"Error": "Invalid input data"})
+    except AttributeError:
+        return JSONResponse(status_code=404, content={"Error": "Disease not found"})
+    except ConnectionError:
+        return JSONResponse(status_code=503, content={"Error": "Service unavailable"})
+
     # return None
 
 
