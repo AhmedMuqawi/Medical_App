@@ -11,9 +11,24 @@ from pymongo import MongoClient
 # client = MongoClient(mongoDB_url)
 
 
-##for develpoing
-mongoDB_url = "mongodb://127.0.0.1:27017/"
-client = MongoClient(mongoDB_url)
+# ##for develpoing
+# mongoDB_url = "mongodb://127.0.0.1:27017/"
+# client = MongoClient(mongoDB_url)
+
+##for server
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Get the MongoDB connection URI from environment variables
+MONGODB_URI = os.getenv("MONGODB_URI")
+
+if MONGODB_URI is None:
+    raise ValueError("MongoDB connection URI is not set in environment variables.")
+
+# Connect to the MongoDB database
+client = MongoClient(MONGODB_URI)
 
 # Access the database
 db = client["MedicalInfoDB"]
