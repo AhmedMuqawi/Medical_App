@@ -2,7 +2,7 @@ import uvicorn
 from os import getenv
 from fastapi import FastAPI
 from typing import List
-from .routers import  pediatric, baby_cry
+from .routers import  pediatric
 from . import schemas
 from . import medical_info
  # for testing
@@ -48,6 +48,6 @@ def read_disease_info(disease_type: str,disease_id):
 ##################
 # baby_cry
 ##################
-app.include_router(baby_cry.router)
+# app.include_router(baby_cry.router)
 
 
