@@ -1,3 +1,4 @@
+import uvicorn
 from fastapi import FastAPI
 from typing import List
 from .routers import git, miscellaneous, pediatric, respiratory, urinary, baby_cry
@@ -47,3 +48,6 @@ def read_disease_info(disease_type: str,disease_id):
 # baby_cry
 ##################
 app.include_router(baby_cry.router)
+
+if __name__ == "__main__":
+    uvicorn.run("main:app", host="0.0.0.0", port=8000)
