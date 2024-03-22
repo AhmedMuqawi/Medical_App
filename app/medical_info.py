@@ -1,9 +1,9 @@
-import bson
 from fastapi.responses import JSONResponse
 from . import database
 from typing import List, Dict
 from . import schemas
 from bson.objectid import ObjectId
+import random
 
 db = database.db
 
@@ -77,7 +77,24 @@ def get_disease_info(collection_name: str, id: str) -> Dict:
 
     # return None
 
+def get_advice(collection_name:str,maximum:int) ->Dict:
+    num = random.randint(1,maximum)
+    collection = db[collection_name]
+    query = {str(num): {"$exists": True}}
 
+    # Projection to include only the desired field
+    projection = {str(num): 1, "_id": 0}  # Include only the field with the key equal to the random number
+
+    # Find one document and return only the specified field
+    advice_field = collection.find_one(query, projection)
+
+    # Extract the value of the field
+    field_value = advice_field[str(num)] if advice_field else None
+
+    return field_value
+
+
+# print(get_advice("0-12 months",20))
 # print(get_diseases_types())
 # l = get_diseases_types()
 # for i in l:

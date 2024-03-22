@@ -30,14 +30,7 @@ class MedicalInformation(BaseModel):
     Do_Or_Not: Dict[str, List[str]]
 
 
-# for discussion
-# # create pydantic model for symptoms field
-
-
-# #create pydantic model for red falgs field
-
-
-# #create pydantic model for initial management field
-
-
-# #create pydantic model for do and not  field
+#create pydantic model for advices
+class advice(BaseModel):
+    what_to_say : str
+    info: dict

@@ -2,7 +2,7 @@ import uvicorn
 from os import getenv
 from fastapi import FastAPI
 from typing import List
-from .routers import  pediatric
+from .routers import  pediatric, advice
 from . import schemas
 from . import medical_info
  # for testing
@@ -32,22 +32,19 @@ def get_category():
     return medical_info.get_diseases_types()
 
 
-# include the APIRouters for git, miscellaneous ,etc..
+# include the APIRouters for pediatric emergency
 app.include_router(pediatric.router)
+#################
+#random_tips
+#################
+app.include_router(advice.router)
+
 @app.get("/{disease_type}", response_model=schemas.MedicalInformation, tags=["diseases information"])
 def read_disease_info(disease_type: str,disease_id):
     disease_info = medical_info.get_disease_info(disease_type, disease_id)
     return disease_info
 
-# app.include_router(git.router)
-# app.include_router(respiratory.router)
-# app.include_router(urinary.router)
-# app.include_router(miscellaneous.router)
 
 
-##################
-# baby_cry
-##################
-# app.include_router(baby_cry.router)
 
 
