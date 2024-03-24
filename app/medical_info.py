@@ -18,7 +18,7 @@ def get_image(image_name: str) -> str:
 
 def get_diseases_types() -> List[schemas.DiseaseCategory]:
     collections_list = db.list_collection_names()
-    excepts = ["Photos", "Pediatric Emergency"]
+    excepts = ["Photos", "Pediatric Emergency","0-12 months","1-3 years","3-5 years","5-7 years","General","Communication"]
     disease_types_with_images = []
 
     for collection_name in collections_list:

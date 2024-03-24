@@ -13,15 +13,15 @@ def get_random_tip():
         },
         "1-3 years":{
             "maximum":10,
-            "what_to_say":"Toddler Development(0-12 months)"
+            "what_to_say":"Toddler Development(1-3 years)"
         },
         "3-5 years":{
             "maximum":15,
-            "what_to_say":"Early Childhood(0-12 months)"
+            "what_to_say":"Early Childhood(3-5 years)"
         },
         "5-7 years":{
             "maximum":10,
-            "what_to_say":"Perschool Age(0-12 months)"
+            "what_to_say":"Perschool Age(5-7 years)"
         },
         "General":{
             "maximum":26,
@@ -36,6 +36,7 @@ def get_random_tip():
     random_value = medical_info.get_advice(random_key,collections[random_key]["maximum"])
     tip = {
         "what_to_say":collections[random_key]["what_to_say"],
-        "info":random_value
+        "info":list(random_value.values())[0],
+        "topic":list(random_value.keys())[0]
         }
     return tip

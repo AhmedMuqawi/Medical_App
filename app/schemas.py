@@ -33,4 +33,5 @@ class MedicalInformation(BaseModel):
 #create pydantic model for advices
 class advice(BaseModel):
     what_to_say : str
-    info: dict
+    info: str
+    topic: str
