@@ -35,3 +35,21 @@ class advice(BaseModel):
     what_to_say : str
     info: str
     topic: str
+
+
+
+##############################################
+# bookmarks schemas
+##############################################
+class retrieve_bookmark(BaseModel):
+    chat_response_id : str
+    chat_response : str
+
+class create_bookmark(BaseModel):
+    user_id : str
+    chat_response : str
+
+# class bookmark(BaseModel):
+#     chat_response_id : str
+#     chat_response : str
+

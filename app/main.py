@@ -2,12 +2,18 @@ import uvicorn
 from os import getenv
 from fastapi import FastAPI
 from typing import List
-from .routers import  pediatric, advice
+from .routers import  pediatric, advice, bookmark
 from . import schemas
 from . import medical_info
  # for testing
 
 app = FastAPI()
+
+################
+# bookmark
+################
+app.include_router(bookmark.router)
+
 
 
 # route that will return the collection name

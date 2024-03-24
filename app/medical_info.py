@@ -1,3 +1,4 @@
+import hashlib
 from fastapi.responses import JSONResponse
 from . import database
 from typing import List, Dict
@@ -93,6 +94,63 @@ def get_advice(collection_name:str,maximum:int) ->Dict:
 
     return field_value
 
+
+###########################
+# book mark
+###########################
+bookmark_collection = database.db_2["bookmarks"]
+
+def add_string(id:str, string:str):
+    # Generate a unique ID for the string based on its hash
+    string_id = hashlib.sha256(string.encode()).hexdigest()
+
+    # Update the document with the given ID or insert a new document
+    bookmark_collection.update_one(
+        {"_id": id},
+        {"$addToSet": {"strings": {"id": string_id, "value": string}}},
+        upsert=True
+    )
+    return string_id
+
+
+def get_strings_by_id(id:str):
+
+    # Find the document with the given ID
+    result = bookmark_collection.find_one({"_id": id})
+
+    # If the document exists, return the list of strings, otherwise return an empty list
+    if result:
+        return result.get("strings", [])
+    else:
+        return None
+
+def delete_string(id, string_id):
+    # Remove the string with the given ID from the document
+    bookmark_collection.update_one(
+        {"_id": id},
+        {"$pull": {"strings": {"id": string_id}}}
+    )
+
+
+# # Example usage
+# id_from_user = "unique_id"
+# string_from_user = "some string"
+
+# # Add the string and get its ID
+# string_id = add_string(id_from_user, string_from_user)
+# print("Added string with ID:", string_id)
+
+# # Get the string using its ID
+# retrieved_string = get_strings_by_id(id_from_user)
+# print("Retrieved string:", retrieved_string)
+
+# # Delete the string using its ID
+# delete_string(id_from_user, string_id)
+# print("String deleted.")
+
+# # Verify deletion
+# retrieved_string = get_strings_by_id(id_from_user)
+# print("Retrieved string after deletion:", retrieved_string)
 
 # print(get_advice("0-12 months",20))
 # print(get_diseases_types())
