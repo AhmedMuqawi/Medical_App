@@ -39,11 +39,6 @@ def test_get_category():
     assert response.status_code == 200
 
 
-# def test_get_git_diseases():
-#     response = client.get("/GIT")
-#     assert response.status_code == 200
-
-
 def test_get_disease_info():
     for collection in collection_names:
         items = documents_id[collection]
@@ -51,17 +46,6 @@ def test_get_disease_info():
             response = client.get(f"/{collection}?{item}")
             assert response.status_code == 200
 
-
-# def test_get_miscellaneous_diseases():
-#     response = client.get("/Miscellaneous")
-#     assert response.status_code == 200
-
-
-# def test_get_miscellaneous_disease_info():
-#     items = collection_keys["Miscellaneous"]
-#     for item in items:
-#         response = client.get(f"/Miscellaneous/{item}")
-#         assert response.status_code == 200
 
 
 def test_get_Emergency_diseases():
@@ -75,26 +59,6 @@ def test_get_Emergency_disease_info():
         response = client.get(f"/Emergency/{item}")
         assert response.status_code == 200
 
-
-# def test_get_respiratory_diseases():
-#     response = client.get("/respiratory")
-#     assert response.status_code == 200
-
-
-# def test_get_respiratory_diseases_info():
-#     items = collection_keys["Respiratory Diseases"]
-#     for item in items:
-#         response = client.get(f"/respiratory/{item}")
-#         assert response.status_code == 200
-
-
-# def test_get_urinary_diseases():
-#     response = client.get("/Urinary")
-#     assert response.status_code == 200
-
-
-# def test_get_urinary_diseases_info():
-#     items = collection_keys["Urinary Tract Diseases"]
-#     for item in items:
-#         response = client.get(f"/Urinary/{item}")
-#         assert response.status_code == 200
+def test_get_random_tip():
+    response = client.get("/tip")
+    assert response.status_code == 200

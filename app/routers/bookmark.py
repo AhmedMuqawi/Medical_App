@@ -15,13 +15,13 @@ async def add_bookmark(bookmark: schemas.create_bookmark):
 async def get_bookmarks(user_id: str):
     strings = medical_info.get_strings_by_id(user_id)
     if strings is None:
-        return JSONResponse(status_code=404, content={"Error": "Bookmarks not found"})
+        return []
     return [{"chat_response_id": string["id"], "chat_response": string["value"]} for string in strings]
 
-@router.delete("/delete/{user_id}/{string_id}/", response_model=schemas.retrieve_bookmark)
-async def delete_bookmark(user_id: str, string_id: str):
+@router.delete("/delete/{user_id}/{bookmark_id}/", response_model=schemas.delete_bookmark)
+async def delete_bookmark(user_id: str, bookmark_id: str):
     strings = medical_info.get_strings_by_id(user_id)
     if strings is None:
-        return JSONResponse(status_code=404, content={"Error": "Bookmarks not found"})
-    medical_info.delete_string(user_id, string_id)
-    return {"chat_response_id": string_id, "chat_response": "String deleted successfully"}
+        return JSONResponse(status_code=404, content={"Error": "Bookmark not found"})
+    result = medical_info.delete_string(user_id, bookmark_id)
+    return result

@@ -8,7 +8,7 @@ router = APIRouter()
 def get_random_tip():
     collections = {
         "0-12 months":{
-            "maximum":20,
+            "maximum":20, # number of tips in data base
             "what_to_say":"Infant Development(0-12 months)"
         },
         "1-3 years":{

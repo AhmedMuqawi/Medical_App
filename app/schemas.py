@@ -30,6 +30,7 @@ class MedicalInformation(BaseModel):
     Do_Or_Not: Dict[str, List[str]]
 
 
+
 #create pydantic model for advices
 class advice(BaseModel):
     what_to_say : str
@@ -46,10 +47,10 @@ class retrieve_bookmark(BaseModel):
     chat_response : str
 
 class create_bookmark(BaseModel):
-    user_id : str
-    chat_response : str
+    user_id : str | None = None
+    chat_response : str | None = None
 
-# class bookmark(BaseModel):
-#     chat_response_id : str
-#     chat_response : str
+class delete_bookmark (BaseModel):
+    message : str
+
 
