@@ -4,72 +4,72 @@
   },
   "Urinary Tract Infection": {
     "Symptoms": [
-      "1. *Fever:* This is a common symptom of a UTI in children. A persistent fever may indicate an infection, and it's essential to monitor and seek medical attention if the fever persists.",
-      "2. *Pain or discomfort:* Children with a UTI may experience pain or discomfort during urination. Younger children may not be able to express this verbally, but they may show signs of distress, cry during urination, or exhibit changes in behavior.",
-      "3. *Frequent urination:* Children with UTIs may need to urinate more frequently than usual. This can be noticeable in toilet-trained children or may manifest as increased diaper wetting in younger children.",
-      "4. *Urgency to urinate:* Children may feel a strong urgency to urinate, and they may express discomfort or distress if they are unable to do so promptly.",
-      "5. *Abdominal pain:* Some children with UTIs may experience abdominal pain, which can range from mild discomfort to more severe pain.",
-      "6. *Foul-smelling urine:* The urine of a child with a UTI may have a strong or unpleasant odor.",
-      "7. *Cloudy or bloody urine:* UTIs can cause changes in the appearance of urine. It may appear cloudy, or there may be traces of blood in the urine.",
-      "8. *Irritability or changes in behavior:* Young children, especially infants, may exhibit changes in behavior such as increased fussiness, irritability, or lethargy."
+      "**1. Fever:** This is a common symptom of a UTI in children. A persistent fever may indicate an infection, and it's essential to monitor and seek medical attention if the fever persists.",
+      "**2. Pain or discomfort:** Children with a UTI may experience pain or discomfort during urination. Younger children may not be able to express this verbally, but they may show signs of distress, cry during urination, or exhibit changes in behavior.",
+      "**3. Frequent urination:** Children with UTIs may need to urinate more frequently than usual. This can be noticeable in toilet-trained children or may manifest as increased diaper wetting in younger children.",
+      "**4. Urgency to urinate:** Children may feel a strong urgency to urinate, and they may express discomfort or distress if they are unable to do so promptly.",
+      "**5. Abdominal pain:** Some children with UTIs may experience abdominal pain, which can range from mild discomfort to more severe pain.",
+      "**6. Foul-smelling urine:** The urine of a child with a UTI may have a strong or unpleasant odor.",
+      "**7. Cloudy or bloody urine:** UTIs can cause changes in the appearance of urine. It may appear cloudy, or there may be traces of blood in the urine.",
+      "**8. Irritability or changes in behavior:** Young children, especially infants, may exhibit changes in behavior such as increased fussiness, irritability, or lethargy."
     ],
     "Red Flags": [
-      "1. *High Fever:* A persistent high fever (usually 101°F or higher) may indicate a more severe infection.",
-      "2. *Severe Pain or Discomfort:* If the child is experiencing intense pain or discomfort during urination or in the abdominal or pelvic region, it may be a sign of a more severe infection or a complication, and medical attention is necessary.",
-      "3. *Vomiting or Refusing to Eat:* Persistent vomiting or a refusal to eat may be a sign of a more serious infection that requires immediate medical evaluation.",
-      "4. *Back or Flank Pain:* Pain in the lower back or sides (flanks) can be a symptom of a UTI affecting the kidneys.",
-      "5. *Changes in Behavior:* If you notice a sudden change in a child's behavior, such as increased irritability, lethargy, or unusual fatigue, it may indicate a more serious infection affecting the entire body.",
-      "6. *Dehydration Signs:* Symptoms of dehydration, such as decreased urine output, dark urine, dry mouth, or sunken eyes, can be red flags that the infection is affecting the child's hydration status.",
-      "7. *Foul-Smelling or Cloudy Urine:* If the child's urine has a strong, unpleasant odor or appears cloudy, it may indicate a more severe infection.",
-      "8. *Persistent Symptoms:* If the child's symptoms persist or worsen despite initial treatment, it's important to seek medical attention for a reevaluation of the condition."
+      "**1. High Fever:** A persistent high fever (usually 101°F or higher) may indicate a more severe infection.",
+      "**2. Severe Pain or Discomfort:** If the child is experiencing intense pain or discomfort during urination or in the abdominal or pelvic region, it may be a sign of a more severe infection or a complication, and medical attention is necessary.",
+      "**3. Vomiting or Refusing to Eat:** Persistent vomiting or a refusal to eat may be a sign of a more serious infection that requires immediate medical evaluation.",
+      "**4. Back or Flank Pain:** Pain in the lower back or sides (flanks) can be a symptom of a UTI affecting the kidneys.",
+      "**5. Changes in Behavior:** If you notice a sudden change in a child's behavior, such as increased irritability, lethargy, or unusual fatigue, it may indicate a more serious infection affecting the entire body.",
+      "**6. Dehydration Signs:** Symptoms of dehydration, such as decreased urine output, dark urine, dry mouth, or sunken eyes, can be red flags that the infection is affecting the child's hydration status.",
+      "**7. Foul-Smelling or Cloudy Urine:** If the child's urine has a strong, unpleasant odor or appears cloudy, it may indicate a more severe infection.",
+      "**8. Persistent Symptoms:** If the child's symptoms persist or worsen despite initial treatment, it's important to seek medical attention for a reevaluation of the condition."
     ],
     "Initial management": [
       {
-        "1. *Diagnosis": [
-          "- *Clinical Evaluation:* A healthcare professional will perform a thorough clinical evaluation, including a medical history and physical examination.",
-          "- *Urinalysis:* A urinalysis is typically performed to detect the presence of bacteria, white blood cells, and other abnormalities in the urine.",
-          "- *Urine Culture:* A urine culture is often conducted to identify the specific bacteria causing the infection and determine its susceptibility to antibiotics."
+        "1. Diagnosis": [
+          "- **Clinical Evaluation:** A healthcare professional will perform a thorough clinical evaluation, including a medical history and physical examination.",
+          "- **Urinalysis:** A urinalysis is typically performed to detect the presence of bacteria, white blood cells, and other abnormalities in the urine.",
+          "- **Urine Culture:** A urine culture is often conducted to identify the specific bacteria causing the infection and determine its susceptibility to antibiotics."
         ]
       },
       {
-        "2. *Prophylaxis (Preventive Measures):*": [
-          "- *Fluid Intake:* Encourage increased fluid intake, as this can help flush bacteria out of the urinary tract.",
-          "- *Avoid Irritants:* Avoid irritants such as bubble baths and harsh soaps that can contribute to urethral irritation."
+        "2. Prophylaxis (Preventive Measures):": [
+          "- **Fluid Intake:** Encourage increased fluid intake, as this can help flush bacteria out of the urinary tract.",
+          "- **Avoid Irritants:** Avoid irritants such as bubble baths and harsh soaps that can contribute to urethral irritation."
         ]
       },
       {
-        "3. *Treatment:*": [
-          "- *Antibiotics:* Once a UTI is diagnosed, antibiotic treatment is initiated.",
-          "- *Full Course:* Ensure that the child completes the full course of antibiotics as prescribed, even if symptoms improve before the medication is finished.",
-          "- *Follow-up Urinalysis:* A follow-up urinalysis may be conducted after completing the antibiotic course to confirm that the infection has been successfully treated."
+        "3. Treatment:": [
+          "- **Antibiotics:** Once a UTI is diagnosed, antibiotic treatment is initiated.",
+          "- **Full Course:** Ensure that the child completes the full course of antibiotics as prescribed, even if symptoms improve before the medication is finished.",
+          "- **Follow-up Urinalysis:** A follow-up urinalysis may be conducted after completing the antibiotic course to confirm that the infection has been successfully treated."
         ]
       },
       {
-        "4. *Monitoring:*": [
-          "- *Symptom Monitoring:* Monitor the child for resolution of symptoms, including improvement in urinary frequency, urgency, and discomfort.",
-          "- *Follow-up:* Schedule a follow-up appointment with the healthcare provider to ensure that the infection has been successfully treated and to address any lingering concerns."
+        "4. Monitoring:": [
+          "- **Symptom Monitoring:** Monitor the child for resolution of symptoms, including improvement in urinary frequency, urgency, and discomfort.",
+          "- **Follow-up:** Schedule a follow-up appointment with the healthcare provider to ensure that the infection has been successfully treated and to address any lingering concerns."
         ]
       },
       {
-        "5. *Underlying Causes:*": [
-          "- *Evaluation for Underlying Issues:* In some cases, UTIs in children may be associated with underlying issues such as urinary reflux or anatomical abnormalities."
+        "5. Underlying Causes:": [
+          "- **Evaluation for Underlying Issues:** In some cases, UTIs in children may be associated with underlying issues such as urinary reflux or anatomical abnormalities."
         ]
       }
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Seek Medical Attention:* If you suspect that your child has a UTI, it is crucial to seek medical attention promptly.",
-        "2. *Encourage Hydration:* Ensure that your child drinks plenty of fluids, especially water, to help flush out bacteria from the urinary tract.",
-        "3. *Follow Prescribed Antibiotics:* If a UTI is confirmed, your child's doctor will likely prescribe antibiotics.",
-        "4. *Promote Good Hygiene:* Teach your child good hygiene practices, such as wiping from front to back after using the toilet to prevent the spread of bacteria from the anal area to the urethra.",
-        "5. *Provide Comfort Measures:* To alleviate discomfort, consider using a heating pad on a low setting or placing a warm compress on the child's abdomen."
+        "**1. Seek Medical Attention:** If you suspect that your child has a UTI, it is crucial to seek medical attention promptly.",
+        "**2. Encourage Hydration:** Ensure that your child drinks plenty of fluids, especially water, to help flush out bacteria from the urinary tract.",
+        "**3. Follow Prescribed Antibiotics:** If a UTI is confirmed, your child's doctor will likely prescribe antibiotics.",
+        "**4. Promote Good Hygiene:** Teach your child good hygiene practices, such as wiping from front to back after using the toilet to prevent the spread of bacteria from the anal area to the urethra.",
+        "**5. Provide Comfort Measures:** To alleviate discomfort, consider using a heating pad on a low setting or placing a warm compress on the child's abdomen."
       ],
       "Do Not": [
-        "1. *Delay Medical Attention:* UTIs can lead to more severe complications if not treated promptly.",
-        "2. *Use Antibiotics Without Prescription:* Avoid giving your child leftover antibiotics or using antibiotics without a prescription from a healthcare professional.",
-        "3. *Withhold Fluids:* Even if your child is experiencing pain while urinating, do not withhold fluids.",
-        "4. *Use Harsh Soaps:* Avoid using harsh soaps, bubble baths, or other irritating substances in the bathwater.",
-        "5. *Ignore Recurrent Symptoms:* If your child experiences recurrent UTIs, it's important not to ignore the issue."
+        "**1. Delay Medical Attention:** UTIs can lead to more severe complications if not treated promptly.",
+        "**2. Use Antibiotics Without Prescription:** Avoid giving your child leftover antibiotics or using antibiotics without a prescription from a healthcare professional.",
+        "**3. Withhold Fluids:** Even if your child is experiencing pain while urinating, do not withhold fluids.",
+        "**4. Use Harsh Soaps:** Avoid using harsh soaps, bubble baths, or other irritating substances in the bathwater.",
+        "**5. Ignore Recurrent Symptoms:** If your child experiences recurrent UTIs, it's important not to ignore the issue."
       ]
     }
   }
@@ -80,55 +80,55 @@
   },
   "Nocturnal Enuresis": {
     "Symptoms": [
-      "1. *Involuntary Urination:* The primary symptom is the unintentional release of urine during sleep. Children may wet the bed once or more per week.",
-      "2. *Age Consideration:* Nocturnal enuresis is generally considered a normal part of development up to a certain age. Most children achieve nighttime bladder control between the ages of 3 and 5. Bedwetting becomes more concerning if it persists beyond the age when most children have mastered this skill.",
-      "3. *Frequency:* Enuresis is often considered a problem if it occurs at least twice a week for three consecutive months in a child who is at least 5 years old.",
-      "4. *Daytime Continence:* Children with nocturnal enuresis usually have no issues with daytime bladder control. Daytime wetting can indicate a different problem and should be evaluated separately.",
-      "5. *Emotional Impact:* Bedwetting can have psychological and emotional effects on children, leading to feelings of embarrassment, shame, or frustration. It's essential for parents to offer support and understanding.",
-      "6. *Physical Examinations:* In some cases, healthcare providers may conduct physical examinations to rule out underlying medical conditions contributing to bedwetting. This could include checking for urinary tract infections or structural abnormalities.",
-      "7. *Family History:* There may be a genetic component to nocturnal enuresis. If one or both parents experienced bedwetting as children, their offspring may be more likely to as well. It's important to note that bedwetting is often a self-limiting condition, and many children outgrow it without specific intervention. However, if parents are concerned about their child's bedwetting, or if it persists beyond what is considered normal for their age, it's advisable to consult with a healthcare professional. They can help determine if there are underlying issues and discuss potential treatment options, which may include behavioral strategies, medications, or other interventions based on the specific circumstances."
+      "**1. Involuntary Urination:** The primary symptom is the unintentional release of urine during sleep. Children may wet the bed once or more per week.",
+      "**2. Age Consideration:** Nocturnal enuresis is generally considered a normal part of development up to a certain age. Most children achieve nighttime bladder control between the ages of 3 and 5. Bedwetting becomes more concerning if it persists beyond the age when most children have mastered this skill.",
+      "**3. Frequency:** Enuresis is often considered a problem if it occurs at least twice a week for three consecutive months in a child who is at least 5 years old.",
+      "**4. Daytime Continence:** Children with nocturnal enuresis usually have no issues with daytime bladder control. Daytime wetting can indicate a different problem and should be evaluated separately.",
+      "**5. Emotional Impact:** Bedwetting can have psychological and emotional effects on children, leading to feelings of embarrassment, shame, or frustration. It's essential for parents to offer support and understanding.",
+      "**6. Physical Examinations:** In some cases, healthcare providers may conduct physical examinations to rule out underlying medical conditions contributing to bedwetting. This could include checking for urinary tract infections or structural abnormalities.",
+      "**7. Family History:** There may be a genetic component to nocturnal enuresis. If one or both parents experienced bedwetting as children, their offspring may be more likely to as well. It's important to note that bedwetting is often a self-limiting condition, and many children outgrow it without specific intervention. However, if parents are concerned about their child's bedwetting, or if it persists beyond what is considered normal for their age, it's advisable to consult with a healthcare professional. They can help determine if there are underlying issues and discuss potential treatment options, which may include behavioral strategies, medications, or other interventions based on the specific circumstances."
     ],
     "Red Flags": [
-      "1. *Sudden Onset:* If a child who has been consistently dry at night suddenly starts wetting the bed, it could be a sign of a new problem or underlying medical issue.",
-      "2. *Daytime Wetting:* If a child who has achieved daytime bladder control starts experiencing frequent accidents during waking hours, it may suggest an issue beyond typical bedwetting.",
-      "3. *Pain or Discomfort:* If a child complains of pain or discomfort while urinating, or if there is any indication of pain in the abdominal or genital area, it warrants a prompt medical evaluation.",
-      "4. *Excessive Thirst and Urination:* Excessive thirst and frequent urination during the day could be signs of diabetes or other metabolic disorders. If these symptoms accompany bedwetting, it's crucial to seek medical attention.",
-      "5. *Urinary Tract Infections (UTIs):* Symptoms such as pain or burning during urination, foul-smelling urine, or frequent UTIs may be associated with bedwetting and should be addressed.",
-      "6. *Constipation:* Chronic constipation can sometimes contribute to bladder control issues. If your child has ongoing problems with constipation, it's worth discussing with a healthcare professional.",
-      "7. *Emotional or Behavioral Changes:* If bedwetting is accompanied by significant emotional or behavioral changes in the child, such as increased anxiety, withdrawal, or changes in mood, it may be a sign of underlying stressors that need attention.",
-      "8. *Developmental Delays:* Children with developmental delays may experience delays in achieving bladder control. If a child is significantly behind in other developmental milestones, it's important to discuss this with a healthcare provider.",
-      "9. *Blood in Urine:* If you observe blood in the urine, it's a clear sign that medical attention is needed promptly."
+      "**1. Sudden Onset:** If a child who has been consistently dry at night suddenly starts wetting the bed, it could be a sign of a new problem or underlying medical issue.",
+      "**2. Daytime Wetting:** If a child who has achieved daytime bladder control starts experiencing frequent accidents during waking hours, it may suggest an issue beyond typical bedwetting.",
+      "**3. Pain or Discomfort:** If a child complains of pain or discomfort while urinating, or if there is any indication of pain in the abdominal or genital area, it warrants a prompt medical evaluation.",
+      "**4. Excessive Thirst and Urination:** Excessive thirst and frequent urination during the day could be signs of diabetes or other metabolic disorders. If these symptoms accompany bedwetting, it's crucial to seek medical attention.",
+      "**5. Urinary Tract Infections (UTIs):** Symptoms such as pain or burning during urination, foul-smelling urine, or frequent UTIs may be associated with bedwetting and should be addressed.",
+      "**6. Constipation:** Chronic constipation can sometimes contribute to bladder control issues. If your child has ongoing problems with constipation, it's worth discussing with a healthcare professional.",
+      "**7. Emotional or Behavioral Changes:** If bedwetting is accompanied by significant emotional or behavioral changes in the child, such as increased anxiety, withdrawal, or changes in mood, it may be a sign of underlying stressors that need attention.",
+      "**8. Developmental Delays:** Children with developmental delays may experience delays in achieving bladder control. If a child is significantly behind in other developmental milestones, it's important to discuss this with a healthcare provider.",
+      "**9. Blood in Urine:** If you observe blood in the urine, it's a clear sign that medical attention is needed promptly."
     ],
     "Initial management": [
-      "1. *Parental Understanding and Support:* - Educate parents about the normal range of bladder control development in children. - Provide reassurance and support to both the child and parents to minimize stress and anxiety.",
-      "2. *Fluid Management:* - Encourage adequate daytime fluid intake while gradually reducing the intake in the evening, especially before bedtime.",
-      "3. *Scheduled Voiding:* - Encourage the child to empty their bladder before bedtime to reduce the likelihood of nighttime accidents.",
-      "4. *Bedtime Routine:* - Establish a consistent and calming bedtime routine to help the child relax before sleep.",
-      "5. *Bedwetting Alarms:* - Bedwetting alarms are devices that sound an alarm when they detect moisture, waking the child when they begin to wet the bed. Over time, this can help the child develop awareness of bladder fullness.",
-      "6. *Positive Reinforcement:* - Use positive reinforcement strategies, such as a reward system, to motivate the child. Rewarding dry nights can help boost the child's confidence and motivation.",
-      "7. *Toileting Skills Training:* - Ensure that the child has developed appropriate toileting skills during the day. This includes the ability to recognize the sensation of a full bladder and the coordination to reach the bathroom in time.",
-      "8. *Avoiding Bladder Irritants:* - Limit or avoid bladder irritants, such as caffeine-containing drinks, especially in the evening.",
-      "9. *Medical Evaluation:* - Consider consulting with a healthcare professional for a thorough medical evaluation, especially if there are red flags or if the child's age is beyond the typical range for achieving nighttime bladder control.",
-      "10. *Medication (in some cases):* - Medications may be considered in certain situations, especially if other measures have not been successful. Desmopressin is a medication that can be prescribed to reduce urine production at night. However, it's important to use medication under the guidance of a healthcare professional. It's crucial to note that the management of nocturnal enuresis should be tailored to the individual child, taking into account their age, overall health, and any underlying factors contributing to the bedwetting. Parents should work closely with healthcare professionals to develop an appropriate and effective management plan for their child. If there are concerns or if the bedwetting persists despite initial interventions, seeking medical advice is recommended for further evaluation and guidance."
+      "**1. Parental Understanding and Support:** - Educate parents about the normal range of bladder control development in children. - Provide reassurance and support to both the child and parents to minimize stress and anxiety.",
+      "**2. Fluid Management:** - Encourage adequate daytime fluid intake while gradually reducing the intake in the evening, especially before bedtime.",
+      "**3. Scheduled Voiding:** - Encourage the child to empty their bladder before bedtime to reduce the likelihood of nighttime accidents.",
+      "**4. Bedtime Routine:** - Establish a consistent and calming bedtime routine to help the child relax before sleep.",
+      "**5. Bedwetting Alarms:** - Bedwetting alarms are devices that sound an alarm when they detect moisture, waking the child when they begin to wet the bed. Over time, this can help the child develop awareness of bladder fullness.",
+      "**6. Positive Reinforcement:** - Use positive reinforcement strategies, such as a reward system, to motivate the child. Rewarding dry nights can help boost the child's confidence and motivation.",
+      "**7. Toileting Skills Training:** - Ensure that the child has developed appropriate toileting skills during the day. This includes the ability to recognize the sensation of a full bladder and the coordination to reach the bathroom in time.",
+      "**8. Avoiding Bladder Irritants:** - Limit or avoid bladder irritants, such as caffeine-containing drinks, especially in the evening.",
+      "**9. Medical Evaluation:** - Consider consulting with a healthcare professional for a thorough medical evaluation, especially if there are red flags or if the child's age is beyond the typical range for achieving nighttime bladder control.",
+      "**10. Medication (in some cases):** - Medications may be considered in certain situations, especially if other measures have not been successful. Desmopressin is a medication that can be prescribed to reduce urine production at night. However, it's important to use medication under the guidance of a healthcare professional. It's crucial to note that the management of nocturnal enuresis should be tailored to the individual child, taking into account their age, overall health, and any underlying factors contributing to the bedwetting. Parents should work closely with healthcare professionals to develop an appropriate and effective management plan for their child. If there are concerns or if the bedwetting persists despite initial interventions, seeking medical advice is recommended for further evaluation and guidance."
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Maintain a Supportive and Understanding Environment:* - Bedwetting is often a normal part of development. Offer support and understanding to your child, emphasizing that it's not their fault.",
-        "2. *Establish a Consistent Bedtime Routine:* - Create a calming and consistent bedtime routine to help the child relax before sleep.",
-        "3. *Encourage Regular Toileting Habits:* - Encourage the child to empty their bladder before bedtime, and reinforce regular toileting habits during the day.",
-        "4. *Use Positive Reinforcement:* - Implement a positive reinforcement system for dry nights, such as a reward chart. Celebrate and praise the child's efforts and progress.",
-        "5. *Consider Bedwetting Alarms:* - Bedwetting alarms can be effective in creating awareness. Discuss the use of bedwetting alarms with a healthcare professional.",
-        "6. *Consult with Healthcare Professionals:* - If there are concerns or if bedwetting persists, seek advice from healthcare professionals. They can conduct a thorough evaluation and provide guidance on appropriate interventions.",
-        "7. *Limit Fluid Intake Before Bed:* - Gradually reduce the child's fluid intake, especially caffeinated and sugary beverages, in the evening.",
-        "8. *Ensure Comfortable Sleeping Environment:* - Make sure the child's sleeping environment is comfortable and conducive to a good night's sleep."
+        "**1. Maintain a Supportive and Understanding Environment:** - Bedwetting is often a normal part of development. Offer support and understanding to your child, emphasizing that it's not their fault.",
+        "**2. Establish a Consistent Bedtime Routine:** - Create a calming and consistent bedtime routine to help the child relax before sleep.",
+        "**3. Encourage Regular Toileting Habits:** - Encourage the child to empty their bladder before bedtime, and reinforce regular toileting habits during the day.",
+        "**4. Use Positive Reinforcement:** - Implement a positive reinforcement system for dry nights, such as a reward chart. Celebrate and praise the child's efforts and progress.",
+        "**5. Consider Bedwetting Alarms:** - Bedwetting alarms can be effective in creating awareness. Discuss the use of bedwetting alarms with a healthcare professional.",
+        "**6. Consult with Healthcare Professionals:** - If there are concerns or if bedwetting persists, seek advice from healthcare professionals. They can conduct a thorough evaluation and provide guidance on appropriate interventions.",
+        "**7. Limit Fluid Intake Before Bed:** - Gradually reduce the child's fluid intake, especially caffeinated and sugary beverages, in the evening.",
+        "**8. Ensure Comfortable Sleeping Environment:** - Make sure the child's sleeping environment is comfortable and conducive to a good night's sleep."
       ],
       "Do Not": [
-        "1. *Blame or Shame the Child:* - Avoid blaming or shaming the child for bedwetting. It is not under their control, and negative reactions can worsen the emotional impact.",
-        "2. *Punish the Child:* - Punishment is not an appropriate response to bedwetting. It can increase anxiety and stress, which may exacerbate the issue.",
-        "3. *Use Diapers as a Punishment:* - Do not use diapers or pull-ups as a punishment. This can be confusing for the child and may hinder progress.",
-        "4. *Overlook Potential Medical Issues:* - Don't dismiss bedwetting without considering potential medical issues. If there are red flags or the child is outside the typical age range for achieving nighttime bladder control, consult a healthcare professional.",
-        "5. *Rush into Medication Without Professional Guidance:* - If medication is considered, do not use it without proper guidance from a healthcare professional. Medication should be prescribed and monitored by a healthcare provider.",
-        "6. *Forget the Importance of Emotional Support:* - Emotional support is crucial. Don't underestimate the impact of bedwetting on a child's self-esteem and emotions."
+        "**1. Blame or Shame the Child:** - Avoid blaming or shaming the child for bedwetting. It is not under their control, and negative reactions can worsen the emotional impact.",
+        "**2. Punish the Child:** - Punishment is not an appropriate response to bedwetting. It can increase anxiety and stress, which may exacerbate the issue.",
+        "**3. Use Diapers as a Punishment:** - Do not use diapers or pull-ups as a punishment. This can be confusing for the child and may hinder progress.",
+        "**4. Overlook Potential Medical Issues:** - Don't dismiss bedwetting without considering potential medical issues. If there are red flags or the child is outside the typical age range for achieving nighttime bladder control, consult a healthcare professional.",
+        "**5. Rush into Medication Without Professional Guidance:** - If medication is considered, do not use it without proper guidance from a healthcare professional. Medication should be prescribed and monitored by a healthcare provider.",
+        "**6. Forget the Importance of Emotional Support:** - Emotional support is crucial. Don't underestimate the impact of bedwetting on a child's self-esteem and emotions."
       ]
     }
   }
@@ -139,56 +139,56 @@
   },
   "Anuria": {
     "Symptoms": [
-      "1. *No Urination or Very Low Urine Output:* The most prominent symptom of anuria is the absence of urine or an extremely low volume of urine. Children may not produce any urine at all, or the amount may be significantly reduced.",
-      "2. *Abdominal Pain:* Children with anuria may experience abdominal pain, which can be a result of the underlying cause, such as urinary obstruction or kidney issues.",
-      "3. *Swelling:* Edema or swelling can occur in various parts of the body, such as the face, abdomen, or extremities, due to the retention of fluids.",
-      "4. *Irritability:* Children may become irritable or fussy due to discomfort and the underlying medical condition.",
-      "5. *Vomiting:* Anuria can lead to an accumulation of waste products and toxins in the body, causing nausea and vomiting.",
+      "**1. No Urination or Very Low Urine Output:** The most prominent symptom of anuria is the absence of urine or an extremely low volume of urine. Children may not produce any urine at all, or the amount may be significantly reduced.",
+      "**2. Abdominal Pain:** Children with anuria may experience abdominal pain, which can be a result of the underlying cause, such as urinary obstruction or kidney issues.",
+      "**3. Swelling:** Edema or swelling can occur in various parts of the body, such as the face, abdomen, or extremities, due to the retention of fluids.",
+      "**4. Irritability:** Children may become irritable or fussy due to discomfort and the underlying medical condition.",
+      "**5. Vomiting:** Anuria can lead to an accumulation of waste products and toxins in the body, causing nausea and vomiting.",
       {
         "Causes of Anuria in Children": [
-          "1. *Acute Kidney Injury (AKI):* This is a sudden and rapid decline in kidney function. Causes can include infections, dehydration, or certain medications.",
-          "2. *Urinary Tract Obstruction:* Blockages in the urinary tract, such as kidney stones or congenital abnormalities, can lead to anuria.",
-          "3. *Severe Dehydration:* Inadequate fluid intake or excessive fluid loss can lead to dehydration and subsequently to anuria.",
-          "4. *Infections:* Serious infections, such as sepsis, can affect kidney function and lead to anuria.",
-          "5. *Congenital Anomalies:* Some children may be born with structural abnormalities in the urinary system, predisposing them to anuria.",
-          "6. *Toxic Ingestion:* Ingesting toxic substances can lead to kidney damage and, in severe cases, anuria."
+          "**1. Acute Kidney Injury (AKI):** This is a sudden and rapid decline in kidney function. Causes can include infections, dehydration, or certain medications.",
+          "**2. Urinary Tract Obstruction:** Blockages in the urinary tract, such as kidney stones or congenital abnormalities, can lead to anuria.",
+          "**3. Severe Dehydration:** Inadequate fluid intake or excessive fluid loss can lead to dehydration and subsequently to anuria.",
+          "**4. Infections:** Serious infections, such as sepsis, can affect kidney function and lead to anuria.",
+          "**5. Congenital Anomalies:** Some children may be born with structural abnormalities in the urinary system, predisposing them to anuria.",
+          "**6. Toxic Ingestion:** Ingesting toxic substances can lead to kidney damage and, in severe cases, anuria."
         ]
       },
-      "6. *Fatigue:* A child with anuria may appear lethargic and fatigued, as the body is unable to eliminate waste products effectively."
+      "**6. Fatigue:** A child with anuria may appear lethargic and fatigued, as the body is unable to eliminate waste products effectively."
     ],
     "Red Flags": [
-      "1. *Sudden Stop in Urination:* If a child suddenly stops producing urine, it could be a sign of a blockage or other severe issue in the urinary tract.",
-      "2. *Abdominal Pain or Distension:* Severe abdominal pain, especially if accompanied by distension or swelling, could indicate a blockage or other problem affecting the urinary system.",
-      "3. *Fever:* A high fever along with anuria may suggest a possible infection, such as a urinary tract infection or a more systemic issue.",
-      "4. *Vomiting:* Persistent vomiting, especially if accompanied by anuria, could indicate a serious problem that needs prompt medical evaluation.",
-      "5. *Dehydration:* Anuria can lead to dehydration rapidly. Signs of dehydration include dry mouth, sunken eyes, lethargy, and reduced urine output.",
-      "6. *Recent Illness or Trauma:* If the child has recently experienced an illness, injury, or trauma, and is now not producing urine, it may be related to the previous health event and requires urgent attention.",
-      "7. *Previous Urinary Issues:* Children with a history of urinary tract problems or structural abnormalities in the urinary system may be at a higher risk for anuria. Any sudden change in urinary habits or the absence of urine should be promptly evaluated.",
-      "8. *Changes in Consciousness:* If the child appears lethargic, confused, or loses consciousness, this could indicate a severe issue, and emergency medical help is needed."
+      "**1. Sudden Stop in Urination:** If a child suddenly stops producing urine, it could be a sign of a blockage or other severe issue in the urinary tract.",
+      "**2. Abdominal Pain or Distension:** Severe abdominal pain, especially if accompanied by distension or swelling, could indicate a blockage or other problem affecting the urinary system.",
+      "**3. Fever:** A high fever along with anuria may suggest a possible infection, such as a urinary tract infection or a more systemic issue.",
+      "**4. Vomiting:** Persistent vomiting, especially if accompanied by anuria, could indicate a serious problem that needs prompt medical evaluation.",
+      "**5. Dehydration:** Anuria can lead to dehydration rapidly. Signs of dehydration include dry mouth, sunken eyes, lethargy, and reduced urine output.",
+      "**6. Recent Illness or Trauma:** If the child has recently experienced an illness, injury, or trauma, and is now not producing urine, it may be related to the previous health event and requires urgent attention.",
+      "**7. Previous Urinary Issues:** Children with a history of urinary tract problems or structural abnormalities in the urinary system may be at a higher risk for anuria. Any sudden change in urinary habits or the absence of urine should be promptly evaluated.",
+      "**8. Changes in Consciousness:** If the child appears lethargic, confused, or loses consciousness, this could indicate a severe issue, and emergency medical help is needed."
     ],
     "Initial management": [
-      "1. *Emergency Medical Attention:* Anuria is a serious condition that requires urgent medical intervention. Seek immediate medical attention by calling emergency services or taking the child to the nearest emergency department.",
-      "2. *Fluid Resuscitation:* Intravenous (IV) fluid resuscitation is often the initial step in managing anuria. The child may be dehydrated or in a state of shock, and fluids can help restore blood volume and improve kidney perfusion.",
-      "3. *Monitoring:* Continuous monitoring of vital signs, including blood pressure, heart rate, and respiratory rate, is essential. Close observation can help assess the child's response to treatment and identify any complications.",
-      "4. *Laboratory Tests:* Blood tests may be conducted to assess kidney function, electrolyte levels, and other parameters. These tests can help identify the underlying cause of anuria and guide appropriate treatment.",
-      "5. *Imaging Studies:* Depending on the suspected cause, imaging studies such as ultrasound may be performed to evaluate the kidneys and urinary tract for any structural abnormalities or obstructions.",
-      "6. *Treatment of Underlying Causes:* The specific treatment will depend on the underlying cause of anuria. Common causes include severe dehydration, kidney injury, urinary tract obstruction, or systemic illnesses. Treatment may involve addressing the dehydration, managing infections, removing obstructions, or providing supportive care for underlying conditions.",
-      "7. *Pediatric Nephrologist Consultation:* In cases of severe kidney dysfunction or complex conditions, consultation with a pediatric nephrologist (a doctor specializing in kidney disorders in children) may be necessary. It is crucial to note that anuria is a symptom rather than a diagnosis, and identifying and treating the underlying cause is essential for a positive outcome. The initial management steps are aimed at stabilizing the child, restoring fluid balance, and initiating diagnostic evaluations. The child may require hospitalization for close monitoring and further treatment."
+      "**1. Emergency Medical Attention:** Anuria is a serious condition that requires urgent medical intervention. Seek immediate medical attention by calling emergency services or taking the child to the nearest emergency department.",
+      "**2. Fluid Resuscitation:** Intravenous (IV) fluid resuscitation is often the initial step in managing anuria. The child may be dehydrated or in a state of shock, and fluids can help restore blood volume and improve kidney perfusion.",
+      "**3. Monitoring:** Continuous monitoring of vital signs, including blood pressure, heart rate, and respiratory rate, is essential. Close observation can help assess the child's response to treatment and identify any complications.",
+      "**4. Laboratory Tests:** Blood tests may be conducted to assess kidney function, electrolyte levels, and other parameters. These tests can help identify the underlying cause of anuria and guide appropriate treatment.",
+      "**5. Imaging Studies:** Depending on the suspected cause, imaging studies such as ultrasound may be performed to evaluate the kidneys and urinary tract for any structural abnormalities or obstructions.",
+      "**6. Treatment of Underlying Causes:** The specific treatment will depend on the underlying cause of anuria. Common causes include severe dehydration, kidney injury, urinary tract obstruction, or systemic illnesses. Treatment may involve addressing the dehydration, managing infections, removing obstructions, or providing supportive care for underlying conditions.",
+      "**7. Pediatric Nephrologist Consultation:** In cases of severe kidney dysfunction or complex conditions, consultation with a pediatric nephrologist (a doctor specializing in kidney disorders in children) may be necessary. It is crucial to note that anuria is a symptom rather than a diagnosis, and identifying and treating the underlying cause is essential for a positive outcome. The initial management steps are aimed at stabilizing the child, restoring fluid balance, and initiating diagnostic evaluations. The child may require hospitalization for close monitoring and further treatment."
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Seek Emergency Medical Attention:* - Anuria is a medical emergency. If a child is not producing urine, it suggests a severe issue with kidney function or a blockage in the urinary tract. Seek immediate medical attention by calling emergency services or taking the child to the nearest emergency room.",
-        "2. *Do Not Delay:* - Time is crucial in cases of anuria. Delaying medical care can lead to serious complications and permanent damage to the kidneys.",
-        "3. *Provide Information to Healthcare Professionals:* - When seeking medical help, be prepared to provide information about the child's medical history, any recent illnesses or injuries, medications taken, and any other relevant details that can assist healthcare professionals in making a prompt and accurate diagnosis.",
-        "4. *Follow Medical Advice:* - Once the child is under medical care, it is important to follow the advice and recommendations of healthcare professionals. This may include diagnostic tests, imaging studies, and other interventions to identify and address the underlying cause of anuria. Common causes of anuria in children may include severe dehydration, kidney failure, urinary tract obstruction, or other serious medical conditions. Determining the cause is essential for appropriate treatment."
+        "**1. Seek Emergency Medical Attention:** - Anuria is a medical emergency. If a child is not producing urine, it suggests a severe issue with kidney function or a blockage in the urinary tract. Seek immediate medical attention by calling emergency services or taking the child to the nearest emergency room.",
+        "**2. Do Not Delay:** - Time is crucial in cases of anuria. Delaying medical care can lead to serious complications and permanent damage to the kidneys.",
+        "**3. Provide Information to Healthcare Professionals:** - When seeking medical help, be prepared to provide information about the child's medical history, any recent illnesses or injuries, medications taken, and any other relevant details that can assist healthcare professionals in making a prompt and accurate diagnosis.",
+        "**4. Follow Medical Advice:** - Once the child is under medical care, it is important to follow the advice and recommendations of healthcare professionals. This may include diagnostic tests, imaging studies, and other interventions to identify and address the underlying cause of anuria. Common causes of anuria in children may include severe dehydration, kidney failure, urinary tract obstruction, or other serious medical conditions. Determining the cause is essential for appropriate treatment."
       ],
       "Do Not": [
-        "1. *Blame or Shame the Child:* - Avoid blaming or shaming the child for anuria. It is not under their control, and negative reactions can worsen the emotional impact.",
-        "2. *Punish the Child:* - Punishment is not an appropriate response to anuria. It can increase anxiety and stress, which may exacerbate the issue.",
-        "3. *Use Diapers as a Punishment:* - Do not use diapers or pull-ups as a punishment. This can be confusing for the child and may hinder progress.",
-        "4. *Overlook Potential Medical Issues:* - Don't dismiss bedwetting without considering potential medical issues. If there are red flags or the child is outside the typical age range for achieving nighttime bladder control, consult a healthcare professional.",
-        "5. *Rush into Medication Without Professional Guidance:* - If medication is considered, do not use it without proper guidance from a healthcare professional. Medication should be prescribed and monitored by a healthcare provider.",
-        "6. *Forget the Importance of Emotional Support:* - Emotional support is crucial. Don't underestimate the impact of bedwetting on a child's self-esteem and emotions."
+        "**1. Blame or Shame the Child:** - Avoid blaming or shaming the child for anuria. It is not under their control, and negative reactions can worsen the emotional impact.",
+        "**2. Punish the Child:** - Punishment is not an appropriate response to anuria. It can increase anxiety and stress, which may exacerbate the issue.",
+        "**3. Use Diapers as a Punishment:** - Do not use diapers or pull-ups as a punishment. This can be confusing for the child and may hinder progress.",
+        "**4. Overlook Potential Medical Issues:** - Don't dismiss bedwetting without considering potential medical issues. If there are red flags or the child is outside the typical age range for achieving nighttime bladder control, consult a healthcare professional.",
+        "**5. Rush into Medication Without Professional Guidance:** - If medication is considered, do not use it without proper guidance from a healthcare professional. Medication should be prescribed and monitored by a healthcare provider.",
+        "**6. Forget the Importance of Emotional Support:** - Emotional support is crucial. Don't underestimate the impact of bedwetting on a child's self-esteem and emotions."
       ]
     }
   }

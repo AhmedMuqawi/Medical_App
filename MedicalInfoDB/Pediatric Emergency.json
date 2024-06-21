@@ -4,60 +4,60 @@
   },
   "Vomiting": {
     "Symptoms": [
-      "1.Dehydration*: Dehydration is a significant concern, especially in young children. If your child is unable to keep fluids down, and signs of dehydration are present, such as dry mouth, sunken eyes, reduced urination, and extreme fussiness, it is crucial to seek medical care.",
-      "2. Blood in Vomit: If you notice blood in your child's vomit, this should be treated as an emergency. It may indicate an injury, gastrointestinal bleeding, or other serious medical conditions.",
-      "3. Severe Abdominal Pain*: If your child experiences severe abdominal pain along with vomiting, it could be a sign of an underlying issue like appendicitis or a blockage in the intestines. Seek medical attention in such cases.",
-      "4. Vomiting After Head Injury*: If your child has recently suffered a head injury and is vomiting, it could be a sign of a concussion. It's important to have them evaluated by a healthcare provider, especially if the vomiting is persistent.",
-      "5. Vomiting After Ingesting a Harmful Substance*: If you suspect that your child has ingested a toxic substance, household chemical, or a medication overdose, and they are vomiting, contact poison control and seek immediate medical attention.",
-      "6. Vomiting with High Fever*: If vomiting is accompanied by a high fever, especially in very young children, it can be a sign of a serious infection. Consult a healthcare provider.",
-      "7. Projectile Vomiting*: In some cases, especially in infants, projectile vomiting can be a sign of a gastrointestinal obstruction or other underlying condition. Seek medical attention if this type of vomiting occurs.",
-      "8. Prolonged Vomiting*: If vomiting persists for an extended period or is recurrent, consult a healthcare provider to determine the cause and appropriate treatment.",
-      "9. Signs of Meningitis*: In rare cases, vomiting can be associated with meningitis. If your child also exhibits symptoms like severe headache, neck stiffness, and sensitivity to light, seek immediate medical care.",
-      "10. Lethargy or Altered Mental State*: If your child becomes extremely lethargic or shows signs of confusion or altered mental state along with vomiting, this could be indicative of a serious underlying condition."
+      "**1.Dehydration*:** Dehydration is a significant concern, especially in young children. If your child is unable to keep fluids down, and signs of dehydration are present, such as dry mouth, sunken eyes, reduced urination, and extreme fussiness, it is crucial to seek medical care.",
+      "**2. Blood in Vomit:** If you notice blood in your child's vomit, this should be treated as an emergency. It may indicate an injury, gastrointestinal bleeding, or other serious medical conditions.",
+      "**3. Severe Abdominal Pain*:** If your child experiences severe abdominal pain along with vomiting, it could be a sign of an underlying issue like appendicitis or a blockage in the intestines. Seek medical attention in such cases.",
+      "**4. Vomiting After Head Injury*:** If your child has recently suffered a head injury and is vomiting, it could be a sign of a concussion. It's important to have them evaluated by a healthcare provider, especially if the vomiting is persistent.",
+      "**5. Vomiting After Ingesting a Harmful Substance*:** If you suspect that your child has ingested a toxic substance, household chemical, or a medication overdose, and they are vomiting, contact poison control and seek immediate medical attention.",
+      "**6. Vomiting with High Fever*:** If vomiting is accompanied by a high fever, especially in very young children, it can be a sign of a serious infection. Consult a healthcare provider.",
+      "**7. Projectile Vomiting*:** In some cases, especially in infants, projectile vomiting can be a sign of a gastrointestinal obstruction or other underlying condition. Seek medical attention if this type of vomiting occurs.",
+      "**8. Prolonged Vomiting*:** If vomiting persists for an extended period or is recurrent, consult a healthcare provider to determine the cause and appropriate treatment.",
+      "**9. Signs of Meningitis*:** In rare cases, vomiting can be associated with meningitis. If your child also exhibits symptoms like severe headache, neck stiffness, and sensitivity to light, seek immediate medical care.",
+      "**10. Lethargy or Altered Mental State*:** If your child becomes extremely lethargic or shows signs of confusion or altered mental state along with vomiting, this could be indicative of a serious underlying condition."
     ],
     "Red Flags": [
-      "1. Severe Dehydration: Signs of severe dehydration, such as dry mouth, sunken eyes, reduced urination (fewer than 4-6 wet diapers a day for infants), extreme fussiness, or lethargy, are red flags that necessitate immediate medical attention.",
-      "2. Blood in Vomit: If you notice blood in your child's vomit, this is a critical concern and requires an immediate call to a healthcare provider or a visit to the pediatric emergency department.",
-      "3. High Fever: If vomiting is accompanied by a high fever (generally defined as a temperature of 100.4°F or 38°C or higher), especially in infants and very young children, it may indicate a serious infection or other medical condition.",
-      "4. Head Injury and Vomiting: If your child has suffered a head injury and is vomiting, especially if the vomiting is persistent or worsening, it could be a sign of a concussion or other head-related injury, requiring medical evaluation.",
-      "5. Lethargy or Altered Mental State: If your child becomes extremely lethargic, difficult to wake, or exhibits confusion or an altered mental state along with vomiting, this can be indicative of a serious underlying condition and should prompt an immediate call for help.",
-      "6. Neck Stiffness and Vomiting: The combination of vomiting, neck stiffness, and sensitivity to light could be a sign of meningitis, a serious infection of the brain and spinal cord. Seek immediate medical attention in such cases.",
-      "7. Projectile Vomiting: In some cases, especially in infants, projectile vomiting can be a sign of a gastrointestinal obstruction or other underlying medical issue. Call for medical assistance if your child exhibits this type of vomiting.",
-      "8. Prolonged or Recurrent Vomiting: If vomiting persists for an extended period, becomes recurrent, or is associated with other concerning symptoms, such as severe abdominal pain, it's important to seek medical evaluation.",
-      "9. Ingestion of Harmful Substances: If you suspect that your child has ingested a toxic substance, household chemical, or medication overdose and they are vomiting, contact poison control and seek immediate medical attention.",
-      "10. Underlying Medical Conditions: If your child has a known underlying medical condition, such as diabetes, heart disease, or a history of surgery, and they experience vomiting along with any concerning symptoms, you should call for help promptly."
+      "**1. Severe Dehydration:** Signs of severe dehydration, such as dry mouth, sunken eyes, reduced urination (fewer than 4-6 wet diapers a day for infants), extreme fussiness, or lethargy, are red flags that necessitate immediate medical attention.",
+      "**2. Blood in Vomit:** If you notice blood in your child's vomit, this is a critical concern and requires an immediate call to a healthcare provider or a visit to the pediatric emergency department.",
+      "**3. High Fever:** If vomiting is accompanied by a high fever (generally defined as a temperature of 100.4°F or 38°C or higher), especially in infants and very young children, it may indicate a serious infection or other medical condition.",
+      "**4. Head Injury and Vomiting:** If your child has suffered a head injury and is vomiting, especially if the vomiting is persistent or worsening, it could be a sign of a concussion or other head-related injury, requiring medical evaluation.",
+      "**5. Lethargy or Altered Mental State:** If your child becomes extremely lethargic, difficult to wake, or exhibits confusion or an altered mental state along with vomiting, this can be indicative of a serious underlying condition and should prompt an immediate call for help.",
+      "**6. Neck Stiffness and Vomiting:** The combination of vomiting, neck stiffness, and sensitivity to light could be a sign of meningitis, a serious infection of the brain and spinal cord. Seek immediate medical attention in such cases.",
+      "**7. Projectile Vomiting:** In some cases, especially in infants, projectile vomiting can be a sign of a gastrointestinal obstruction or other underlying medical issue. Call for medical assistance if your child exhibits this type of vomiting.",
+      "**8. Prolonged or Recurrent Vomiting:** If vomiting persists for an extended period, becomes recurrent, or is associated with other concerning symptoms, such as severe abdominal pain, it's important to seek medical evaluation.",
+      "**9. Ingestion of Harmful Substances:** If you suspect that your child has ingested a toxic substance, household chemical, or medication overdose and they are vomiting, contact poison control and seek immediate medical attention.",
+      "**10. Underlying Medical Conditions:** If your child has a known underlying medical condition, such as diabetes, heart disease, or a history of surgery, and they experience vomiting along with any concerning symptoms, you should call for help promptly."
     ],
     "Initial management": [
-      "1. Assessment and Triage: Begin by assessing the child's overall condition, including their level of consciousness, vital signs (heart rate, respiratory rate, blood pressure, temperature), and any signs of distress. Triage the child based on their condition and the severity of their symptoms to determine the urgency of care.",
-      "2. Prophylaxis and Treatment: The specific treatment and prophylaxis will depend on the underlying cause of vomiting, but here are general guidelines:",
-      "3. Oral Rehydration: For mild cases of vomiting without signs of dehydration, encourage the child to sip on oral rehydration solutions (ORS) or clear fluids (e.g., diluted fruit juices or water) in small amounts at a time. Gradually reintroduce a normal diet as tolerated.",
-      "4. Nasogastric Tube Placement (if necessary): In cases of severe vomiting or when the child is unable to tolerate oral fluids, a nasogastric tube may be placed to administer fluids and medications directly into the stomach.",
-      "5. Antiemetic Medications: Antiemetic medications, such as ondansetron, may be prescribed by a healthcare provider to help control vomiting. The use of these medications should be determined by a medical professional based on the child's condition and age.",
-      "6. Monitoring for Dehydration: Continuously monitor the child's hydration status, including urine output, skin turgor, and the appearance of mucous membranes. Dehydration is a common concern in vomiting, and it may require intravenous (IV) fluids in severe cases.",
-      "7. IV Fluids (if necessary): In cases of moderate to severe dehydration or when the child is unable to tolerate oral rehydration, IV fluids may be administered in the pediatric emergency department. The type and rate of IV fluids will depend on the child's specific needs.",
-      "8. Treatment of Underlying Cause: Depending on the suspected or diagnosed cause of vomiting, specific treatment may be initiated. For example, if it's due to a gastrointestinal infection, supportive care may be provided. If there's an underlying medical condition, targeted therapy may be necessary.",
-      "9. Isolation Precautions (if infectious): If vomiting is due to an infectious cause, such as viral gastroenteritis, it's important to follow appropriate infection control measures to prevent the spread of the illness to others.",
-      "10. Parental and Child Comfort: Ensure the child is comfortable and reassure parents or caregivers. Provide a calm and supportive environment in the pediatric emergency department.",
-      "11. Consultation and Follow-up: Pediatric emergency department healthcare providers will evaluate the child, determine the cause of vomiting, and develop a treatment plan. They will also provide instructions for follow-up care, medications, and when to seek additional medical attention if needed."
+      "**1. Assessment and Triage:** Begin by assessing the child's overall condition, including their level of consciousness, vital signs (heart rate, respiratory rate, blood pressure, temperature), and any signs of distress. Triage the child based on their condition and the severity of their symptoms to determine the urgency of care.",
+      "**2. Prophylaxis and Treatment:** The specific treatment and prophylaxis will depend on the underlying cause of vomiting, but here are general guidelines:**",
+      "**3. Oral Rehydration:** For mild cases of vomiting without signs of dehydration, encourage the child to sip on oral rehydration solutions (ORS) or clear fluids (e.g., diluted fruit juices or water) in small amounts at a time. Gradually reintroduce a normal diet as tolerated.",
+      "**4. Nasogastric Tube Placement (if necessary):** In cases of severe vomiting or when the child is unable to tolerate oral fluids, a nasogastric tube may be placed to administer fluids and medications directly into the stomach.",
+      "**5. Antiemetic Medications:** Antiemetic medications, such as ondansetron, may be prescribed by a healthcare provider to help control vomiting. The use of these medications should be determined by a medical professional based on the child's condition and age.",
+      "**6. Monitoring for Dehydration:** Continuously monitor the child's hydration status, including urine output, skin turgor, and the appearance of mucous membranes. Dehydration is a common concern in vomiting, and it may require intravenous (IV) fluids in severe cases.",
+      "**7. IV Fluids (if necessary):** In cases of moderate to severe dehydration or when the child is unable to tolerate oral rehydration, IV fluids may be administered in the pediatric emergency department. The type and rate of IV fluids will depend on the child's specific needs.",
+      "**8. Treatment of Underlying Cause:** Depending on the suspected or diagnosed cause of vomiting, specific treatment may be initiated. For example, if it's due to a gastrointestinal infection, supportive care may be provided. If there's an underlying medical condition, targeted therapy may be necessary.",
+      "**9. Isolation Precautions (if infectious):** If vomiting is due to an infectious cause, such as viral gastroenteritis, it's important to follow appropriate infection control measures to prevent the spread of the illness to others.",
+      "**10. Parental and Child Comfort:** Ensure the child is comfortable and reassure parents or caregivers. Provide a calm and supportive environment in the pediatric emergency department.",
+      "**11. Consultation and Follow-up:** Pediatric emergency department healthcare providers will evaluate the child, determine the cause of vomiting, and develop a treatment plan. They will also provide instructions for follow-up care, medications, and when to seek additional medical attention if needed."
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. Stay Calm: It's important for the mother or caregiver to remain calm and reassure the child. Vomiting is often a natural response to various conditions, and it is usually not a cause for immediate concern.",
-        "2. Provide a Safe Environment: Ensure that the child is in a safe and comfortable place where they can vomit without risk. Lay down towels or use a basin to catch the vomit, making cleanup easier.",
-        "3. Offer Fluids in Small Sips: After vomiting, give the child small sips of clear fluids, such as water, oral rehydration solutions (ORS), or diluted fruit juices. This helps prevent dehydration and soothes the throat.",
-        "4. Encourage Rest: Allow the child to rest and relax. Vomiting can be tiring, and rest can help the child recover.",
-        "5. Monitor for Signs of Dehydration: Keep an eye on the child's hydration status. If they continue to vomit and show signs of dehydration, such as dry mouth, sunken eyes, or reduced urine output, consult a healthcare professional.",
-        "6. Maintain Good Hygiene: Practice good hand hygiene and cleanliness, especially when cleaning up after vomiting. Wash your hands thoroughly and clean any soiled bedding or clothing promptly.",
-        "7. Observe for Other Symptoms: Pay attention to any other symptoms that may be present, such as fever, abdominal pain, diarrhea, or signs of illness. These can help identify the underlying cause.",
-        "8. Consult a Healthcare Provider: If the vomiting is severe, prolonged, or accompanied by concerning symptoms, or if the child is very young or has underlying health conditions, contact a healthcare provider for guidance and potential evaluation."
+        "**1. Stay Calm:** It's important for the mother or caregiver to remain calm and reassure the child. Vomiting is often a natural response to various conditions, and it is usually not a cause for immediate concern.",
+        "**2. Provide a Safe Environment:** Ensure that the child is in a safe and comfortable place where they can vomit without risk. Lay down towels or use a basin to catch the vomit, making cleanup easier.",
+        "**3. Offer Fluids in Small Sips:** After vomiting, give the child small sips of clear fluids, such as water, oral rehydration solutions (ORS), or diluted fruit juices. This helps prevent dehydration and soothes the throat.",
+        "**4. Encourage Rest:** Allow the child to rest and relax. Vomiting can be tiring, and rest can help the child recover.",
+        "**5. Monitor for Signs of Dehydration:** Keep an eye on the child's hydration status. If they continue to vomit and show signs of dehydration, such as dry mouth, sunken eyes, or reduced urine output, consult a healthcare professional.",
+        "**6. Maintain Good Hygiene:** Practice good hand hygiene and cleanliness, especially when cleaning up after vomiting. Wash your hands thoroughly and clean any soiled bedding or clothing promptly.",
+        "**7. Observe for Other Symptoms:** Pay attention to any other symptoms that may be present, such as fever, abdominal pain, diarrhea, or signs of illness. These can help identify the underlying cause.",
+        "**8. Consult a Healthcare Provider:** If the vomiting is severe, prolonged, or accompanied by concerning symptoms, or if the child is very young or has underlying health conditions, contact a healthcare provider for guidance and potential evaluation."
       ],
       "Do Not": [
-        "1. Don't Panic: It's natural to be concerned when a child vomits, but try to remain calm. Most episodes of vomiting in children are not emergencies.",
-        "2. Avoid Overfeeding: While it's important to keep the child hydrated, avoid overfeeding or giving large meals immediately after vomiting. Small, frequent sips of fluids are generally better tolerated.",
-        "3. Do Not Force Feed: Do not force the child to eat or drink if they are not interested. Offer fluids, but do not insist if the child is not ready.",
-        "4. Do Not Administer Medications without Professional Advice: Avoid giving over-the-counter medications, especially antiemetics (vomiting medications), without consulting a healthcare provider. The use of medications should be determined by a medical professional based on the cause of vomiting.",
-        "5. Don't Delay Medical Help: If the child exhibits red flag symptoms like severe dehydration, blood in vomit, or other concerning signs, do not delay seeking medical attention.",
-        "6. Do Not Neglect Hygiene: Properly clean up any vomit to prevent the spread of infections, and practice good hygiene to minimize the risk of contamination."
+        "**1. Don't Panic:** It's natural to be concerned when a child vomits, but try to remain calm. Most episodes of vomiting in children are not emergencies.",
+        "**2. Avoid Overfeeding:** While it's important to keep the child hydrated, avoid overfeeding or giving large meals immediately after vomiting. Small, frequent sips of fluids are generally better tolerated.",
+        "**3. Do Not Force Feed:** Do not force the child to eat or drink if they are not interested. Offer fluids, but do not insist if the child is not ready.",
+        "**4. Do Not Administer Medications without Professional Advice:** Avoid giving over-the-counter medications, especially antiemetics (vomiting medications), without consulting a healthcare provider. The use of medications should be determined by a medical professional based on the cause of vomiting.",
+        "**5. Don't Delay Medical Help:** If the child exhibits red flag symptoms like severe dehydration, blood in vomit, or other concerning signs, do not delay seeking medical attention.",
+        "**6. Do Not Neglect Hygiene:** Properly clean up any vomit to prevent the spread of infections, and practice good hygiene to minimize the risk of contamination."
       ]
     }
   }
@@ -68,53 +68,53 @@
   },
   "Diarrhea": {
     "Symptoms": [
-      "1. Frequent, Loose Stools: Diarrhea is often characterized by an increase in the frequency of bowel movements, with stools being looser or more watery than usual.",
-      "2. Abdominal Cramps: Children may experience abdominal discomfort or cramping due to the increased activity in the digestive system.",
-      "3. Nausea and Vomiting: Some children with diarrhea may also feel nauseous or vomit.",
-      "4. Fever: Diarrhea can be accompanied by a fever, which is the body's response to an infection or inflammation.",
-      "5. Dehydration Signs: Watch for signs of dehydration, such as dry mouth, sunken eyes, decreased urine output, lethargy, and increased irritability.",
-      "6. Loss of Appetite: Diarrhea can lead to a temporary loss of appetite in children."
+      "**1. Frequent, Loose Stools:** Diarrhea is often characterized by an increase in the frequency of bowel movements, with stools being looser or more watery than usual.",
+      "**2. Abdominal Cramps:** Children may experience abdominal discomfort or cramping due to the increased activity in the digestive system.",
+      "**3. Nausea and Vomiting:** Some children with diarrhea may also feel nauseous or vomit.",
+      "**4. Fever:** Diarrhea can be accompanied by a fever, which is the body's response to an infection or inflammation.",
+      "**5. Dehydration Signs:** Watch for signs of dehydration, such as dry mouth, sunken eyes, decreased urine output, lethargy, and increased irritability.",
+      "**6. Loss of Appetite:** Diarrhea can lead to a temporary loss of appetite in children."
     ],
     "Red Flags": [
-      "1. Severe Dehydration: Signs of severe dehydration include extreme thirst, dry mouth, sunken eyes, lethargy, and a significant decrease in urine output.",
-      "2. High Fever: If the child has a high fever (above 102°F or 38.9°C), especially if it persists for more than a day or two.",
-      "3. Bloody Stools: The presence of blood in the stools is a serious concern and requires immediate medical attention.",
-      "4. Persistent Vomiting: If the child is unable to keep any fluids down and is continuously vomiting.",
-      "5. Abdominal Pain: Severe abdominal pain that doesn't subside, especially if it's concentrated in one area or associated with other symptoms.",
-      "6. Lethargy and Unresponsiveness: If the child becomes unusually lethargic, unresponsive, or difficult to awaken.",
-      "7. Signs of Serious Infection: Symptoms such as a stiff neck, severe headache, or persistent irritability can indicate a more serious infection."
+      "**1. Severe Dehydration:** Signs of severe dehydration include extreme thirst, dry mouth, sunken eyes, lethargy, and a significant decrease in urine output.",
+      "**2. High Fever:** If the child has a high fever (above 102°F or 38.9°C), especially if it persists for more than a day or two.",
+      "**3. Bloody Stools:** The presence of blood in the stools is a serious concern and requires immediate medical attention.",
+      "**4. Persistent Vomiting:** If the child is unable to keep any fluids down and is continuously vomiting.",
+      "**5. Abdominal Pain:** Severe abdominal pain that doesn't subside, especially if it's concentrated in one area or associated with other symptoms.",
+      "**6. Lethargy and Unresponsiveness:** If the child becomes unusually lethargic, unresponsive, or difficult to awaken.",
+      "**7. Signs of Serious Infection:** Symptoms such as a stiff neck, severe headache, or persistent irritability can indicate a more serious infection."
     ],
     "Initial management": [
-      "1. Hygiene: Emphasize good handwashing practices to prevent the spread of infections.",
-      "2. Clean Water: Ensure that the child has access to clean and safe drinking water. Contaminated water is a common source of diarrheal infections.",
-      "3. Nutrition: Provide a balanced and nutritious diet to support the child's overall health and immune system.",
-      "4. Vaccination: Follow the recommended vaccination schedule for your region. Some vaccines help prevent specific infections that can cause diarrhea.",
+      "**1. Hygiene:** Emphasize good handwashing practices to prevent the spread of infections.",
+      "**2. Clean Water:** Ensure that the child has access to clean and safe drinking water. Contaminated water is a common source of diarrheal infections.",
+      "**3. Nutrition:** Provide a balanced and nutritious diet to support the child's overall health and immune system.",
+      "**4. Vaccination:** Follow the recommended vaccination schedule for your region. Some vaccines help prevent specific infections that can cause diarrhea.",
       {
         "Treatment": [
-          "1. Fluid Replacement: Rehydration is crucial to prevent and manage dehydration. Offer oral rehydration solution (ORS) in small, frequent sips.",
-          "2. Continue Feeding: If the child is still breastfeeding or on a regular diet, continue feeding. Breastfeeding should be maintained, and for formula-fed infants, a doctor may recommend a lactose-free formula temporarily.",
-          "3. Avoid Anti-Diarrheal Medications: Over-the-counter anti-diarrheal medications are generally not recommended for children, especially without medical supervision.",
-          "4. Monitor for Dehydration: Keep a close eye on signs of dehydration, such as decreased urine output, dry mouth, sunken eyes, and lethargy. Seek medical attention if dehydration is a concern.",
-          "5. Maintain Hygiene: Continue practicing good hygiene to prevent the spread of infection. Dispose of diapers properly, clean the child's hands, and disinfect surfaces.",
-          "6. Seek Medical Attention: If the diarrhea is severe, persists for more than a few days, is accompanied by high fever, blood in stools, or signs of dehydration, consult a healthcare professional promptly."
+          "**1. Fluid Replacement:** Rehydration is crucial to prevent and manage dehydration. Offer oral rehydration solution (ORS) in small, frequent sips.",
+          "**2. Continue Feeding:** If the child is still breastfeeding or on a regular diet, continue feeding. Breastfeeding should be maintained, and for formula-fed infants, a doctor may recommend a lactose-free formula temporarily.",
+          "**3. Avoid Anti-Diarrheal Medications:** Over-the-counter anti-diarrheal medications are generally not recommended for children, especially without medical supervision.",
+          "**4. Monitor for Dehydration:** Keep a close eye on signs of dehydration, such as decreased urine output, dry mouth, sunken eyes, and lethargy. Seek medical attention if dehydration is a concern.",
+          "**5. Maintain Hygiene:** Continue practicing good hygiene to prevent the spread of infection. Dispose of diapers properly, clean the child's hands, and disinfect surfaces.",
+          "**6. Seek Medical Attention:** If the diarrhea is severe, persists for more than a few days, is accompanied by high fever, blood in stools, or signs of dehydration, consult a healthcare professional promptly."
         ]
       }
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. Encourage Hydration: Offer plenty of fluids, such as oral rehydration solution (ORS), water, and clear soups, to prevent dehydration.",
-        "2. Continue Feeding: Continue with regular feeding, whether it's breastfeeding or a regular diet. Avoid stopping feeding unless advised by a healthcare professional.",
-        "3. Monitor for Dehydration: Keep a close eye on signs of dehydration, including decreased urine output, dry mouth, sunken eyes, and lethargy.",
-        "4. Practice Good Hygiene: Emphasize proper handwashing for both the child and caregivers to prevent the spread of infections.",
-        "5. Use Oral Rehydration Solution (ORS): If the child is dehydrated, ORS can help replace lost electrolytes. It's available in sachets and should be mixed with clean water according to the package instructions.",
-        "6. Seek Medical Attention: If there are signs of severe dehydration, persistent high fever, blood in stools, or if the diarrhea lasts more than a few days, consult with a healthcare professional."
+        "**1. Encourage Hydration:** Offer plenty of fluids, such as oral rehydration solution (ORS), water, and clear soups, to prevent dehydration.",
+        "**2. Continue Feeding:** Continue with regular feeding, whether it's breastfeeding or a regular diet. Avoid stopping feeding unless advised by a healthcare professional.",
+        "**3. Monitor for Dehydration:** Keep a close eye on signs of dehydration, including decreased urine output, dry mouth, sunken eyes, and lethargy.",
+        "**4. Practice Good Hygiene:** Emphasize proper handwashing for both the child and caregivers to prevent the spread of infections.",
+        "**5. Use Oral Rehydration Solution (ORS):** If the child is dehydrated, ORS can help replace lost electrolytes. It's available in sachets and should be mixed with clean water according to the package instructions.",
+        "**6. Seek Medical Attention:** If there are signs of severe dehydration, persistent high fever, blood in stools, or if the diarrhea lasts more than a few days, consult with a healthcare professional."
       ],
       "Do Not": [
-        "1. Avoid Hydration: Don't withhold fluids, as dehydration is a significant concern. Ensure the child continues to drink fluids regularly.",
-        "2. Skip Breastfeeding: If the child is breastfeeding, don't stop breastfeeding. Breast milk provides essential nutrients and can help in the recovery process.",
-        "3. Avoid Solid Foods: While the diet may need to be adjusted, especially if the child is vomiting, don't completely avoid solid foods unless advised by a healthcare professional.",
-        "4. Use Anti-Diarrheal Medications: Over-the-counter anti-diarrheal medications are generally not recommended for children without medical supervision.",
-        "5. Delay Medical Attention: If there are concerning symptoms or if the child's condition worsens, don't hesitate to seek medical attention promptly."
+        "**1. Avoid Hydration:** Don't withhold fluids, as dehydration is a significant concern. Ensure the child continues to drink fluids regularly.",
+        "**2. Skip Breastfeeding:** If the child is breastfeeding, don't stop breastfeeding. Breast milk provides essential nutrients and can help in the recovery process.",
+        "**3. Avoid Solid Foods:** While the diet may need to be adjusted, especially if the child is vomiting, don't completely avoid solid foods unless advised by a healthcare professional.",
+        "**4. Use Anti-Diarrheal Medications:** Over-the-counter anti-diarrheal medications are generally not recommended for children without medical supervision.",
+        "**5. Delay Medical Attention:** If there are concerning symptoms or if the child's condition worsens, don't hesitate to seek medical attention promptly."
       ]
     }
   }
@@ -125,58 +125,58 @@
   },
   "Constipation": {
     "Symptoms": [
-      "1. *Infrequent Bowel Movements:* If your child is having bowel movements less frequently than usual, it could be a sign of constipation.",
-      "2. *Pain and Discomfort:* Constipated children may experience pain or discomfort while having a bowel movement. They might avoid going to the bathroom because of this.",
-      "3. *Hard Stool:* Stools that are hard, dry, and difficult to pass are common indicators of constipation in children.",
-      "4. *Abdominal Pain:* Your child might complain of stomachaches or cramps related to constipation.",
-      "5. *Blood in Stool:* In severe cases, constipation can lead to tiny tears in the anus, causing traces of blood in the stool.",
-      "6. *Foul-Smelling Gas:* If your child is passing a lot of gas but not having regular bowel movements, it could be a sign of constipation.",
-      "7. *Changes in Behavior:* Irritability, changes in mood, or a reluctance to eat may also be linked to constipation."
+      "**1. Infrequent Bowel Movements:** If your child is having bowel movements less frequently than usual, it could be a sign of constipation.",
+      "**2. Pain and Discomfort:** Constipated children may experience pain or discomfort while having a bowel movement. They might avoid going to the bathroom because of this.",
+      "**3. Hard Stool:** Stools that are hard, dry, and difficult to pass are common indicators of constipation in children.",
+      "**4. Abdominal Pain:** Your child might complain of stomachaches or cramps related to constipation.",
+      "**5. Blood in Stool:** In severe cases, constipation can lead to tiny tears in the anus, causing traces of blood in the stool.",
+      "**6. Foul-Smelling Gas:** If your child is passing a lot of gas but not having regular bowel movements, it could be a sign of constipation.",
+      "**7. Changes in Behavior:** Irritability, changes in mood, or a reluctance to eat may also be linked to constipation."
     ],
     "Red Flags": [
-      "1. *Severe Abdominal Pain:* If your child is experiencing intense and persistent abdominal pain, it could be a sign of a more serious issue.",
-      "2. *Vomiting:* Continuous vomiting accompanied by constipation may indicate a blockage in the intestines.",
-      "3. *Bloody Stools:* If you notice bright red blood in the stool, it's essential to contact a healthcare professional immediately.",
-      "4. *Fever:* A fever along with constipation could be a sign of an infection or another underlying condition.",
-      "5. *Weight Loss:* Unexplained weight loss in a child, especially in conjunction with constipation, requires medical attention.",
-      "6. *Distended Abdomen:* A visibly swollen or distended abdomen could indicate a severe case of constipation or a blockage.",
-      "7. *Lethargy or Weakness:* If your child appears unusually tired, weak, or lethargic, it might be a sign of a more serious issue."
+      "**1. Severe Abdominal Pain:** If your child is experiencing intense and persistent abdominal pain, it could be a sign of a more serious issue.",
+      "**2. Vomiting:** Continuous vomiting accompanied by constipation may indicate a blockage in the intestines.",
+      "**3. Bloody Stools:** If you notice bright red blood in the stool, it's essential to contact a healthcare professional immediately.",
+      "**4. Fever:** A fever along with constipation could be a sign of an infection or another underlying condition.",
+      "**5. Weight Loss:** Unexplained weight loss in a child, especially in conjunction with constipation, requires medical attention.",
+      "**6. Distended Abdomen:** A visibly swollen or distended abdomen could indicate a severe case of constipation or a blockage.",
+      "**7. Lethargy or Weakness:** If your child appears unusually tired, weak, or lethargic, it might be a sign of a more serious issue."
     ],
     "Initial management": [
       {
         "Prophylaxis (Prevention)": [
-          "1. *Hydration:* Ensure your child drinks an adequate amount of water throughout the day. Proper hydration helps soften stools, making them easier to pass.",
-          "2. *Dietary Fiber:* Include fiber-rich foods in your child's diet, such as fruits, vegetables, whole grains, and legumes. Fiber adds bulk to the stool and promotes regular bowel movements.",
-          "3. *Regular Meal Times:* Encourage regular meal times to establish a routine for bowel movements. The gastrocolic reflex is often more active after meals.",
-          "4. *Physical Activity:* Regular physical activity can stimulate bowel movements. Encourage active play and exercise in your child's daily routine.",
-          "5. *Establish a Toilet Routine:* Encourage your child to use the toilet at the same time each day, especially after meals. Creating a routine can help regulate bowel movements."
+          "**1. Hydration:** Ensure your child drinks an adequate amount of water throughout the day. Proper hydration helps soften stools, making them easier to pass.",
+          "**2. Dietary Fiber:** Include fiber-rich foods in your child's diet, such as fruits, vegetables, whole grains, and legumes. Fiber adds bulk to the stool and promotes regular bowel movements.",
+          "**3. Regular Meal Times:** Encourage regular meal times to establish a routine for bowel movements. The gastrocolic reflex is often more active after meals.",
+          "**4. Physical Activity:** Regular physical activity can stimulate bowel movements. Encourage active play and exercise in your child's daily routine.",
+          "**5. Establish a Toilet Routine:** Encourage your child to use the toilet at the same time each day, especially after meals. Creating a routine can help regulate bowel movements."
         ]
       },
       {
         "Treatment": [
-          "1. *Dietary Changes:* If constipation persists, consider adjusting the diet to include more fiber-rich foods. You might also try limiting constipating foods like dairy products.",
-          "2. *Laxatives:* In some cases, a healthcare professional may recommend a mild laxative suitable for children. These should only be used under medical supervision.",
-          "3. *Stool Softeners:* These medications can help soften the stool, making it easier to pass. Again, consult with a healthcare professional before using any over-the-counter medications.",
-          "4. *Enemas or Suppositories:* These may be recommended in severe cases under the guidance of a healthcare provider.",
-          "5. *Behavioral Strategies:* In some cases, constipation can be related to anxiety or fear of using the toilet. Addressing any behavioral issues or anxieties can be an essential part of treatment."
+          "**1. Dietary Changes:** If constipation persists, consider adjusting the diet to include more fiber-rich foods. You might also try limiting constipating foods like dairy products.",
+          "**2. Laxatives:** In some cases, a healthcare professional may recommend a mild laxative suitable for children. These should only be used under medical supervision.",
+          "**3. Stool Softeners:** These medications can help soften the stool, making it easier to pass. Again, consult with a healthcare professional before using any over-the-counter medications.",
+          "**4. Enemas or Suppositories:** These may be recommended in severe cases under the guidance of a healthcare provider.",
+          "**5. Behavioral Strategies:** In some cases, constipation can be related to anxiety or fear of using the toilet. Addressing any behavioral issues or anxieties can be an essential part of treatment."
         ]
       }
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Encourage Hydration:* Ensure your child drinks plenty of water throughout the day. Hydration is crucial for softening stools.",
-        "2. *Fiber-Rich Diet:* Include foods high in fiber, such as fruits, vegetables, whole grains, and legumes, in your child's diet.",
-        "3. *Regular Toilet Habits:* Establish a routine for toilet habits, especially after meals. Encourage your child to listen to their body and not delay going to the bathroom.",
-        "4. *Physical Activity:* Promote regular physical activity and play. Exercise can stimulate bowel movements.",
-        "5. *Positive Reinforcement:* Offer praise when your child successfully uses the toilet. Positive reinforcement can help alleviate anxiety.",
-        "6. *Consult a Healthcare Professional:* If constipation persists or if you're unsure about the best course of action, seek advice from a healthcare professional."
+        "**1. Encourage Hydration:** Ensure your child drinks plenty of water throughout the day. Hydration is crucial for softening stools.",
+        "**2. Fiber-Rich Diet:** Include foods high in fiber, such as fruits, vegetables, whole grains, and legumes, in your child's diet.",
+        "**3. Regular Toilet Habits:** Establish a routine for toilet habits, especially after meals. Encourage your child to listen to their body and not delay going to the bathroom.",
+        "**4. Physical Activity:** Promote regular physical activity and play. Exercise can stimulate bowel movements.",
+        "**5. Positive Reinforcement:** Offer praise when your child successfully uses the toilet. Positive reinforcement can help alleviate anxiety.",
+        "**6. Consult a Healthcare Professional:** If constipation persists or if you're unsure about the best course of action, seek advice from a healthcare professional."
       ],
       "Do Not": [
-        "1. *Withholding Toileting:* If your child feels the urge to use the toilet, encourage them to go rather than holding it in.",
-        "2. *Excessive Dairy Consumption:* Some children may be sensitive to dairy, leading to constipation. If this is a concern, discuss it with a healthcare professional.",
-        "3. *Ignoring Symptoms:* If your child shows signs of severe pain, vomiting, blood in stool, or other red flags, don't ignore these symptoms. Seek prompt medical attention.",
-        "4. *Overusing Laxatives:* Over-the-counter laxatives should only be used under the guidance of a healthcare professional. Avoid self-medicating without professional advice.",
-        "5. *Ignoring Diet:* Ensure your child has a balanced diet with sufficient fiber. Don't rely solely on medications without addressing dietary factors."
+        "**1. Withholding Toileting:** If your child feels the urge to use the toilet, encourage them to go rather than holding it in.",
+        "**2. Excessive Dairy Consumption:** Some children may be sensitive to dairy, leading to constipation. If this is a concern, discuss it with a healthcare professional.",
+        "**3. Ignoring Symptoms:** If your child shows signs of severe pain, vomiting, blood in stool, or other red flags, don't ignore these symptoms. Seek prompt medical attention.",
+        "**4. Overusing Laxatives:** Over-the-counter laxatives should only be used under the guidance of a healthcare professional. Avoid self-medicating without professional advice.",
+        "**5. Ignoring Diet:** Ensure your child has a balanced diet with sufficient fiber. Don't rely solely on medications without addressing dietary factors."
       ]
     }
   }
@@ -187,58 +187,58 @@
   },
   "Febrile convulsion": {
     "Symptoms": [
-      "1. *Fever:* The seizure is usually triggered by a high fever, often above 100.4F (38C).",
-      "2. *Loss of consciousness:* The child may lose consciousness or become unresponsive during the seizure.",
-      "3. *Shaking or jerking movements:* Convulsions may involve rhythmic shaking or jerking movements of the arms and legs.",
-      "4. *Stiffening of the body:* Some children may experience stiffness or rigidity of the body during the seizure.",
-      "5. *Rolling eyes:* The eyes may roll back or flutter during the seizure."
+      "**1. Fever:** The seizure is usually triggered by a high fever, often above 100.4F (38C).",
+      "**2. Loss of consciousness:** The child may lose consciousness or become unresponsive during the seizure.",
+      "**3. Shaking or jerking movements:** Convulsions may involve rhythmic shaking or jerking movements of the arms and legs.",
+      "**4. Stiffening of the body:** Some children may experience stiffness or rigidity of the body during the seizure.",
+      "**5. Rolling eyes:** The eyes may roll back or flutter during the seizure."
     ],
     "Red Flags": [
-      "1. *Seizure Duration:* If the seizure lasts for more than 5 minutes, it's considered prolonged, and emergency medical assistance should be sought.",
-      "2. *Repeated Seizures:* If your child has multiple seizures within a short period, it's a cause for concern and requires prompt medical attention.",
-      "3. *Breathing Difficulties:* If your child is having difficulty breathing or turns blue during or after the seizure, seek immediate medical help.",
-      "4. *Injury During Seizure:* If your child sustains an injury during the seizure, such as a head injury, it's important to seek medical attention.",
-      "5. *Unconsciousness:* If your child does not regain consciousness after the seizure or has difficulty waking up, seek emergency medical assistance.",
-      "6. *Fever Spike:* If the child's body temperature rises rapidly and significantly, it may be a sign of a serious infection, and medical help should be sought.",
-      "7. *First-Time Seizure:* If it's the child's first febrile seizure, it's advisable to seek medical attention to rule out other potential causes and to ensure appropriate management."
+      "**1. Seizure Duration:** If the seizure lasts for more than 5 minutes, it's considered prolonged, and emergency medical assistance should be sought.",
+      "**2. Repeated Seizures:** If your child has multiple seizures within a short period, it's a cause for concern and requires prompt medical attention.",
+      "**3. Breathing Difficulties:** If your child is having difficulty breathing or turns blue during or after the seizure, seek immediate medical help.",
+      "**4. Injury During Seizure:** If your child sustains an injury during the seizure, such as a head injury, it's important to seek medical attention.",
+      "**5. Unconsciousness:** If your child does not regain consciousness after the seizure or has difficulty waking up, seek emergency medical assistance.",
+      "**6. Fever Spike:** If the child's body temperature rises rapidly and significantly, it may be a sign of a serious infection, and medical help should be sought.",
+      "**7. First-Time Seizure:** If it's the child's first febrile seizure, it's advisable to seek medical attention to rule out other potential causes and to ensure appropriate management."
     ],
     "Initial management": [
-      "1. *Ensure Safety:* Place the child on a flat surface away from any sharp objects. Remove any nearby items that could pose a danger.",
-      "2. *Time the Seizure:* Note the start time of the seizure. Most febrile seizures last for a few minutes.",
-      "3. *Positioning:* Turn the child onto their side to prevent choking on saliva or vomit.",
-      "4.  *Do Not Restrain:* Avoid restraining the child's movements during the seizure. It's important to let the seizure run its course.",
-      "5. *Monitor Breathing:* Ensure the child is breathing. If breathing stops, initiate CPR and call for emergency medical help.",
-      "6. *Stay Calm:* Although it's distressing to witness a seizure, try to remain calm. Most febrile seizures stop on their own.",
+      "**1. Ensure Safety:** Place the child on a flat surface away from any sharp objects. Remove any nearby items that could pose a danger.",
+      "**2. Time the Seizure:** Note the start time of the seizure. Most febrile seizures last for a few minutes.",
+      "**3. Positioning:** Turn the child onto their side to prevent choking on saliva or vomit.",
+      "**4.  *Do Not Restrain:** Avoid restraining the child's movements during the seizure. It's important to let the seizure run its course.",
+      "**5. Monitor Breathing:** Ensure the child is breathing. If breathing stops, initiate CPR and call for emergency medical help.",
+      "**6. Stay Calm:** Although it's distressing to witness a seizure, try to remain calm. Most febrile seizures stop on their own.",
       {
         "Prophylaxis (Prevention)": [
-          "1. *Fever Management:* Use appropriate fever-reducing medications, such as acetaminophen (paracetamol) or ibuprofen, to control fever during illnesses.",
-          "2. *Identify and Treat Underlying Illness:* Promptly identify and treat the underlying cause of the fever, such as an infection.",
-          "3. *Antiepileptic Medications:* In some cases, especially if the child has a history of complex or prolonged febrile seizures, a doctor might prescribe antiepileptic medications for prophylaxis."
+          "**1. Fever Management:** Use appropriate fever-reducing medications, such as acetaminophen (paracetamol) or ibuprofen, to control fever during illnesses.",
+          "**2. Identify and Treat Underlying Illness:** Promptly identify and treat the underlying cause of the fever, such as an infection.",
+          "**3. Antiepileptic Medications:** In some cases, especially if the child has a history of complex or prolonged febrile seizures, a doctor might prescribe antiepileptic medications for prophylaxis."
         ]
       },
       {
         "Treatment": [
-          "1. *Emergency Medical Assistance:* If the seizure lasts longer than five minutes, if a second seizure follows immediately, or if the child has difficulty breathing, seek emergency medical assistance.",
-          "2. *Postictal Care:* After the seizure stops, keep the child in a safe and quiet environment. They may be confused or tired after the seizure.",
-          "3. *Medical Evaluation:* Schedule a follow-up with a healthcare professional to determine the cause of the fever and assess the need for further investigation or treatment."
+          "**1. Emergency Medical Assistance:** If the seizure lasts longer than five minutes, if a second seizure follows immediately, or if the child has difficulty breathing, seek emergency medical assistance.",
+          "**2. Postictal Care:** After the seizure stops, keep the child in a safe and quiet environment. They may be confused or tired after the seizure.",
+          "**3. Medical Evaluation:** Schedule a follow-up with a healthcare professional to determine the cause of the fever and assess the need for further investigation or treatment."
         ]
       }
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Stay Calm:* While it's distressing to witness a seizure, try to stay calm. Most febrile seizures are brief and resolve on their own.",
-        "2. *Time the Seizure:* Note the start time of the seizure. If the seizure lasts longer than 5 minutes, seek immediate medical attention.",
-        "3. *Ensure Safety:* Gently place your child on their side to prevent choking. Remove any nearby objects that could cause harm during the seizure.",
-        "4. *Monitor Breathing:* Keep an eye on your child's breathing. If they have difficulty breathing or the lips turn blue, seek emergency medical help.",
-        "5. *Protect the Head:* Place a soft object, such as a folded jacket or blanket, under the child's head to prevent injury.",
-        "6. *After the Seizure:* Once the seizure stops, stay with your child and provide comfort. It's common for a child to be drowsy or confused after a seizure."
+        "**1. Stay Calm:** While it's distressing to witness a seizure, try to stay calm. Most febrile seizures are brief and resolve on their own.",
+        "**2. Time the Seizure:** Note the start time of the seizure. If the seizure lasts longer than 5 minutes, seek immediate medical attention.",
+        "**3. Ensure Safety:** Gently place your child on their side to prevent choking. Remove any nearby objects that could cause harm during the seizure.",
+        "**4. Monitor Breathing:** Keep an eye on your child's breathing. If they have difficulty breathing or the lips turn blue, seek emergency medical help.",
+        "**5. Protect the Head:** Place a soft object, such as a folded jacket or blanket, under the child's head to prevent injury.",
+        "**6. After the Seizure:** Once the seizure stops, stay with your child and provide comfort. It's common for a child to be drowsy or confused after a seizure."
       ],
       "Do Not": [
-        "1. *Restrain the Child:* Avoid restraining your child's movements during a seizure. Let the seizure run its course.",
-        "2. *Put Anything in the Mouth:* Do not attempt to put anything in the child's mouth during a seizure. Contrary to popular belief, there's no risk of swallowing the tongue during a seizure.",
-        "3. *Panic:* While it's natural to feel scared, panicking won't help. Keep a level head and focus on ensuring your child's safety.",
-        "4. *Delay Seeking Medical Attention:* If the seizure lasts longer than 5 minutes, or if another seizure follows immediately, seek emergency medical help.",
-        "5. *Assume Every Fever Leads to Seizures:* Not all fevers lead to seizures. Febrile seizures are relatively common, but not every child with a fever will experience them."
+        "**1. Restrain the Child:** Avoid restraining your child's movements during a seizure. Let the seizure run its course.",
+        "**2. Put Anything in the Mouth:** Do not attempt to put anything in the child's mouth during a seizure. Contrary to popular belief, there's no risk of swallowing the tongue during a seizure.",
+        "**3. Panic:** While it's natural to feel scared, panicking won't help. Keep a level head and focus on ensuring your child's safety.",
+        "**4. Delay Seeking Medical Attention:** If the seizure lasts longer than 5 minutes, or if another seizure follows immediately, seek emergency medical help.",
+        "**5. Assume Every Fever Leads to Seizures:** Not all fevers lead to seizures. Febrile seizures are relatively common, but not every child with a fever will experience them."
       ]
     }
   }
@@ -249,50 +249,50 @@
   },
   "Epilepsy": {
     "Symptoms": [
-      "1. *Seizures:* The hallmark symptom of epilepsy is recurrent seizures. Seizures can take various forms, including staring spells, uncontrolled movements of the arms and legs, or even temporary loss of consciousness.",
-      "2. *Staring spells:* A child may suddenly stop what they are doing and stare blankly into space, often not responding to their surroundings.",
-      "3. *Temporary confusion:* After a seizure, a child may feel confused or disoriented for a short period.",
-      "4. *Uncontrollable movements:* Some seizures involve jerking or twitching movements in the arms, legs, or face.",
-      "5. *Loss of consciousness:* In some cases, a child may lose consciousness during a seizure.",
-      "6. *Repetitive movements:* Children with epilepsy may exhibit repetitive movements, such as hand rubbing, lip smacking, or blinking.",
-      "7. *Changes in behavior:* Epilepsy can sometimes be associated with changes in behavior, mood swings, or difficulty concentrating."
+      "**1. Seizures:** The hallmark symptom of epilepsy is recurrent seizures. Seizures can take various forms, including staring spells, uncontrolled movements of the arms and legs, or even temporary loss of consciousness.",
+      "**2. Staring spells:** A child may suddenly stop what they are doing and stare blankly into space, often not responding to their surroundings.",
+      "**3. Temporary confusion:** After a seizure, a child may feel confused or disoriented for a short period.",
+      "**4. Uncontrollable movements:** Some seizures involve jerking or twitching movements in the arms, legs, or face.",
+      "**5. Loss of consciousness:** In some cases, a child may lose consciousness during a seizure.",
+      "**6. Repetitive movements:** Children with epilepsy may exhibit repetitive movements, such as hand rubbing, lip smacking, or blinking.",
+      "**7. Changes in behavior:** Epilepsy can sometimes be associated with changes in behavior, mood swings, or difficulty concentrating."
     ],
     "Red Flags": [
-      "1. *Seizure lasting more than five minutes:* If a seizure continues for an extended period, it's considered a medical emergency.",
-      "2. *Multiple seizures in a row:* If a child experiences multiple seizures one after another without fully regaining consciousness, it's a cause for concern.",
-      "3. *Difficulty breathing:* If a child has difficulty breathing or the skin turns blue during or after a seizure, seek emergency help immediately.",
-      "4. *Injury during a seizure:* If a child sustains an injury during a seizure, especially if it involves a fall or head injury, it's important to seek medical attention promptly.",
-      "5. *Seizure occurs in water:* If a child has a seizure in the water, such as during bathing or swimming, it poses a drowning risk. Remove the child from the water and seek emergency assistance.",
-      "6. *Prolonged confusion or unresponsiveness:* If a child remains confused, disoriented, or unresponsive for an extended period after a seizure, it's a red flag that requires medical attention.",
-      "7. *First-time seizure:* If a child experiences their first seizure, it's crucial to seek medical evaluation to determine the cause and appropriate management."
+      "**1. Seizure lasting more than five minutes:** If a seizure continues for an extended period, it's considered a medical emergency.",
+      "**2. Multiple seizures in a row:** If a child experiences multiple seizures one after another without fully regaining consciousness, it's a cause for concern.",
+      "**3. Difficulty breathing:** If a child has difficulty breathing or the skin turns blue during or after a seizure, seek emergency help immediately.",
+      "**4. Injury during a seizure:** If a child sustains an injury during a seizure, especially if it involves a fall or head injury, it's important to seek medical attention promptly.",
+      "**5. Seizure occurs in water:** If a child has a seizure in the water, such as during bathing or swimming, it poses a drowning risk. Remove the child from the water and seek emergency assistance.",
+      "**6. Prolonged confusion or unresponsiveness:** If a child remains confused, disoriented, or unresponsive for an extended period after a seizure, it's a red flag that requires medical attention.",
+      "**7. First-time seizure:** If a child experiences their first seizure, it's crucial to seek medical evaluation to determine the cause and appropriate management."
     ],
     "Initial management": [
-      "1. *Medical Evaluation:* Seek a thorough medical evaluation from a healthcare professional, usually a pediatric neurologist, to confirm the diagnosis and identify the type of seizures.",
-      "2. *Antiepileptic Medications (Prophylaxis):* If the child is diagnosed with epilepsy, the primary treatment is often antiepileptic medications.",
-      "3. *Medication Adherence:* It's crucial for parents or caregivers to administer the prescribed medications consistently and as directed by the healthcare provider.",
-      "4. *Regular Monitoring:* Regular follow-up appointments with the healthcare team are essential to monitor the child's response to medication, adjust dosages if needed, and address any side effects or concerns.",
-      "5. *Lifestyle Modifications:* Encourage a healthy lifestyle, including regular sleep patterns, a balanced diet, and regular exercise.",
-      "6. *Seizure Action Plan:* Work with healthcare providers to develop a seizure action plan.",
-      "7. *Education and Support:* Provide education about epilepsy to both the child and their caregivers.",
-      "8. *Safety Measures:* Implement safety measures at home and school to reduce the risk of injury during seizures.",
-      "9. *Avoiding Triggers:* Identify and, if possible, avoid potential triggers for seizures.",
-      "10. *Special Diets:* In some cases, healthcare providers may recommend specific diets, such as the ketogenic diet, as an adjunctive treatment for epilepsy."
+      "**1. Medical Evaluation:** Seek a thorough medical evaluation from a healthcare professional, usually a pediatric neurologist, to confirm the diagnosis and identify the type of seizures.",
+      "**2. Antiepileptic Medications (Prophylaxis):** If the child is diagnosed with epilepsy, the primary treatment is often antiepileptic medications.",
+      "**3. Medication Adherence:** It's crucial for parents or caregivers to administer the prescribed medications consistently and as directed by the healthcare provider.",
+      "**4. Regular Monitoring:** Regular follow-up appointments with the healthcare team are essential to monitor the child's response to medication, adjust dosages if needed, and address any side effects or concerns.",
+      "**5. Lifestyle Modifications:** Encourage a healthy lifestyle, including regular sleep patterns, a balanced diet, and regular exercise.",
+      "**6. Seizure Action Plan:** Work with healthcare providers to develop a seizure action plan.",
+      "**7. Education and Support:** Provide education about epilepsy to both the child and their caregivers.",
+      "**8. Safety Measures:** Implement safety measures at home and school to reduce the risk of injury during seizures.",
+      "**9. Avoiding Triggers:** Identify and, if possible, avoid potential triggers for seizures.",
+      "**10. Special Diets:** In some cases, healthcare providers may recommend specific diets, such as the ketogenic diet, as an adjunctive treatment for epilepsy."
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Follow Medical Advice:* Always adhere to the advice and instructions provided by healthcare professionals.",
-        "2. *Create a Safe Environment:* Implement safety measures at home and school.",
-        "3. *Establish a Routine:* Encourage a consistent daily routine.",
-        "4. *Educate and Raise Awareness:* Educate the child, their peers, teachers, and caregivers about epilepsy.",
-        "5. *Develop a Seizure Action Plan:* Work with healthcare providers to create a seizure action plan.",
-        "6. *Monitor for Triggers:* Pay attention to potential triggers for seizures."
+        "**1. Follow Medical Advice:** Always adhere to the advice and instructions provided by healthcare professionals.",
+        "**2. Create a Safe Environment:** Implement safety measures at home and school.",
+        "**3. Establish a Routine:** Encourage a consistent daily routine.",
+        "**4. Educate and Raise Awareness:** Educate the child, their peers, teachers, and caregivers about epilepsy.",
+        "**5. Develop a Seizure Action Plan:** Work with healthcare providers to create a seizure action plan.",
+        "**6. Monitor for Triggers:** Pay attention to potential triggers for seizures."
       ],
       "Do Not": [
-        "1. *Discontinue Medications Abruptly:* Never stop or adjust antiepileptic medications without consulting with the healthcare provider.",
-        "2. *Neglect Regular Follow-ups:* Attend regular follow-up appointments with the healthcare team.",
-        "3. *Overlook Emotional Well-being:* Consider the emotional well-being of the child.",
-        "4. *Ignore Safety Concerns:* Take appropriate precautions to prevent accidents.",
-        "5. *Exclude the Child:* Foster a supportive and inclusive environment at home and school."
+        "**1. Discontinue Medications Abruptly:** Never stop or adjust antiepileptic medications without consulting with the healthcare provider.",
+        "**2. Neglect Regular Follow-ups:** Attend regular follow-up appointments with the healthcare team.",
+        "**3. Overlook Emotional Well-being:** Consider the emotional well-being of the child.",
+        "**4. Ignore Safety Concerns:** Take appropriate precautions to prevent accidents.",
+        "**5. Exclude the Child:** Foster a supportive and inclusive environment at home and school."
       ]
     }
   }
@@ -303,62 +303,62 @@
   },
   "Fever": {
     "Symptoms": [
-      "1. *Irritability:* Children may become more fussy or cranky than usual.",
-      "2. *Flushed face:* The skin may appear redder than usual.",
-      "3. *Shivering or chills:* Children may experience episodes of shivering or feeling cold.",
-      "4. *Lack of appetite:* Fever can often lead to a decreased desire to eat.",
-      "5. *Difficulty sleeping:* Discomfort from fever can make it challenging for children to sleep well.",
-      "6. *Fatigue:* Fever can cause tiredness and overall lethargy.",
-      "7. *Dehydration:* There may be signs of dehydration, such as reduced urination or dry mouth."
+      "**1. Irritability:** Children may become more fussy or cranky than usual.",
+      "**2. Flushed face:** The skin may appear redder than usual.",
+      "**3. Shivering or chills:** Children may experience episodes of shivering or feeling cold.",
+      "**4. Lack of appetite:** Fever can often lead to a decreased desire to eat.",
+      "**5. Difficulty sleeping:** Discomfort from fever can make it challenging for children to sleep well.",
+      "**6. Fatigue:** Fever can cause tiredness and overall lethargy.",
+      "**7. Dehydration:** There may be signs of dehydration, such as reduced urination or dry mouth."
     ],
     "Red Flags": [
-      "1. *High Temperature:* If the child's temperature is very high (above 104°F or 40°C), especially in younger children, it's a cause for concern.",
-      "2. *Persistent Fever:* If the fever lasts more than a couple of days without improvement, it's important to seek medical advice.",
-      "3. *Difficulty Breathing:* Rapid breathing, shortness of breath, or any signs of respiratory distress should not be ignored.",
-      "4. *Seizures:* If a child experiences a seizure associated with the fever, it's a medical emergency.",
-      "5. *Stiff Neck:* A stiff neck, especially when the child cannot touch the chin to the chest, can be a sign of meningitis.",
-      "6. *Severe Headache:* Persistent, severe headaches can be a concern.",
-      "7. *Persistent Vomiting:* If a child is unable to keep fluids down and is becoming dehydrated.",
-      "8. *Unresponsiveness:* If the child is unusually lethargic, unresponsive, or difficult to wake up.",
-      "9. *Rash:* A rash that is widespread or associated with other symptoms can be a sign of a serious infection.",
-      "10. *Concerns for Dehydration:* If there are signs of dehydration, such as a dry mouth, sunken eyes, or very reduced urine output."
+      "**1. High Temperature:** If the child's temperature is very high (above 104°F or 40°C), especially in younger children, it's a cause for concern.",
+      "**2. Persistent Fever:** If the fever lasts more than a couple of days without improvement, it's important to seek medical advice.",
+      "**3. Difficulty Breathing:** Rapid breathing, shortness of breath, or any signs of respiratory distress should not be ignored.",
+      "**4. Seizures:** If a child experiences a seizure associated with the fever, it's a medical emergency.",
+      "**5. Stiff Neck:** A stiff neck, especially when the child cannot touch the chin to the chest, can be a sign of meningitis.",
+      "**6. Severe Headache:** Persistent, severe headaches can be a concern.",
+      "**7. Persistent Vomiting:** If a child is unable to keep fluids down and is becoming dehydrated.",
+      "**8. Unresponsiveness:** If the child is unusually lethargic, unresponsive, or difficult to wake up.",
+      "**9. Rash:** A rash that is widespread or associated with other symptoms can be a sign of a serious infection.",
+      "**10. Concerns for Dehydration:** If there are signs of dehydration, such as a dry mouth, sunken eyes, or very reduced urine output."
     ],
     "Initial management": [
       {
         "Prophylaxis": [
-          "1. *Hydration:* Encourage the child to drink plenty of fluids to prevent dehydration.",
-          "2. *Appropriate Clothing:* Dress the child in lightweight and breathable clothing. Avoid overdressing.",
-          "3. *Room Temperature:* Maintain a comfortable room temperature. Avoid overheating the room.",
-          "4. *Good Hygiene:* Practice good hygiene to prevent the spread of infections."
+          "**1. Hydration:** Encourage the child to drink plenty of fluids to prevent dehydration.",
+          "**2. Appropriate Clothing:** Dress the child in lightweight and breathable clothing. Avoid overdressing.",
+          "**3. Room Temperature:** Maintain a comfortable room temperature. Avoid overheating the room.",
+          "**4. Good Hygiene:** Practice good hygiene to prevent the spread of infections."
         ]
       },
       {
         "Treatment": [
-          "1. *Acetaminophen (Tylenol) or Ibuprofen:* These over-the-counter medications can help reduce fever and alleviate discomfort (consult a healthcare professional for appropriate dosage).",
-          "2. *Sponge Bath:* If the fever is high, a sponge bath with lukewarm water can help bring the temperature down.",
-          "3. *Rest:* Ensure the child gets plenty of rest to help the body recover.",
-          "4. *Comfort Measures:* Use comfort measures such as a cool compress on the forehead or offering favorite toys or blankets.",
-          "5. *Monitor Temperature:* Regularly monitor the child's temperature using a thermometer.",
-          "6. *Consult a Healthcare Professional:* Seek medical advice if the fever persists or is accompanied by other concerning symptoms."
+          "**1. Acetaminophen (Tylenol) or Ibuprofen:** These over-the-counter medications can help reduce fever and alleviate discomfort (consult a healthcare professional for appropriate dosage).",
+          "**2. Sponge Bath:** If the fever is high, a sponge bath with lukewarm water can help bring the temperature down.",
+          "**3. Rest:** Ensure the child gets plenty of rest to help the body recover.",
+          "**4. Comfort Measures:** Use comfort measures such as a cool compress on the forehead or offering favorite toys or blankets.",
+          "**5. Monitor Temperature:** Regularly monitor the child's temperature using a thermometer.",
+          "**6. Consult a Healthcare Professional:** Seek medical advice if the fever persists or is accompanied by other concerning symptoms."
         ]
       }
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Monitor Temperature:* Regularly check the child's temperature to track the fever's progression.",
-        "2. *Hydrate:* Encourage the child to drink fluids to prevent dehydration.",
-        "3. *Rest:* Ensure the child gets plenty of rest to support the body's healing process.",
-        "4. *Comfort Measures:* Use comfort measures to ease discomfort.",
-        "5. *Use Medications Wisely:* If advised by a healthcare professional, use appropriate over-the-counter medications like acetaminophen or ibuprofen.",
-        "6. *Consult a Healthcare Professional:* Seek medical advice promptly if the fever is persistent, high, or accompanied by concerning symptoms."
+        "**1. Monitor Temperature:** Regularly check the child's temperature to track the fever's progression.",
+        "**2. Hydrate:** Encourage the child to drink fluids to prevent dehydration.",
+        "**3. Rest:** Ensure the child gets plenty of rest to support the body's healing process.",
+        "**4. Comfort Measures:** Use comfort measures to ease discomfort.",
+        "**5. Use Medications Wisely:** If advised by a healthcare professional, use appropriate over-the-counter medications like acetaminophen or ibuprofen.",
+        "**6. Consult a Healthcare Professional:** Seek medical advice promptly if the fever is persistent, high, or accompanied by concerning symptoms."
       ],
       "Do Not": [
-        "1. *Overmedicate:* Avoid giving multiple fever-reducing medications simultaneously, and never exceed the recommended dosage.",
-        "2. *Bundle Up Too Much:* Avoid excessive bundling, as it may raise body temperature.",
-        "3. *Use Cold Water for Sponging:* If using a sponge bath, avoid using cold water. Lukewarm water is more appropriate.",
-        "4. *Delay Medical Attention:* If you're concerned about the child's symptoms, don't hesitate to consult a healthcare professional.",
-        "5. *Ignore Signs of Dehydration:* Pay attention to signs of dehydration and seek medical help if necessary.",
-        "6. *Ignore Other Symptoms:* If the child has other concerning symptoms, such as difficulty breathing, persistent vomiting, or signs of a more serious illness, don't ignore these signs. seek medical attention promptly."
+        "**1. Overmedicate:** Avoid giving multiple fever-reducing medications simultaneously, and never exceed the recommended dosage.",
+        "**2. Bundle Up Too Much:** Avoid excessive bundling, as it may raise body temperature.",
+        "**3. Use Cold Water for Sponging:** If using a sponge bath, avoid using cold water. Lukewarm water is more appropriate.",
+        "**4. Delay Medical Attention:** If you're concerned about the child's symptoms, don't hesitate to consult a healthcare professional.",
+        "**5. Ignore Signs of Dehydration:** Pay attention to signs of dehydration and seek medical help if necessary.",
+        "**6. Ignore Other Symptoms:** If the child has other concerning symptoms, such as difficulty breathing, persistent vomiting, or signs of a more serious illness, don't ignore these signs. seek medical attention promptly."
       ]
     }
   }
@@ -369,51 +369,51 @@
   },
   "Choking": {
     "Symptoms": [
-      "1. *Coughing or gagging:* This is the body's natural attempt to clear the airway.",
-      "2. *Inability to breathe or difficulty breathing:* If the child is struggling to breathe or making high-pitched sounds while inhaling, it could be a sign of a blocked airway.",
-      "3. *Panic or distress:* The child may show signs of fear, panic, or anxiety.",
-      "4. *Inability to speak or cry:* If the child can't make any noise or is having difficulty vocalizing, it could indicate a blockage.",
-      "5. *Bluish skin color:* This is a sign of oxygen deprivation and requires immediate attention."
+      "**1. Coughing or gagging:** This is the body's natural attempt to clear the airway.",
+      "**2. Inability to breathe or difficulty breathing:** If the child is struggling to breathe or making high-pitched sounds while inhaling, it could be a sign of a blocked airway.",
+      "**3. Panic or distress:** The child may show signs of fear, panic, or anxiety.",
+      "**4. Inability to speak or cry:** If the child can't make any noise or is having difficulty vocalizing, it could indicate a blockage.",
+      "**5. Bluish skin color:** This is a sign of oxygen deprivation and requires immediate attention."
     ],
     "Red Flags": [
-      "1. *Inability to breathe:* If the child is struggling to breathe or unable to breathe at all, it's a critical situation.",
-      "2. *High-pitched noises:* If you hear a high-pitched sound while the child is inhaling, it could indicate a blockage in the airway.",
-      "3. *Cyanosis (bluish skin color):* This suggests a lack of oxygen and is a clear sign of a serious problem.",
-      "4. *Loss of consciousness:* If the child loses consciousness, it's an emergency. Begin CPR and continue until professional help arrives.",
-      "5. *Inability to cough, cry, or speak:* If the child can't make any noise or is having difficulty vocalizing, it signals a significant obstruction."
+      "**1. Inability to breathe:** If the child is struggling to breathe or unable to breathe at all, it's a critical situation.",
+      "**2. High-pitched noises:** If you hear a high-pitched sound while the child is inhaling, it could indicate a blockage in the airway.",
+      "**3. Cyanosis (bluish skin color):** This suggests a lack of oxygen and is a clear sign of a serious problem.",
+      "**4. Loss of consciousness:** If the child loses consciousness, it's an emergency. Begin CPR and continue until professional help arrives.",
+      "**5. Inability to cough, cry, or speak:** If the child can't make any noise or is having difficulty vocalizing, it signals a significant obstruction."
     ],
     "Initial management": [
       {
         "Prophylaxis": [
-          "1. *Supervise Meals:* Always supervise young children while they are eating, and encourage them to sit down while eating.",
-          "2. *Cut Food into Small Pieces:* Cut food into small, manageable pieces, especially for toddlers and young children.",
-          "3. *Teach Chewing:* Encourage children to chew their food thoroughly before swallowing.",
-          "4. *Avoid Choking Hazards:* Keep small objects, toys, and items that could be choking hazards out of reach of young children.",
-          "5. *Childproof Environment:* Make sure the child's environment is childproofed, focusing on removing small objects that they could put in their mouths."
+          "**1. Supervise Meals:** Always supervise young children while they are eating, and encourage them to sit down while eating.",
+          "**2. Cut Food into Small Pieces:** Cut food into small, manageable pieces, especially for toddlers and young children.",
+          "**3. Teach Chewing:** Encourage children to chew their food thoroughly before swallowing.",
+          "**4. Avoid Choking Hazards:** Keep small objects, toys, and items that could be choking hazards out of reach of young children.",
+          "**5. Childproof Environment:** Make sure the child's environment is childproofed, focusing on removing small objects that they could put in their mouths."
         ]
       },
       {
         "Treatment for Choking": [
-          "1. *For a Conscious Child:* Encourage Coughing, Back Blows, Abdominal Thrusts (Heimlich Maneuver).",
-          "2. *Call for Help:* If the obstruction isn't relieved, call emergency services.",
-          "3. *For an Unconscious Child:* Call Emergency Services, Begin CPR."
+          "**1. For a Conscious Child:** Encourage Coughing, Back Blows, Abdominal Thrusts (Heimlich Maneuver).",
+          "**2. Call for Help:** If the obstruction isn't relieved, call emergency services.",
+          "**3. For an Unconscious Child:** Call Emergency Services, Begin CPR."
         ]
       }
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Stay Calm:* It's crucial to remain calm to think clearly and act effectively.",
-        "2. *Encourage Coughing:* If the child is coughing forcefully, encourage them to continue coughing.",
-        "3. *Perform Back Blows and Abdominal Thrusts:* Follow the appropriate procedure based on the child's age.",
-        "4. *Call for Help:* If necessary, call emergency services immediately.",
-        "5. *Begin CPR for an Unconscious Child:* Check for the object causing the obstruction between each set of chest compressions."
+        "**1. Stay Calm:** It's crucial to remain calm to think clearly and act effectively.",
+        "**2. Encourage Coughing:** If the child is coughing forcefully, encourage them to continue coughing.",
+        "**3. Perform Back Blows and Abdominal Thrusts:** Follow the appropriate procedure based on the child's age.",
+        "**4. Call for Help:** If necessary, call emergency services immediately.",
+        "**5. Begin CPR for an Unconscious Child:** Check for the object causing the obstruction between each set of chest compressions."
       ],
       "Do Not": [
-        "1. *Panic:* Try to stay calm, as panic can interfere with clear thinking and effective action.",
-        "2. *Use Blind Finger Sweeps:* Only perform a finger sweep if you can see the object; avoid blindly sweeping the child's mouth.",
-        "3. *Delay Calling for Help:* Time is critical in these situations; don't wait to call emergency services.",
-        "4. *Use Abdominal Thrusts on Infants:* Use back blows and chest thrusts instead.",
-        "5. *Offer Water or Fluids:* Avoid giving water or fluids to a choking child as it can worsen the situation."
+        "**1. Panic:** Try to stay calm, as panic can interfere with clear thinking and effective action.",
+        "**2. Use Blind Finger Sweeps:** Only perform a finger sweep if you can see the object; avoid blindly sweeping the child's mouth.",
+        "**3. Delay Calling for Help:** Time is critical in these situations; don't wait to call emergency services.",
+        "**4. Use Abdominal Thrusts on Infants:** Use back blows and chest thrusts instead.",
+        "**5. Offer Water or Fluids:** Avoid giving water or fluids to a choking child as it can worsen the situation."
       ]
     }
   }
@@ -424,60 +424,60 @@
   },
   "Acute asthma": {
     "Symptoms": [
-      "1. *Coughing:* Persistent cough, especially at night, may be a sign of asthma.",
-      "2. *Wheezing:* A whistling or squeaky sound when breathing.",
-      "3. *Shortness of breath:* The child may seem breathless or struggle to catch their breath.",
-      "4. *Chest tightness:* A feeling of tightness or discomfort in the chest.",
-      "5. *Rapid breathing:* Faster than usual breathing.",
-      "6. *Retractions:* The skin between the ribs or at the neck may appear to pull in with each breath."
+      "**1. Coughing:** Persistent cough, especially at night, may be a sign of asthma.",
+      "**2. Wheezing:** A whistling or squeaky sound when breathing.",
+      "**3. Shortness of breath:** The child may seem breathless or struggle to catch their breath.",
+      "**4. Chest tightness:** A feeling of tightness or discomfort in the chest.",
+      "**5. Rapid breathing:** Faster than usual breathing.",
+      "**6. Retractions:** The skin between the ribs or at the neck may appear to pull in with each breath."
     ],
     "Red Flags": [
-      "1. *Severe Breathlessness:* Signs of severe breathlessness, rapid breathing, or use of accessory muscles.",
-      "2. *Inability to Speak or Feed:* Difficulty speaking or feeding due to breathing difficulty.",
-      "3. *Worsening Wheezing:* Wheezing getting worse despite using a rescue inhaler.",
-      "4. *Persistent Cough:* Continuous cough without relief.",
-      "5. *No Improvement After Medication:* Symptoms worsening or no improvement after administering asthma medications.",
-      "6. *Lethargy or Confusion:* Extreme tiredness, lethargy, or confusion indicating lack of oxygen.",
-      "7. *Bluish Lips or Face:* Cyanosis (bluish discoloration) signaling lack of oxygen."
+      "**1. Severe Breathlessness:** Signs of severe breathlessness, rapid breathing, or use of accessory muscles.",
+      "**2. Inability to Speak or Feed:** Difficulty speaking or feeding due to breathing difficulty.",
+      "**3. Worsening Wheezing:** Wheezing getting worse despite using a rescue inhaler.",
+      "**4. Persistent Cough:** Continuous cough without relief.",
+      "**5. No Improvement After Medication:** Symptoms worsening or no improvement after administering asthma medications.",
+      "**6. Lethargy or Confusion:** Extreme tiredness, lethargy, or confusion indicating lack of oxygen.",
+      "**7. Bluish Lips or Face:** Cyanosis (bluish discoloration) signaling lack of oxygen."
     ],
     "Initial management": [
       {
         "Prophylaxis": [
-          "1. *Long-term control medications:* e.g., inhaled corticosteroids, leukotriene modifiers, or long-acting beta-agonists.",
-          "2. *Identifying triggers:* Work with healthcare professionals to identify and avoid triggers.",
-          "3. *Regular follow-ups:* Schedule regular check-ups for monitoring and treatment adjustments."
+          "**1. Long-term control medications:** e.g., inhaled corticosteroids, leukotriene modifiers, or long-acting beta-agonists.",
+          "**2. Identifying triggers:** Work with healthcare professionals to identify and avoid triggers.",
+          "**3. Regular follow-ups:** Schedule regular check-ups for monitoring and treatment adjustments."
         ]
       },
       {
         "Treatment during Acute Asthma Attacks": [
-          "1. *Short-acting beta-agonists (SABA):* Albuterol or similar medications to relieve acute symptoms.",
-          "2. *Systemic corticosteroids:* Prednisone or equivalent to reduce inflammation in severe cases.",
-          "3. *Oxygen therapy:* For severe respiratory distress.",
-          "4. *Monitoring:* Keep a close eye on vital signs; seek emergency help if needed."
+          "**1. Short-acting beta-agonists (SABA):** Albuterol or similar medications to relieve acute symptoms.",
+          "**2. Systemic corticosteroids:** Prednisone or equivalent to reduce inflammation in severe cases.",
+          "**3. Oxygen therapy:** For severe respiratory distress.",
+          "**4. Monitoring:** Keep a close eye on vital signs; seek emergency help if needed."
         ]
       },
       {
         "Emergency Action Plan": [
-          "1. *Work with healthcare professionals:* Create an asthma action plan for specific steps during an asthma attack."
+          "**1. Work with healthcare professionals:** Create an asthma action plan for specific steps during an asthma attack."
         ]
       }
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Stay Calm:* Keep yourself calm to reassure the child.",
-        "2. *Administer Rescue Inhaler:* Use the prescribed rescue inhaler as directed.",
-        "3. *Use a Spacer:* If available, use a spacer with the inhaler for better medication delivery.",
-        "4. *Encourage Slow Breathing:* Promote slow, deep breaths.",
-        "5. *Keep the Child Upright:* Maintain an upright position for easier breathing.",
-        "6. *Seek Medical Help:* If symptoms persist or worsen after using the inhaler, seek immediate medical attention."
+        "**1. Stay Calm:** Keep yourself calm to reassure the child.",
+        "**2. Administer Rescue Inhaler:** Use the prescribed rescue inhaler as directed.",
+        "**3. Use a Spacer:** If available, use a spacer with the inhaler for better medication delivery.",
+        "**4. Encourage Slow Breathing:** Promote slow, deep breaths.",
+        "**5. Keep the Child Upright:** Maintain an upright position for easier breathing.",
+        "**6. Seek Medical Help:** If symptoms persist or worsen after using the inhaler, seek immediate medical attention."
       ],
       "Do Not": [
-        "1. *Ignore Symptoms:* Promptly address asthma symptoms without underestimating their severity.",
-        "2. *Overuse Inhaler:* Follow the prescribed dosage for the rescue inhaler.",
-        "3. *Delay Seeking Medical Help:* Act promptly if breathing difficulties persist.",
-        "4. *Exposure to Triggers:* Identify and avoid known triggers.",
-        "5. *Panic:* Try to remain calm; panic can escalate the situation.",
-        "6. *Use Home Remedies:* Rely on prescribed medications during acute asthma attacks."
+        "**1. Ignore Symptoms:** Promptly address asthma symptoms without underestimating their severity.",
+        "**2. Overuse Inhaler:** Follow the prescribed dosage for the rescue inhaler.",
+        "**3. Delay Seeking Medical Help:** Act promptly if breathing difficulties persist.",
+        "**4. Exposure to Triggers:** Identify and avoid known triggers.",
+        "**5. Panic:** Try to remain calm; panic can escalate the situation.",
+        "**6. Use Home Remedies:** Rely on prescribed medications during acute asthma attacks."
       ]
     }
   }
@@ -487,15 +487,15 @@
     "$oid": "65e4a4ef8ed0c5d25deaf4f5"
   },
   "Burn": {
-    "Symptoms": "",
+    "Symptoms": [],
     "Red Flags": [
-      "1. *Difficulty Breathing or Respiratory Distress:* Burns affecting the face or chest causing difficulty breathing require immediate medical attention.",
-      "2. *Burns Involving Sensitive Areas:* Such as face, hands, feet, genitals, or major joints may need specialized medical attention.",
-      "3. *Burns with Blisters or Open Wounds:* Second-degree burns with blisters or open wounds are prone to infection and may need medical care.",
-      "4. *Large or Deep Burns:* Those covering a significant body area or depth require evaluation by a medical professional.",
-      "5. *Electrical or Chemical Burns:* If caused by electricity or chemicals, seek immediate medical attention.",
-      "6. *Circumferential Burns:* Burns wrapping around limbs or the torso can affect circulation and may need medical intervention.",
-      "7. *Signs of Shock:* Pale, clammy skin, rapid breathing, and weak pulse indicate shock; seek emergency help."
+      "**1. Difficulty Breathing or Respiratory Distress:** Burns affecting the face or chest causing difficulty breathing require immediate medical attention.",
+      "**2. Burns Involving Sensitive Areas:** Such as face, hands, feet, genitals, or major joints may need specialized medical attention.",
+      "**3. Burns with Blisters or Open Wounds:** Second-degree burns with blisters or open wounds are prone to infection and may need medical care.",
+      "**4. Large or Deep Burns:** Those covering a significant body area or depth require evaluation by a medical professional.",
+      "**5. Electrical or Chemical Burns:** If caused by electricity or chemicals, seek immediate medical attention.",
+      "**6. Circumferential Burns:** Burns wrapping around limbs or the torso can affect circulation and may need medical intervention.",
+      "**7. Signs of Shock:** Pale, clammy skin, rapid breathing, and weak pulse indicate shock; seek emergency help."
     ],
     "Initial management": [
       "First aid for major burns is crucial before medical care.",
@@ -513,21 +513,21 @@
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Cool the Burn:* Use cool (not cold) running water for 10-20 minutes.",
-        "2. *Remove Constrictive Items:* Take off tight clothing or jewelry before swelling occurs.",
-        "3. *Protect the Burn:* Cover with a sterile non-stick dressing to reduce infection risk.",
-        "4. *Seek Medical Attention:* For severe burns, large areas, or second/third-degree burns.",
-        "5. *Keep Calm:* Minimize stress and anxiety.",
-        "6. *Encourage Hydration:* Drink fluids to stay hydrated, especially with extensive burns.",
-        "7. *Use Pain Relief:* Over-the-counter pain relievers suitable for the child's age."
+        "**1. Cool the Burn:** Use cool (not cold) running water for 10-20 minutes.",
+        "**2. Remove Constrictive Items:** Take off tight clothing or jewelry before swelling occurs.",
+        "**3. Protect the Burn:** Cover with a sterile non-stick dressing to reduce infection risk.",
+        "**4. Seek Medical Attention:** For severe burns, large areas, or second/third-degree burns.",
+        "**5. Keep Calm:** Minimize stress and anxiety.",
+        "**6. Encourage Hydration:** Drink fluids to stay hydrated, especially with extensive burns.",
+        "**7. Use Pain Relief:** Over-the-counter pain relievers suitable for the child's age."
       ],
       "Do Not": [
-        "1. *Use Ice:* Avoid using ice directly on the burn.",
-        "2. *Break Blisters:* Do not pop or break blisters; it increases infection risk.",
-        "3. *Apply Home Remedies:* Avoid butter, oils, or other home remedies.",
-        "4. *Use Adhesive Bandages Directly:* Avoid placing adhesive bandages directly on the burn.",
-        "5. *Underestimate Severity:* Take any burn seriously; seek medical advice if unsure.",
-        "6. *Delay Medical Attention:* Especially for severe burns or if unsure about care."
+        "**1. Use Ice:** Avoid using ice directly on the burn.",
+        "**2. Break Blisters:** Do not pop or break blisters; it increases infection risk.",
+        "**3. Apply Home Remedies:** Avoid butter, oils, or other home remedies.",
+        "**4. Use Adhesive Bandages Directly:** Avoid placing adhesive bandages directly on the burn.",
+        "**5. Underestimate Severity:** Take any burn seriously; seek medical advice if unsure.",
+        "**6. Delay Medical Attention:** Especially for severe burns or if unsure about care."
       ]
     }
   }
@@ -538,46 +538,46 @@
   },
   "Corrosive Ingestion": {
     "Symptoms": [
-      "1. *Oral Pain:* The child may experience intense pain in the mouth and throat. They may be reluctant to open their mouth or may cry when attempting to eat or drink.",
-      "2. *Difficulty Swallowing:* Swallowing may become difficult due to the damage caused to the esophagus. The child may drool excessively or refuse to swallow.",
-      "3. *Vomiting:* The child may vomit, and the vomitus may contain blood or have a coffee-ground appearance, indicating possible internal bleeding.",
-      "4. *Abdominal Pain:* Pain in the abdominal area may occur due to damage to the stomach and surrounding tissues.",
-      "5. *Nausea:* The child may feel nauseous or may even experience repeated episodes of vomiting.",
-      "6. *Breathing Difficulties:* In severe cases, the corrosive substance can cause swelling and narrowing of the airways, leading to difficulty breathing.",
-      "7. *Excessive Salivation:* There may be an increase in saliva production, leading to drooling."
+      "**1. Oral Pain:** The child may experience intense pain in the mouth and throat. They may be reluctant to open their mouth or may cry when attempting to eat or drink.",
+      "**2. Difficulty Swallowing:** Swallowing may become difficult due to the damage caused to the esophagus. The child may drool excessively or refuse to swallow.",
+      "**3. Vomiting:** The child may vomit, and the vomitus may contain blood or have a coffee-ground appearance, indicating possible internal bleeding.",
+      "**4. Abdominal Pain:** Pain in the abdominal area may occur due to damage to the stomach and surrounding tissues.",
+      "**5. Nausea:** The child may feel nauseous or may even experience repeated episodes of vomiting.",
+      "**6. Breathing Difficulties:** In severe cases, the corrosive substance can cause swelling and narrowing of the airways, leading to difficulty breathing.",
+      "**7. Excessive Salivation:** There may be an increase in saliva production, leading to drooling."
     ],
     "Red Flags": [
-      "1. *Difficulty Breathing:* If the child is having difficulty breathing or shows signs of respiratory distress, call for emergency medical assistance immediately.",
-      "2. *Loss of Consciousness:* If the child loses consciousness or becomes unresponsive, call for emergency help without delay.",
-      "3. *Severe Pain:* If the child is experiencing severe pain in the mouth, throat, or abdomen, it may indicate significant damage. Call for help right away.",
-      "4. *Vomiting Blood or Dark Material:* If the child vomits blood or material that looks like coffee grounds, it suggests potential internal bleeding. This is a medical emergency, and immediate assistance is needed.",
-      "5. *Drooling:* Excessive drooling may be a sign of significant injury to the mouth, throat, or esophagus. Seek emergency medical help if you observe this symptom.",
-      "6. *Inability to Swallow:* If the child cannot swallow or is experiencing extreme difficulty swallowing, it indicates a serious problem. Call for help immediately.",
-      "7. *Visible Burns or Blisters:* If you observe visible burns or blisters around the mouth or on the skin, it suggests a corrosive substance exposure. Call for emergency assistance.",
-      "8. *Restlessness or Agitation:* Severe discomfort may lead to restlessness or agitation in the child. If the child is visibly distressed, seek emergency help."
+      "**1. Difficulty Breathing:** If the child is having difficulty breathing or shows signs of respiratory distress, call for emergency medical assistance immediately.",
+      "**2. Loss of Consciousness:** If the child loses consciousness or becomes unresponsive, call for emergency help without delay.",
+      "**3. Severe Pain:** If the child is experiencing severe pain in the mouth, throat, or abdomen, it may indicate significant damage. Call for help right away.",
+      "**4. Vomiting Blood or Dark Material:** If the child vomits blood or material that looks like coffee grounds, it suggests potential internal bleeding. This is a medical emergency, and immediate assistance is needed.",
+      "**5. Drooling:** Excessive drooling may be a sign of significant injury to the mouth, throat, or esophagus. Seek emergency medical help if you observe this symptom.",
+      "**6. Inability to Swallow:** If the child cannot swallow or is experiencing extreme difficulty swallowing, it indicates a serious problem. Call for help immediately.",
+      "**7. Visible Burns or Blisters:** If you observe visible burns or blisters around the mouth or on the skin, it suggests a corrosive substance exposure. Call for emergency assistance.",
+      "**8. Restlessness or Agitation:** Severe discomfort may lead to restlessness or agitation in the child. If the child is visibly distressed, seek emergency help."
     ],
     "Initial management": [
-      "1. *Call for Emergency Help:* - Dial your local emergency number (e.g., 911 in the United States) as soon as you suspect corrosive ingestion. Provide as much information as possible about the substance ingested and the child's symptoms.",
-      "2. *Do NOT Induce Vomiting:* - Unlike some other types of ingestions, it is generally not recommended to induce vomiting in cases of corrosive substance ingestion. This can cause further damage to the esophagus.",
-      "3. *Do NOT Give Anything by Mouth:* - Refrain from giving the child anything to eat or drink unless directed by medical professionals. Giving fluids or attempting to neutralize the substance can worsen the damage.",
-      "4. *Rinse Mouth (if advised):* - In some cases, medical professionals may advise you to rinse the child's mouth with water if the corrosive substance is not a strong acid or base. However, this should only be done if specifically recommended by emergency services.",
-      "5. *Prevent Aspiration:* - Keep the child in an upright position to reduce the risk of aspiration (inhaling vomited material into the lungs).",
-      "6. *Stay Calm and Reassure the Child:* - Keep the child as calm as possible to minimize stress. Reassure them while waiting for emergency help.",
-      "7. *Provide Information to Healthcare Professionals:* - When emergency medical services arrive, be prepared to provide information about the corrosive substance, including its name, strength, and any other relevant details. Once the child reaches the hospital, healthcare professionals will conduct a thorough assessment, which may include imaging studies, endoscopy, and other diagnostic tests to evaluate the extent of the injury. Treatment will depend on the nature and severity of the corrosive substance ingested and the resulting damage"
+      "**1. Call for Emergency Help:** - Dial your local emergency number (e.g., 911 in the United States) as soon as you suspect corrosive ingestion. Provide as much information as possible about the substance ingested and the child's symptoms.",
+      "**2. Do NOT Induce Vomiting:** - Unlike some other types of ingestions, it is generally not recommended to induce vomiting in cases of corrosive substance ingestion. This can cause further damage to the esophagus.",
+      "**3. Do NOT Give Anything by Mouth:** - Refrain from giving the child anything to eat or drink unless directed by medical professionals. Giving fluids or attempting to neutralize the substance can worsen the damage.",
+      "**4. Rinse Mouth (if advised):** - In some cases, medical professionals may advise you to rinse the child's mouth with water if the corrosive substance is not a strong acid or base. However, this should only be done if specifically recommended by emergency services.",
+      "**5. Prevent Aspiration:** - Keep the child in an upright position to reduce the risk of aspiration (inhaling vomited material into the lungs).",
+      "**6. Stay Calm and Reassure the Child:** - Keep the child as calm as possible to minimize stress. Reassure them while waiting for emergency help.",
+      "**7. Provide Information to Healthcare Professionals:** - When emergency medical services arrive, be prepared to provide information about the corrosive substance, including its name, strength, and any other relevant details. Once the child reaches the hospital, healthcare professionals will conduct a thorough assessment, which may include imaging studies, endoscopy, and other diagnostic tests to evaluate the extent of the injury. Treatment will depend on the nature and severity of the corrosive substance ingested and the resulting damage"
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. *Call for Emergency Help:* - Call your local emergency number (e.g., 911 in the United States) immediately if you suspect a child has ingested a corrosive substance. Time is critical in such cases.",
-        "2. *Keep the Child Calm:* - Try to keep the child calm and reassure them while waiting for emergency help. Stress and agitation can exacerbate the situation.",
-        "3. *Provide Information:* - When emergency services arrive, provide information about the corrosive substance, including its name, strength, and any other relevant details. This information can assist healthcare professionals in determining the appropriate course of action.",
-        "4. *Rinse Mouth (if advised):* - In some cases, emergency services may advise you to rinse the child's mouth with water if the corrosive substance is not a strong acid or base. Follow their instructions carefully."
+        "**1. Call for Emergency Help:** - Call your local emergency number (e.g., 911 in the United States) immediately if you suspect a child has ingested a corrosive substance. Time is critical in such cases.",
+        "**2. Keep the Child Calm:** - Try to keep the child calm and reassure them while waiting for emergency help. Stress and agitation can exacerbate the situation.",
+        "**3. Provide Information:** - When emergency services arrive, provide information about the corrosive substance, including its name, strength, and any other relevant details. This information can assist healthcare professionals in determining the appropriate course of action.",
+        "**4. Rinse Mouth (if advised):** - In some cases, emergency services may advise you to rinse the child's mouth with water if the corrosive substance is not a strong acid or base. Follow their instructions carefully."
       ],
       "Do Not": [
-        "1. *Do NOT Induce Vomiting:* - Unlike some other types of ingestions, inducing vomiting is generally not recommended in cases of corrosive substance ingestion. It can cause further damage to the esophagus.",
-        "2. *Do NOT Give Anything by Mouth:* - Refrain from giving the child anything to eat or drink unless directed by healthcare professionals. Giving fluids or attempting to neutralize the substance can worsen the damage.",
-        "3. *Avoid Home Remedies:* - Do not attempt home remedies or interventions without consulting healthcare professionals. Stick to the guidance provided by emergency services and medical staff.",
-        "4. *Do NOT Delay Seeking Medical Attention:* - Time is crucial in cases of corrosive ingestion. Do not wait to see if symptoms improve on their own. Seek immediate medical attention.",
-        "5. *Do NOT Hesitate to Call for Help:* - If in doubt, don't hesitate to call for emergency assistance. It's better to err on the side of caution and let healthcare professionals assess the situation."
+        "**1. Do NOT Induce Vomiting:** - Unlike some other types of ingestions, inducing vomiting is generally not recommended in cases of corrosive substance ingestion. It can cause further damage to the esophagus.",
+        "**2. Do NOT Give Anything by Mouth:** - Refrain from giving the child anything to eat or drink unless directed by healthcare professionals. Giving fluids or attempting to neutralize the substance can worsen the damage.",
+        "**3. Avoid Home Remedies:** - Do not attempt home remedies or interventions without consulting healthcare professionals. Stick to the guidance provided by emergency services and medical staff.",
+        "**4. Do NOT Delay Seeking Medical Attention:** - Time is crucial in cases of corrosive ingestion. Do not wait to see if symptoms improve on their own. Seek immediate medical attention.",
+        "**5. Do NOT Hesitate to Call for Help:** - If in doubt, don't hesitate to call for emergency assistance. It's better to err on the side of caution and let healthcare professionals assess the situation."
       ]
     }
   }
@@ -588,54 +588,54 @@
   },
   "Bite": {
     "Symptoms": [
-      "1. Redness and Swelling: Bites, whether from insects, animals, or humans, can often cause redness and swelling around the affected area.",
-      "2. Pain and Discomfort: Pain or discomfort at the site of the bite is common.",
-      "3. Bruising or Bleeding: Some bites may result in bruising or bleeding, especially if the skin is broken. It's important to clean the wound to prevent infection.",
-      "4. Itching: Insect bites, in particular, may cause itching. Scratching the bite can lead to further irritation and increase the risk of infection.",
-      "5. Rash: Certain bites, such as those from insects, may lead to the development of a rash. This is common in allergic reactions.",
-      "6. Fever: In some cases, particularly with animal bites, there might be a risk of infection. If a child develops a fever after a bite, it could be a sign of infection, and medical attention should be sought.",
-      "7. Allergic Reactions: Some children may be allergic to certain bites, resulting in more severe symptoms such as difficulty breathing, swelling of the face or throat, and a rapid heart rate. This is a medical emergency, and you should seek immediate medical help.",
-      "8. Infection: Bites can introduce bacteria into the skin, increasing the risk of infection. Signs of infection include increased redness, swelling, warmth, and the presence of pus."
+      "**1. Redness and Swelling:** Bites, whether from insects, animals, or humans, can often cause redness and swelling around the affected area.",
+      "**2. Pain and Discomfort:** Pain or discomfort at the site of the bite is common.",
+      "**3. Bruising or Bleeding:** Some bites may result in bruising or bleeding, especially if the skin is broken. It's important to clean the wound to prevent infection.",
+      "**4. Itching:** Insect bites, in particular, may cause itching. Scratching the bite can lead to further irritation and increase the risk of infection.",
+      "**5. Rash:** Certain bites, such as those from insects, may lead to the development of a rash. This is common in allergic reactions.",
+      "**6. Fever:** In some cases, particularly with animal bites, there might be a risk of infection. If a child develops a fever after a bite, it could be a sign of infection, and medical attention should be sought.",
+      "**7. Allergic Reactions:** Some children may be allergic to certain bites, resulting in more severe symptoms such as difficulty breathing, swelling of the face or throat, and a rapid heart rate. This is a medical emergency, and you should seek immediate medical help.",
+      "**8. Infection:** Bites can introduce bacteria into the skin, increasing the risk of infection. Signs of infection include increased redness, swelling, warmth, and the presence of pus."
     ],
     "Red Flags": [
-      "1. Difficulty Breathing: If the child experiences difficulty breathing or any signs of respiratory distress after a bite, it could be a severe allergic reaction (anaphylaxis) requiring immediate medical attention.",
-      "2. Swelling of Face or Throat: Swelling of the face, especially around the eyes or lips, or swelling of the throat, can be signs of a serious allergic reaction. Seek emergency medical assistance.",
-      "3. Hives or Rash Over the Body: If the child develops widespread hives or a rash over the body, especially if it's accompanied by other symptoms like difficulty breathing, it may indicate a severe allergic reaction.",
-      "4. Persistent Bleeding: If the bite results in persistent and heavy bleeding that you are unable to control with gentle pressure, it may require urgent medical attention.",
-      "5. Signs of Shock: If the child shows signs of shock, such as paleness, rapid breathing, weak or rapid pulse, or altered mental state, seek emergency help immediately.",
-      "6. Severe Pain or Discomfort: If the child is experiencing severe pain that is not relieved with over-the-counter pain medication, it may indicate a more serious injury or complication.",
-      "7. Fever and Increasing Redness: If the child develops a fever and the redness and swelling around the bite area are increasing, it may be a sign of infection, and medical attention is needed.",
-      "8. Animal Bites: If the bite is from a wild or stray animal, seek medical attention to evaluate the risk of rabies or other infections.",
-      "9. Change in Consciousness: Any alteration in consciousness, confusion, or loss of consciousness after a bite is a serious sign and requires immediate medical attention.",
-      "10. Signs of Infection: If there are signs of infection around the bite area, such as increasing redness, swelling, warmth, or the presence of pus, medical attention is necessary."
+      "**1. Difficulty Breathing:** If the child experiences difficulty breathing or any signs of respiratory distress after a bite, it could be a severe allergic reaction (anaphylaxis) requiring immediate medical attention.",
+      "**2. Swelling of Face or Throat:** Swelling of the face, especially around the eyes or lips, or swelling of the throat, can be signs of a serious allergic reaction. Seek emergency medical assistance.",
+      "**3. Hives or Rash Over the Body:** If the child develops widespread hives or a rash over the body, especially if it's accompanied by other symptoms like difficulty breathing, it may indicate a severe allergic reaction.",
+      "**4. Persistent Bleeding:** If the bite results in persistent and heavy bleeding that you are unable to control with gentle pressure, it may require urgent medical attention.",
+      "**5. Signs of Shock:** If the child shows signs of shock, such as paleness, rapid breathing, weak or rapid pulse, or altered mental state, seek emergency help immediately.",
+      "**6. Severe Pain or Discomfort:** If the child is experiencing severe pain that is not relieved with over-the-counter pain medication, it may indicate a more serious injury or complication.",
+      "**7. Fever and Increasing Redness:** If the child develops a fever and the redness and swelling around the bite area are increasing, it may be a sign of infection, and medical attention is needed.",
+      "**8. Animal Bites:** If the bite is from a wild or stray animal, seek medical attention to evaluate the risk of rabies or other infections.",
+      "**9. Change in Consciousness:** Any alteration in consciousness, confusion, or loss of consciousness after a bite is a serious sign and requires immediate medical attention.",
+      "**10. Signs of Infection:** If there are signs of infection around the bite area, such as increasing redness, swelling, warmth, or the presence of pus, medical attention is necessary."
     ],
     "Initial management": [
-      "1. Insect Bites: Prophylaxis: Use insect repellent to prevent bites. Dress children in long sleeves and pants, especially in areas with a high risk of insect exposure. Treatment: Wash the bite area with mild soap and water. Apply a cold compress or ice pack wrapped in a cloth to reduce swelling and alleviate pain. Use over-the-counter anti-itch creams or antihistamines to relieve itching.",
-      "2. Animal Bites: Prophylaxis: Teach children to avoid approaching unfamiliar animals. Ensure pets are properly vaccinated. Treatment: Wash the bite area with mild soap and water. Apply an antiseptic ointment to reduce the risk of infection. Control bleeding with gentle pressure if there is any. Seek medical attention, especially for bites from wild or stray animals, to assess the risk of rabies.",
-      "3. Human Bites: Prophylaxis: Teach children about the importance of not biting others. Promote good hygiene practices to reduce the risk of infection. Treatment: Wash the bite area with mild soap and water. Apply an antiseptic ointment. Keep the wound clean and covered. If there are signs of infection, seek medical attention.",
-      "4. Snake Bites: Prophylaxis: Teach children to stay away from snakes and to be cautious in areas where snakes may be present. Treatment: Keep the child calm and still to slow the spread of venom. Remove tight clothing and jewelry near the bite site. Seek emergency medical attention immediately.",
-      "5. Spider Bites: Prophylaxis: Teach children to avoid contact with spiders, especially in areas where dangerous species may be present. Treatment: Wash the bite area with mild soap and water. Apply a cold compress to reduce swelling. Seek medical attention if there are severe symptoms or if the bite is from a potentially venomous spider.",
-      "6. Tick Bites: Prophylaxis: Use insect repellent in areas where ticks are prevalent. Check for ticks after spending time outdoors, and promptly remove any attached ticks. Treatment: Use fine-tipped tweezers to grasp the tick close to the skin's surface and pull upward with steady, even pressure. Wash the bite area with rubbing alcohol, an iodine scrub, or soap and water. Seek medical attention if the tick is embedded, or if there are signs of illness such as fever, rash, or flu-like symptoms."
+      "**1. Insect Bites:** Prophylaxis: Use insect repellent to prevent bites. Dress children in long sleeves and pants, especially in areas with a high risk of insect exposure. Treatment: Wash the bite area with mild soap and water. Apply a cold compress or ice pack wrapped in a cloth to reduce swelling and alleviate pain. Use over-the-counter anti-itch creams or antihistamines to relieve itching.",
+      "**2. Animal Bites:** Prophylaxis: Teach children to avoid approaching unfamiliar animals. Ensure pets are properly vaccinated. Treatment: Wash the bite area with mild soap and water. Apply an antiseptic ointment to reduce the risk of infection. Control bleeding with gentle pressure if there is any. Seek medical attention, especially for bites from wild or stray animals, to assess the risk of rabies.",
+      "**3. Human Bites:** Prophylaxis: Teach children about the importance of not biting others. Promote good hygiene practices to reduce the risk of infection. Treatment: Wash the bite area with mild soap and water. Apply an antiseptic ointment. Keep the wound clean and covered. If there are signs of infection, seek medical attention.",
+      "**4. Snake Bites:** Prophylaxis: Teach children to stay away from snakes and to be cautious in areas where snakes may be present. Treatment: Keep the child calm and still to slow the spread of venom. Remove tight clothing and jewelry near the bite site. Seek emergency medical attention immediately.",
+      "**5. Spider Bites:** Prophylaxis: Teach children to avoid contact with spiders, especially in areas where dangerous species may be present. Treatment: Wash the bite area with mild soap and water. Apply a cold compress to reduce swelling. Seek medical attention if there are severe symptoms or if the bite is from a potentially venomous spider.",
+      "**6. Tick Bites:** Prophylaxis: Use insect repellent in areas where ticks are prevalent. Check for ticks after spending time outdoors, and promptly remove any attached ticks. Treatment: Use fine-tipped tweezers to grasp the tick close to the skin's surface and pull upward with steady, even pressure. Wash the bite area with rubbing alcohol, an iodine scrub, or soap and water. Seek medical attention if the tick is embedded, or if there are signs of illness such as fever, rash, or flu-like symptoms."
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. Clean the Wound: Wash the bite area with mild soap and water to reduce the risk of infection. Gently pat it dry with a clean cloth.",
-        "2. Apply Antiseptic: Apply an antiseptic ointment to the wound to further minimize the risk of infection.",
-        "3. Use Cold Compress: Apply a cold compress or ice pack wrapped in a cloth to reduce swelling and alleviate pain. This is especially useful for insect bites.",
-        "4. Control Bleeding: If the bite causes bleeding, apply gentle pressure with a clean cloth or bandage to control the bleeding.",
-        "5. Keep the Wound Covered: Keep the bite area clean and covered with a sterile bandage or dressing until it heals.",
-        "6. Use Over-the-Counter Medications: Over-the-counter pain relievers (appropriate for the child's age) can be used to manage pain and reduce inflammation. Antihistamines can help alleviate itching in the case of insect bites.",
-        "7. Observe for Signs of Infection: Monitor the bite area for any signs of infection, such as increased redness, swelling, warmth, or the presence of pus. Seek medical attention if infection is suspected.",
-        "8. Seek Medical Attention for Severe Bites: If the bite is from a wild or stray animal, or if it's a deep or severe wound, seek prompt medical attention. Also, seek medical help if there are signs of a severe allergic reaction."
+        "**1. Clean the Wound:** Wash the bite area with mild soap and water to reduce the risk of infection. Gently pat it dry with a clean cloth.",
+        "**2. Apply Antiseptic:** Apply an antiseptic ointment to the wound to further minimize the risk of infection.",
+        "**3. Use Cold Compress:** Apply a cold compress or ice pack wrapped in a cloth to reduce swelling and alleviate pain. This is especially useful for insect bites.",
+        "**4. Control Bleeding:** If the bite causes bleeding, apply gentle pressure with a clean cloth or bandage to control the bleeding.",
+        "**5. Keep the Wound Covered:** Keep the bite area clean and covered with a sterile bandage or dressing until it heals.",
+        "**6. Use Over-the-Counter Medications:** Over-the-counter pain relievers (appropriate for the child's age) can be used to manage pain and reduce inflammation. Antihistamines can help alleviate itching in the case of insect bites.",
+        "**7. Observe for Signs of Infection:** Monitor the bite area for any signs of infection, such as increased redness, swelling, warmth, or the presence of pus. Seek medical attention if infection is suspected.",
+        "**8. Seek Medical Attention for Severe Bites:** If the bite is from a wild or stray animal, or if it's a deep or severe wound, seek prompt medical attention. Also, seek medical help if there are signs of a severe allergic reaction."
       ],
       "Do Not": [
-        "1. Ignore Signs of Allergic Reaction: If the child shows signs of a severe allergic reaction, such as difficulty breathing, swelling of the face or throat, or hives, seek emergency medical attention. Do not ignore these symptoms.",
-        "2. Scratch the Bite: Instruct the child not to scratch the bite, as this can lead to further irritation, potential infection, and scarring.",
-        "3. Neglect Tetanus Vaccination: Ensure that the child's tetanus vaccinations are up to date, especially in the case of animal bites or puncture wounds.",
-        "4. Delay Seeking Medical Attention for Severe Bites: If the bite is from a potentially rabid animal, seek medical attention immediately. Delaying treatment can be dangerous.",
-        "5. Assume No Risk of Disease Transmission: In the case of human bites, do not assume there is no risk of disease transmission. Human bites can introduce bacteria into the wound, and medical attention may be necessary.",
-        "6. Use Harsh Chemicals: Avoid using harsh chemicals or substances on the bite wound that are not specifically recommended by healthcare professionals.",
-        "7. Neglect Follow-Up Care: If a healthcare professional provides specific instructions for follow-up care, such as wound care or medication, be sure to follow their recommendations."
+        "**1. Ignore Signs of Allergic Reaction:** If the child shows signs of a severe allergic reaction, such as difficulty breathing, swelling of the face or throat, or hives, seek emergency medical attention. Do not ignore these symptoms.",
+        "**2. Scratch the Bite:** Instruct the child not to scratch the bite, as this can lead to further irritation, potential infection, and scarring.",
+        "**3. Neglect Tetanus Vaccination:** Ensure that the child's tetanus vaccinations are up to date, especially in the case of animal bites or puncture wounds.",
+        "**4. Delay Seeking Medical Attention for Severe Bites:** If the bite is from a potentially rabid animal, seek medical attention immediately. Delaying treatment can be dangerous.",
+        "**5. Assume No Risk of Disease Transmission:** In the case of human bites, do not assume there is no risk of disease transmission. Human bites can introduce bacteria into the wound, and medical attention may be necessary.",
+        "**6. Use Harsh Chemicals:** Avoid using harsh chemicals or substances on the bite wound that are not specifically recommended by healthcare professionals.",
+        "**7. Neglect Follow-Up Care:** If a healthcare professional provides specific instructions for follow-up care, such as wound care or medication, be sure to follow their recommendations."
       ]
     }
   }
@@ -646,51 +646,51 @@
   },
   "Epistaxis": {
     "Symptoms": [
-      "1. Visible bleeding: Blood from one or both nostrils.",
-      "2. Blood clotting: Formation of blood clots in the nostrils or throat.",
-      "3. Frequent nosebleeds: Especially in dry nasal conditions or underlying conditions.",
-      "4. Nasal congestion: Particularly in children with allergies or respiratory infections.",
-      "5. Dry air: Dry climates or indoor heating can lead to dry nasal passages.",
-      "6. Nose picking: Trauma to blood vessels by picking the nose.",
-      "7. Underlying medical conditions: Nosebleeds might signal bleeding disorders or nasal structural issues.",
-      "8. Medication side effects: Some medications may increase nosebleed risk."
+      "**1. Visible bleeding:** Blood from one or both nostrils.",
+      "**2. Blood clotting:** Formation of blood clots in the nostrils or throat.",
+      "**3. Frequent nosebleeds:** Especially in dry nasal conditions or underlying conditions.",
+      "**4. Nasal congestion:** Particularly in children with allergies or respiratory infections.",
+      "**5. Dry air:** Dry climates or indoor heating can lead to dry nasal passages.",
+      "**6. Nose picking:** Trauma to blood vessels by picking the nose.",
+      "**7. Underlying medical conditions:** Nosebleeds might signal bleeding disorders or nasal structural issues.",
+      "**8. Medication side effects:** Some medications may increase nosebleed risk."
     ],
     "Initial management": [
-      "1. Stay Calm: Keep the child calm to minimize anxiety, which can worsen bleeding.",
-      "2. Sit Up Straight: Have the child sit upright, leaning slightly forward to prevent blood from flowing down the throat.",
-      "3. Pinch the Nose: Apply pressure just below the bony bridge for 5-10 minutes to allow vessels to constrict.",
-      "4. Prophylaxis (Prevention): Use a humidifier, saline nasal spray, petroleum jelly, and avoid nose picking to prevent future nosebleeds.",
-      "5. Treatment for Recurrent or Severe Epistaxis: Topical nasal decongestants, nasal cautery, blood tests, or vitamin K supplements may be recommended.",
-      "6. When to Seek Medical Attention: Persistent bleeding, frequent nosebleeds, concern about blood loss, or associated symptoms should prompt medical attention."
+      "**1. Stay Calm:** Keep the child calm to minimize anxiety, which can worsen bleeding.",
+      "**2. Sit Up Straight:** Have the child sit upright, leaning slightly forward to prevent blood from flowing down the throat.",
+      "**3. Pinch the Nose:** Apply pressure just below the bony bridge for 5-10 minutes to allow vessels to constrict.",
+      "**4. Prophylaxis (Prevention):** Use a humidifier, saline nasal spray, petroleum jelly, and avoid nose picking to prevent future nosebleeds.",
+      "**5. Treatment for Recurrent or Severe Epistaxis:** Topical nasal decongestants, nasal cautery, blood tests, or vitamin K supplements may be recommended.",
+      "**6. When to Seek Medical Attention:** Persistent bleeding, frequent nosebleeds, concern about blood loss, or associated symptoms should prompt medical attention."
     ],
     "Do Or Not to Do": {
       "Do": [
-        "1. Stay Calm: Helps reassure and effectively manage the situation.",
-        "2. Position the Child Properly: Sit up and lean slightly forward to prevent blood from going down the throat.",
-        "3. Pinch the Nostrils: Apply pressure to stop bleeding.",
-        "4. Maintain Pressure: Apply consistent pressure for 5-10 minutes without releasing.",
-        "5. Apply Cold Compress: Helps constrict blood vessels.",
-        "6. Hydrate: Encourage the child to drink water to stay hydrated."
+        "**1. Stay Calm:** Helps reassure and effectively manage the situation.",
+        "**2. Position the Child Properly:** Sit up and lean slightly forward to prevent blood from going down the throat.",
+        "**3. Pinch the Nostrils:** Apply pressure to stop bleeding.",
+        "**4. Maintain Pressure:** Apply consistent pressure for 5-10 minutes without releasing.",
+        "**5. Apply Cold Compress:** Helps constrict blood vessels.",
+        "**6. Hydrate:** Encourage the child to drink water to stay hydrated."
       ],
       "Do Not": [
-        "1. Tilt the Head Backward: Avoid blood flowing down the throat.",
-        "2. Pack the Nose with Tissues: Packing can cause further irritation.",
-        "3. Use Hot Water: Heat can dilate blood vessels and worsen bleeding.",
-        "4. Blow the Nose: Disrupts clot formation.",
-        "5. Administer Medications without Consultation: Avoid aspirin and consult healthcare professionals about medications.",
-        "6. When to Seek Medical Attention: For persistent bleeding, frequent nosebleeds, signs of excessive blood loss, or associated health issues."
+        "**1. Tilt the Head Backward:** Avoid blood flowing down the throat.",
+        "**2. Pack the Nose with Tissues:** Packing can cause further irritation.",
+        "**3. Use Hot Water:** Heat can dilate blood vessels and worsen bleeding.",
+        "**4. Blow the Nose:** Disrupts clot formation.",
+        "**5. Administer Medications without Consultation:** Avoid aspirin and consult healthcare professionals about medications.",
+        "**6. When to Seek Medical Attention:** For persistent bleeding, frequent nosebleeds, signs of excessive blood loss, or associated health issues."
       ]
     },
     "Red Flags": [
-      "1. Difficulty Breathing: Indicating a severe issue requiring immediate attention.",
-      "2. Bleeding from Both Nostrils: Might signal a serious underlying problem.",
-      "3. Bleeding After a Head Injury: Immediate medical evaluation is essential.",
-      "4. Persistent or Heavy Bleeding: Seek medical attention if bleeding persists despite pressure or if exceptionally heavy.",
-      "5. Frequent Nosebleeds: Recurrent nosebleeds may indicate underlying issues requiring evaluation.",
-      "6. Signs of Anemia: Weakness, paleness, or other anemia symptoms should be addressed.",
-      "7. Bleeding Disorder or Medication Use: Known bleeding disorders or medications affecting clotting require attention.",
-      "8. Vomiting Blood or Blood in Stool: Seek immediate medical attention if nosebleed is accompanied by these symptoms.",
-      "9. Inability to Stop Bleeding with Pressure: If pressure doesn't stop bleeding, seek medical help."
+      "**1. Difficulty Breathing:** Indicating a severe issue requiring immediate attention.",
+      "**2. Bleeding from Both Nostrils:** Might signal a serious underlying problem.",
+      "**3. Bleeding After a Head Injury:** Immediate medical evaluation is essential.",
+      "**4. Persistent or Heavy Bleeding:** Seek medical attention if bleeding persists despite pressure or if exceptionally heavy.",
+      "**5. Frequent Nosebleeds:** Recurrent nosebleeds may indicate underlying issues requiring evaluation.",
+      "**6. Signs of Anemia:** Weakness, paleness, or other anemia symptoms should be addressed.",
+      "**7. Bleeding Disorder or Medication Use:** Known bleeding disorders or medications affecting clotting require attention.",
+      "**8. Vomiting Blood or Blood in Stool:** Seek immediate medical attention if nosebleed is accompanied by these symptoms.",
+      "**9. Inability to Stop Bleeding with Pressure:** If pressure doesn't stop bleeding, seek medical help."
     ]
   }
 }]

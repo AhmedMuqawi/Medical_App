@@ -1,335 +1,337 @@
-[{
-  "_id": {
-    "$oid": "65e4a50c402042be5560eed6"
-  },
-  "Common Cold": {
-    "Symptoms": [
-      "1. Runny or stuffy nose: One of the most common symptoms is nasal congestion, with discharge that can be clear, yellow, or green.",
-      "2. Sneezing: Children with a cold often experience frequent bouts of sneezing.",
-      "3. Cough: A mild to moderate cough is common, and it can be dry or produce phlegm.",
-      "4. Sore throat: The throat may feel scratchy or sore.",
-      "5. Watery eyes: Irritation and tearing of the eyes can occur.",
-      "6. Mild fever: Children with a cold may run a low-grade fever, but it's typically not very high.",
-      "7. Fatigue: Cold symptoms can make children feel tired and lethargic.",
-      "8. Irritability: Due to discomfort and disrupted sleep, children may become irritable."
-    ],
-    "Red Flags": [
-      "1. High Fever: A persistent high fever (above 100.4°F or 38°C in infants, or above 104°F or 40°C in older children) may be a cause for concern.",
-      "2. Difficulty Breathing: If your child is experiencing rapid or labored breathing, or if there are signs of respiratory distress, seek medical attention immediately.",
-      "3. Persistent Cough: If the cough is severe, persistent, or accompanied by wheezing, it may indicate a more serious respiratory issue and requires evaluation by a healthcare professional.",
-      "4. Dehydration: Watch for signs of dehydration, including a decrease in urine output, dry mouth, sunken eyes, or lethargy.",
-      "5. Ear Pain or Discharge: Persistent ear pain or discharge from the ears may indicate an ear infection, which may require medical treatment.",
-      "6. Worsening Symptoms: If your child's symptoms are getting worse instead of improving after a few days, it's advisable to consult with a healthcare professional.",
-      "7. Severe Headache: A severe or persistent headache, especially in combination with other symptoms, may warrant medical attention.",
-      "8. Unresponsiveness or Lethargy: If your child becomes unusually lethargic, unresponsive, or difficult to wake, seek emergency medical care."
-    ],
-    "Initial management": [
-      {
-        "Prophylaxis (Prevention)": [
-          "1. Hand Hygiene: Encourage frequent handwashing with soap and water, especially before meals and after being in public places.",
-          "2. Respiratory Hygiene: Teach your child to cover their mouth and nose when coughing or sneezing. Discourage sharing of utensils, cups, and personal items.",
-          "3. Boosting Immunity: Ensure your child maintains a healthy diet with plenty of fruits and vegetables. Encourage regular physical activity and adequate sleep."
-        ]
-      },
-      {
-        "Treatment of Common Cold Symptoms": [
-          "1. Rest and Fluids: Ensure your child gets plenty of rest to help the immune system fight the infection. Keep them well-hydrated with water, clear soups, or electrolyte solutions to prevent dehydration.",
-          "2. Nasal Saline Drops: Use saline drops to help relieve nasal congestion in younger children who cannot blow their noses.",
-          "3. Humidifier: Use a cool-mist humidifier in your child's room to add moisture to the air, which can help ease nasal congestion.",
-          "4. Pain and Fever Relief: Acetaminophen or ibuprofen can be used to relieve pain and reduce fever. Follow the dosing instructions based on your child's age and weight, and consult with a healthcare professional if you have any concerns.",
-          "5. Cough Medications: Cough medications are generally not recommended for young children, especially those under the age of 6, as they may not be effective and can have potential side effects. Consult with a healthcare professional before using any cough medications.",
-          "6. Warm Salt Gargle: For older children, a warm saltwater gargle may help soothe a sore throat."
+[
+  {
+    "_id": {
+      "$oid": "65e4a50c402042be5560eed6"
+    },
+    "Common Cold": {
+      "Symptoms": [
+        "**1. Runny or stuffy nose:** One of the most common symptoms is nasal congestion, with discharge that can be clear, yellow, or green.",
+        "**2. Sneezing:** Children with a cold often experience frequent bouts of sneezing.",
+        "**3. Cough:** A mild to moderate cough is common, and it can be dry or produce phlegm.",
+        "**4. Sore throat:** The throat may feel scratchy or sore.",
+        "**5. Watery eyes:** Irritation and tearing of the eyes can occur.",
+        "**6. Mild fever:** Children with a cold may run a low-grade fever, but it's typically not very high.",
+        "**7. Fatigue:** Cold symptoms can make children feel tired and lethargic.",
+        "**8. Irritability:** Due to discomfort and disrupted sleep, children may become irritable."
+      ],
+      "Red Flags": [
+        "**1. High Fever:** A persistent high fever (above 100.4°F or 38°C in infants, or above 104°F or 40°C in older children) may be a cause for concern.",
+        "**2. Difficulty Breathing:** If your child is experiencing rapid or labored breathing, or if there are signs of respiratory distress, seek medical attention immediately.",
+        "**3. Persistent Cough:** If the cough is severe, persistent, or accompanied by wheezing, it may indicate a more serious respiratory issue and requires evaluation by a healthcare professional.",
+        "**4. Dehydration:** Watch for signs of dehydration, including a decrease in urine output, dry mouth, sunken eyes, or lethargy.",
+        "**5. Ear Pain or Discharge:** Persistent ear pain or discharge from the ears may indicate an ear infection, which may require medical treatment.",
+        "**6. Worsening Symptoms:** If your child's symptoms are getting worse instead of improving after a few days, it's advisable to consult with a healthcare professional.",
+        "**7. Severe Headache:** A severe or persistent headache, especially in combination with other symptoms, may warrant medical attention.",
+        "**8. Unresponsiveness or Lethargy:** If your child becomes unusually lethargic, unresponsive, or difficult to wake, seek emergency medical care."
+      ],
+      "Initial management": [
+        {
+          "Prophylaxis (Prevention)": [
+            "**1.Hand Hygiene:** Encourage frequent handwashing with soap and water, especially before meals and after being in public places.",
+            "**2.Respiratory Hygiene:** Teach your child to cover their mouth and nose when coughing or sneezing. Discourage sharing of utensils, cups, and personal items.",
+            "**3.Boosting Immunity:** Ensure your child maintains a healthy diet with plenty of fruits and vegetables. Encourage regular physical activity and adequate sleep."
+          ]
+        },
+        {
+          "Treatment of Common Cold Symptoms": [
+            "**1. Rest and Fluids:** Ensure your child gets plenty of rest to help the immune system fight the infection. Keep them well-hydrated with water, clear soups, or electrolyte solutions to prevent dehydration.",
+            "**2. Nasal Saline Drops:** Use saline drops to help relieve nasal congestion in younger children who cannot blow their noses.",
+            "**3. Humidifier:** Use a cool-mist humidifier in your child's room to add moisture to the air, which can help ease nasal congestion.",
+            "**4. Pain and Fever Relief:** Acetaminophen or ibuprofen can be used to relieve pain and reduce fever. Follow the dosing instructions based on your child's age and weight, and consult with a healthcare professional if you have any concerns.",
+            "**5. Cough Medications:** Cough medications are generally not recommended for young children, especially those under the age of 6, as they may not be effective and can have potential side effects. Consult with a healthcare professional before using any cough medications.",
+            "**6. Warm Salt Gargle:** For older children, a warm saltwater gargle may help soothe a sore throat."
+          ]
+        }
+      ],
+      "Do Or Not to Do": {
+        "Do": [
+          "**1. Encourage Rest:** Ensure your child gets plenty of rest to support the body's immune response.",
+          "**2. Maintain Hydration:** Offer plenty of fluids like water, clear soups, or electrolyte solutions to prevent dehydration.",
+          "**3. Use Saline Nasal Drops:** Use saline drops to help relieve nasal congestion in younger children.",
+          "**4. Provide a Humidifier:** Use a cool-mist humidifier in your child's room to add moisture to the air, which can ease nasal congestion.",
+          "**5. Promote Hand Hygiene:** Encourage regular handwashing with soap and water to prevent the spread of germs.",
+          "**6. Practice Respiratory Hygiene:** Teach your child to cover their mouth and nose with a tissue or elbow when coughing or sneezing.",
+          "**7. Boost Immunity:** Ensure your child maintains a healthy diet, gets regular exercise, and gets adequate sleep to support their immune system.",
+          "**8. Pain and Fever Relief:** Use acetaminophen or ibuprofen to relieve pain and reduce fever, following the appropriate dosing for your child's age and weight."
+        ],
+        "Do Not": [
+          "**1. Avoid Antibiotics:** Antibiotics are ineffective against viral infections like the common cold.",
+          "**2. Limit Cough Medications:** Avoid using cough medications in young children, especially those under the age of 6, unless recommended by a healthcare professional.",
+          "**3. Don't Overuse Decongestants:** Over-the-counter decongestants may have limited effectiveness and potential side effects.",
+          "**4. Limit Exposure to Tobacco Smoke:** Avoid exposing your child to secondhand smoke, as it can worsen respiratory symptoms.",
+          "**5. Don't Use Aspirin:** Avoid giving aspirin to children with a viral infection, as it has been linked to a rare but serious condition called Reye's syndrome.",
+          "**6. Don't Skip Vaccinations:** Ensure your child is up-to-date on vaccinations, as they can help prevent certain respiratory infections.",
+          "**7. Avoid Dairy Products Before Bed:** Some children may produce more mucus after consuming dairy products, so you might consider avoiding them before bedtime if your child has a cough."
         ]
       }
-    ],
-    "Do Or Not to Do": {
-      "Do": [
-        "1. Encourage Rest: Ensure your child gets plenty of rest to support the body's immune response.",
-        "2. Maintain Hydration: Offer plenty of fluids like water, clear soups, or electrolyte solutions to prevent dehydration.",
-        "3. Use Saline Nasal Drops: Use saline drops to help relieve nasal congestion in younger children.",
-        "4. Provide a Humidifier: Use a cool-mist humidifier in your child's room to add moisture to the air, which can ease nasal congestion.",
-        "5. Promote Hand Hygiene: Encourage regular handwashing with soap and water to prevent the spread of germs.",
-        "6. Practice Respiratory Hygiene: Teach your child to cover their mouth and nose with a tissue or elbow when coughing or sneezing.",
-        "7. Boost Immunity: Ensure your child maintains a healthy diet, gets regular exercise, and gets adequate sleep to support their immune system.",
-        "8. Pain and Fever Relief: Use acetaminophen or ibuprofen to relieve pain and reduce fever, following the appropriate dosing for your child's age and weight."
-      ],
-      "Do Not": [
-        "1. Avoid Antibiotics: Antibiotics are ineffective against viral infections like the common cold.",
-        "2. Limit Cough Medications: Avoid using cough medications in young children, especially those under the age of 6, unless recommended by a healthcare professional.",
-        "3. Don't Overuse Decongestants: Over-the-counter decongestants may have limited effectiveness and potential side effects.",
-        "4. Limit Exposure to Tobacco Smoke: Avoid exposing your child to secondhand smoke, as it can worsen respiratory symptoms.",
-        "5. Don't Use Aspirin: Avoid giving aspirin to children with a viral infection, as it has been linked to a rare but serious condition called Reye's syndrome.",
-        "6. Don't Skip Vaccinations: Ensure your child is up-to-date on vaccinations, as they can help prevent certain respiratory infections.",
-        "7. Avoid Dairy Products Before Bed: Some children may produce more mucus after consuming dairy products, so you might consider avoiding them before bedtime if your child has a cough."
-      ]
     }
-  }
-},
-{
-  "_id": {
-    "$oid": "65e4a50c402042be5560eed7"
   },
-  "Allergic Rhinitis": {
-    "Symptoms": [
-      "1. Sneezing: Frequent and repetitive sneezing is a common symptom of allergic rhinitis.",
-      "2. Runny or Stuffy Nose: Children with allergic rhinitis may experience a persistent runny or stuffy nose.",
-      "3. Itchy or Watery Eyes: Irritation and itching of the eyes are common symptoms.",
-      "4. Itchy Throat or Ears: Children may complain of an itchy or scratchy sensation in their throat or ears.",
-      "5. Coughing: Allergic rhinitis can lead to a persistent cough, particularly if postnasal drip occurs.",
-      "6. Fatigue: Chronic symptoms can lead to fatigue and irritability, affecting a child's overall well-being.",
-      "7. Dark Circles Under the Eyes: Referred to as allergic shiners, dark circles under the eyes can be a sign of chronic nasal congestion.",
-      "8. Decreased Sense of Taste or Smell: Children may experience a reduced sense of taste or smell due to nasal congestion."
-    ],
-    "Red Flags": [
-      "1. Difficulty Breathing: If a child with allergic rhinitis experiences sudden and severe difficulty breathing, seek immediate medical attention.",
-      "2. Wheezing: Wheezing, a high-pitched whistling sound during breathing, may indicate bronchoconstriction and could be a sign of asthma or a serious allergic reaction.",
-      "3. Swelling: Swelling of the face, lips, or tongue can be a sign of a severe allergic reaction known as anaphylaxis. Seek emergency medical attention if you notice significant swelling.",
-      "4. Severe Itching or Rash: Severe and widespread itching, along with the development of hives, may be a sign of a more serious allergic response.",
-      "5. Chest Pain: Chest pain or discomfort could be a sign of a more severe respiratory or cardiovascular issue and should be evaluated by a healthcare professional.",
-      "6. Persistent or Severe Symptoms: If the child's allergic rhinitis symptoms are persistent, severe, or not responding to over-the-counter medications, consult with a healthcare provider.",
-      "7. Impaired Consciousness: Any sudden loss of consciousness or altered mental status requires immediate medical attention."
-    ],
-    "Initial management": [
-      {
-        "Prophylaxis (Preventive Measures)": [
-          "1. Identify and Avoid Triggers: Determine the specific allergens triggering the allergic rhinitis. Encourage the child to avoid exposure to known allergens, especially during peak seasons.",
-          "2. Keep Windows Closed: During high pollen seasons, keep windows closed to minimize exposure.",
-          "3. Air Purifiers: Consider using air purifiers with HEPA filters in frequently used areas to reduce airborne allergens.",
-          "4. Limit Outdoor Activities: Limit outdoor activities during high pollen counts, particularly on windy days.",
-          "5. Regular Cleaning: Regularly clean the child's living environment to reduce dust mites, mold, and pet dander."
-        ]
-      },
-      {
-        "Treatment for Symptom Relief": [
-          "1. Antihistamines: Over-the-counter or prescription antihistamines can help relieve symptoms like sneezing, itching, and a runny nose.",
-          "2. Intranasal Corticosteroids: These nasal sprays can reduce inflammation in the nasal passages and provide relief from symptoms.",
-          "3. Decongestants: Decongestant nasal sprays or oral decongestants can temporarily relieve nasal congestion.",
-          "4. Saline Nasal Irrigation: Saline nasal irrigation can help clear nasal passages and reduce symptoms.",
-          "5. Allergen Immunotherapy: In cases of persistent or severe allergic rhinitis, allergen immunotherapy (allergy shots) may be considered.",
-          "6. Eye Drops: If eye symptoms are prominent, antihistamine or mast cell stabilizer eye drops may be recommended.",
-          "7. Consultation with a Healthcare Professional: If symptoms persist or are severe, consult with a healthcare professional for a thorough evaluation and personalized treatment plan."
+  {
+    "_id": {
+      "$oid": "65e4a50c402042be5560eed7"
+    },
+    "Allergic Rhinitis": {
+      "Symptoms": [
+        "**1. Sneezing:** Frequent and repetitive sneezing is a common symptom of allergic rhinitis.",
+        "**2. Runny or Stuffy Nose:** Children with allergic rhinitis may experience a persistent runny or stuffy nose.",
+        "**3. Itchy or Watery Eyes:** Irritation and itching of the eyes are common symptoms.",
+        "**4. Itchy Throat or Ears:** Children may complain of an itchy or scratchy sensation in their throat or ears.",
+        "**5. Coughing:** Allergic rhinitis can lead to a persistent cough, particularly if postnasal drip occurs.",
+        "**6. Fatigue:** Chronic symptoms can lead to fatigue and irritability, affecting a child's overall well-being.",
+        "**7. Dark Circles Under the Eyes:** Referred to as allergic shiners, dark circles under the eyes can be a sign of chronic nasal congestion.",
+        "**8. Decreased Sense of Taste or Smell:** Children may experience a reduced sense of taste or smell due to nasal congestion."
+      ],
+      "Red Flags": [
+        "**1. Difficulty Breathing:** If a child with allergic rhinitis experiences sudden and severe difficulty breathing, seek immediate medical attention.",
+        "**2. Wheezing:** Wheezing, a high-pitched whistling sound during breathing, may indicate bronchoconstriction and could be a sign of asthma or a serious allergic reaction.",
+        "**3. Swelling:** Swelling of the face, lips, or tongue can be a sign of a severe allergic reaction known as anaphylaxis. Seek emergency medical attention if you notice significant swelling.",
+        "**4. Severe Itching or Rash:** Severe and widespread itching, along with the development of hives, may be a sign of a more serious allergic response.",
+        "**5. Chest Pain:** Chest pain or discomfort could be a sign of a more severe respiratory or cardiovascular issue and should be evaluated by a healthcare professional.",
+        "**6. Persistent or Severe Symptoms:** If the child's allergic rhinitis symptoms are persistent, severe, or not responding to over-the-counter medications, consult with a healthcare provider.",
+        "**7. Impaired Consciousness:** Any sudden loss of consciousness or altered mental status requires immediate medical attention."
+      ],
+      "Initial management": [
+        {
+          "Prophylaxis (Preventive Measures)": [
+            "**1. Identify and Avoid Triggers:** Determine the specific allergens triggering the allergic rhinitis. Encourage the child to avoid exposure to known allergens, especially during peak seasons.",
+            "**2. Keep Windows Closed:** During high pollen seasons, keep windows closed to minimize exposure.",
+            "**3. Air Purifiers:** Consider using air purifiers with HEPA filters in frequently used areas to reduce airborne allergens.",
+            "**4. Limit Outdoor Activities:** Limit outdoor activities during high pollen counts, particularly on windy days.",
+            "**5. Regular Cleaning:** Regularly clean the child's living environment to reduce dust mites, mold, and pet dander."
+          ]
+        },
+        {
+          "Treatment for Symptom Relief": [
+            "**1. Antihistamines:** Over-the-counter or prescription antihistamines can help relieve symptoms like sneezing, itching, and a runny nose.",
+            "**2. Intranasal Corticosteroids:** These nasal sprays can reduce inflammation in the nasal passages and provide relief from symptoms.",
+            "**3. Decongestants:** Decongestant nasal sprays or oral decongestants can temporarily relieve nasal congestion.",
+            "**4. Saline Nasal Irrigation:** Saline nasal irrigation can help clear nasal passages and reduce symptoms.",
+            "**5. Allergen Immunotherapy:** In cases of persistent or severe allergic rhinitis, allergen immunotherapy (allergy shots) may be considered.",
+            "**6. Eye Drops:** If eye symptoms are prominent, antihistamine or mast cell stabilizer eye drops may be recommended.",
+            "**7. Consultation with a Healthcare Professional:** If symptoms persist or are severe, consult with a healthcare professional for a thorough evaluation and personalized treatment plan."
+          ]
+        }
+      ],
+      "Do Or Not to Do": {
+        "Do": [
+          "**1. Identify and Avoid Allergens:** Work with a healthcare professional to identify specific allergens and take steps to minimize exposure.",
+          "**2. Use Allergy-Proof Bedding:** Encase pillows and mattresses in allergen-proof covers to reduce exposure to dust mites.",
+          "**3. Keep Indoor Air Clean:** Use air purifiers with HEPA filters and keep windows closed during high pollen seasons.",
+          "**4. Saline Nasal Irrigation:** This can help relieve nasal congestion and remove allergens from the nasal passages.",
+          "**5. Non-Sedating Antihistamines:** Consult with a healthcare professional to determine the appropriate medication for your child.",
+          "**6. Intranasal Corticosteroids:** These sprays are often recommended for moderate to severe allergic rhinitis.",
+          "**7. Regular Cleaning:** Minimize exposure to indoor allergens by regularly cleaning living spaces."
+        ],
+        "Do Not": [
+          "**1. Avoid Overuse of Decongestant Nasal Sprays:** Prolonged use can lead to rebound congestion. Use under healthcare professional guidance.",
+          "**2. Limit Exposure to Tobacco Smoke:** Avoid exposing your child to tobacco smoke, as it can worsen symptoms.",
+          "**3. Limit Outdoor Activities During High Pollen Seasons:** Reduce exposure during high pollen seasons to minimize symptoms.",
+          "**4. Avoid Overreliance on Over-the-Counter Medications:** Consult with a healthcare professional before using medications, especially in younger children.",
+          "**5. Don't Ignore Symptoms:** Seek advice from a healthcare professional if your child's symptoms persist or worsen."
         ]
       }
-    ],
-    "Do Or Not to Do": {
-      "Do": [
-        "1. Identify and Avoid Allergens: Work with a healthcare professional to identify specific allergens and take steps to minimize exposure.",
-        "2. Use Allergy-Proof Bedding: Encase pillows and mattresses in allergen-proof covers to reduce exposure to dust mites.",
-        "3. Keep Indoor Air Clean: Use air purifiers with HEPA filters and keep windows closed during high pollen seasons.",
-        "4. Saline Nasal Irrigation: This can help relieve nasal congestion and remove allergens from the nasal passages.",
-        "5. Non-Sedating Antihistamines: Consult with a healthcare professional to determine the appropriate medication for your child.",
-        "6. Intranasal Corticosteroids: These sprays are often recommended for moderate to severe allergic rhinitis.",
-        "7. Regular Cleaning: Minimize exposure to indoor allergens by regularly cleaning living spaces."
-      ],
-      "Do Not": [
-        "1. Avoid Overuse of Decongestant Nasal Sprays: Prolonged use can lead to rebound congestion. Use under healthcare professional guidance.",
-        "2. Limit Exposure to Tobacco Smoke: Avoid exposing your child to tobacco smoke, as it can worsen symptoms.",
-        "3. Limit Outdoor Activities During High Pollen Seasons: Reduce exposure during high pollen seasons to minimize symptoms.",
-        "4. Avoid Overreliance on Over-the-Counter Medications: Consult with a healthcare professional before using medications, especially in younger children.",
-        "5. Don't Ignore Symptoms: Seek advice from a healthcare professional if your child's symptoms persist or worsen."
-      ]
     }
-  }
-},
-{
-  "_id": {
-    "$oid": "65e4a50c402042be5560eed8"
   },
-  "Acute Otitis Media": {
-    "Symptoms": [
-      "1. Ear Pain: Often the most prominent symptom, accompanied by children tugging or pulling at their ears.",
-      "2. Irritability: Children with AOM may become more irritable or fussy due to pain and discomfort.",
-      "3. Difficulty Sleeping: Pain worsens when lying down, leading to disrupted sleep patterns.",
-      "4. Fever: Elevated body temperature is a common response to AOM infection.",
-      "5. Fluid Drainage: Sometimes, fluid or pus draining from the ear indicates a ruptured eardrum.",
-      "6. Hearing Problems: Accumulated fluid in the middle ear can cause temporary hearing loss.",
-      "7. Loss of Appetite: Pain and discomfort may reduce the child's appetite.",
-      "8. Balance Issues: Inflammation in the inner ear can cause temporary balance problems."
-    ],
-    "Red Flags": [
-      "1. High Fever: Fever of 102°F or higher, especially unresponsive to fever-reducing medications, warrants medical attention.",
-      "2. Severe Ear Pain: Worsening ear pain not alleviated by pain relievers should raise concern.",
-      "3. Signs of Ear Drainage: Pus or blood draining from the ear requires immediate medical attention, indicating a ruptured eardrum.",
-      "4. Worsening Symptoms: New severe symptoms like persistent vomiting, severe headache, or neck stiffness need medical help.",
-      "5. Irritability or Lethargy: Excessive irritability or lethargy may signal a severe infection.",
-      "6. Changes in Hearing: Sudden changes or decreased responsiveness to sounds should be promptly evaluated.",
-      "7. Persistent Symptoms: If symptoms persist for more than 48-72 hours despite home care or recur after initial improvement, seek medical advice.",
-      "8. Underlying Health Conditions: Children with underlying health issues need prompt attention for any signs of illness."
-    ],
-    "Initial management": [
-      {
-        "Supportive Care and Pain Management": [
-          "1. Pain Relief: Acetaminophen or ibuprofen can alleviate pain and reduce fever. Consult a healthcare provider for proper dosage.",
-          "2. Warm Compress: Applying a warm compress to the affected ear can soothe pain and discomfort.",
-          "3. Hydration and Rest: Ensure the child stays hydrated and gets ample rest to support healing."
-        ]
-      },
-      {
-        "Antibiotics (if prescribed)": [
-          "1. Amoxicillin: Commonly prescribed for bacterial AOM in children as a first-line antibiotic.",
-          "2. Augmentin (Amoxicillin-Clavulanate): Used if initial treatment with amoxicillin is ineffective or for recurrent infections.",
-          "3. Observation (Wait-and-See Approach): In mild cases or older children, observation without immediate antibiotics may be recommended."
-        ]
-      },
-      {
-        "Other Considerations": [
-          "1. Ear Drops: Consult a healthcare professional before using ear drops with local anesthetic for temporary pain relief.",
-          "2. Avoiding Tobacco Smoke: Exposure to smoke can worsen symptoms; avoid secondhand smoke."
+  {
+    "_id": {
+      "$oid": "65e4a50c402042be5560eed8"
+    },
+    "Acute Otitis Media": {
+      "Symptoms": [
+        "**1. Ear Pain:** Often the most prominent symptom, accompanied by children tugging or pulling at their ears.",
+        "**2. Irritability:** Children with AOM may become more irritable or fussy due to pain and discomfort.",
+        "**3. Difficulty Sleeping:** Pain worsens when lying down, leading to disrupted sleep patterns.",
+        "**4. Fever:** Elevated body temperature is a common response to AOM infection.",
+        "**5. Fluid Drainage:** Sometimes, fluid or pus draining from the ear indicates a ruptured eardrum.",
+        "**6. Hearing Problems:** Accumulated fluid in the middle ear can cause temporary hearing loss.",
+        "**7. Loss of Appetite:** Pain and discomfort may reduce the child's appetite.",
+        "**8. Balance Issues:** Inflammation in the inner ear can cause temporary balance problems."
+      ],
+      "Red Flags": [
+        "**1. High Fever:** Fever of 102°F or higher, especially unresponsive to fever-reducing medications, warrants medical attention.",
+        "**2. Severe Ear Pain:** Worsening ear pain not alleviated by pain relievers should raise concern.",
+        "**3. Signs of Ear Drainage:** Pus or blood draining from the ear requires immediate medical attention, indicating a ruptured eardrum.",
+        "**4. Worsening Symptoms:** New severe symptoms like persistent vomiting, severe headache, or neck stiffness need medical help.",
+        "**5. Irritability or Lethargy:** Excessive irritability or lethargy may signal a severe infection.",
+        "**6. Changes in Hearing:** Sudden changes or decreased responsiveness to sounds should be promptly evaluated.",
+        "**7. Persistent Symptoms:** If symptoms persist for more than 48-72 hours despite home care or recur after initial improvement, seek medical advice.",
+        "**8. Underlying Health Conditions:** Children with underlying health issues need prompt attention for any signs of illness."
+      ],
+      "Initial management": [
+        {
+          "Supportive Care and Pain Management": [
+            "**1. Pain Relief:** Acetaminophen or ibuprofen can alleviate pain and reduce fever. Consult a healthcare provider for proper dosage.",
+            "**2. Warm Compress:** Applying a warm compress to the affected ear can soothe pain and discomfort.",
+            "**3. Hydration and Rest:** Ensure the child stays hydrated and gets ample rest to support healing."
+          ]
+        },
+        {
+          "Antibiotics (if prescribed)": [
+            "**1. Amoxicillin:** Commonly prescribed for bacterial AOM in children as a first-line antibiotic.",
+            "**2. Augmentin (Amoxicillin-Clavulanate):** Used if initial treatment with amoxicillin is ineffective or for recurrent infections.",
+            "**3. Observation (Wait-and-See Approach):** In mild cases or older children, observation without immediate antibiotics may be recommended."
+          ]
+        },
+        {
+          "Other Considerations": [
+            "**1. Ear Drops:** Consult a healthcare professional before using ear drops with local anesthetic for temporary pain relief.",
+            "**2. Avoiding Tobacco Smoke:** Exposure to smoke can worsen symptoms; avoid secondhand smoke."
+          ]
+        }
+      ],
+      "Do Or Not to Do": {
+        "Do": [
+          "**1. Consult a Healthcare Professional:** Seek professional advice for proper diagnosis and treatment.",
+          "**2. Follow Medical Advice:** Complete prescribed antibiotics even if symptoms improve.",
+          "**3. Provide Pain Relief:** Administer recommended pain relievers for comfort.",
+          "**4. Offer Comfort Measures:** Use warm compresses and ensure adequate rest.",
+          "**5. Encourage Hydration:** Keep the child well-hydrated to aid recovery.",
+          "**6. Practice Good Hygiene:** Teach good hand hygiene to prevent infections.",
+          "**7. Address Environmental Factors:** Avoid exposing the child to tobacco smoke."
+        ],
+        "Do Not": [
+          "**1. Self-Prescribe Antibiotics:** Don't use leftover antibiotics without professional consultation.",
+          "**2. Ignore Red Flags:** Take immediate action for concerning symptoms.",
+          "**3. Insert Objects into the Ear:** Avoid using cotton swabs or objects in the ear.",
+          "**4. Delay Medical Attention:** Seek timely medical help for severe or persistent symptoms.",
+          "**5. Overuse of Antibiotics:** Don't pressure for unnecessary antibiotics to prevent resistance.",
+          "**6. Excessive Noise Exposure:** Protect the child's ears from loud noises to prevent increased pain."
         ]
       }
-    ],
-    "Do Or Not to Do": {
-      "Do": [
-        "1. Consult a Healthcare Professional: Seek professional advice for proper diagnosis and treatment.",
-        "2. Follow Medical Advice: Complete prescribed antibiotics even if symptoms improve.",
-        "3. Provide Pain Relief: Administer recommended pain relievers for comfort.",
-        "4. Offer Comfort Measures: Use warm compresses and ensure adequate rest.",
-        "5. Encourage Hydration: Keep the child well-hydrated to aid recovery.",
-        "6. Practice Good Hygiene: Teach good hand hygiene to prevent infections.",
-        "7. Address Environmental Factors: Avoid exposing the child to tobacco smoke."
-      ],
-      "Do Not": [
-        "1. Self-Prescribe Antibiotics: Don't use leftover antibiotics without professional consultation.",
-        "2. Ignore Red Flags: Take immediate action for concerning symptoms.",
-        "3. Insert Objects into the Ear: Avoid using cotton swabs or objects in the ear.",
-        "4. Delay Medical Attention: Seek timely medical help for severe or persistent symptoms.",
-        "5. Overuse of Antibiotics: Don't pressure for unnecessary antibiotics to prevent resistance.",
-        "6. Excessive Noise Exposure: Protect the child's ears from loud noises to prevent increased pain."
-      ]
     }
-  }
-},
-{
-  "_id": {
-    "$oid": "65e4a50c402042be5560eed9"
   },
-  "Acute Bronchitis": {
-    "Symptoms": [
-      "1. Cough: The most prominent symptom of acute bronchitis is a persistent cough. The cough may start as a dry cough and later produce mucus (phlegm). The cough can last for several weeks.",
-      "2. Runny or stuffy nose: Children with acute bronchitis may experience nasal congestion or a runny nose, similar to symptoms of a cold.",
-      "3. Sore throat: Irritation of the throat can occur, leading to a sore throat.",
-      "4. Wheezing: Some children may develop wheezing, which is a high-pitched sound that occurs during breathing. This is due to the inflammation of the airways.",
-      "5. Shortness of breath: In more severe cases, children may experience difficulty breathing or shortness of breath, especially during physical activity.",
-      "6. Fever: A mild fever is common in acute bronchitis. It's the body's response to the infection.",
-      "7. Fatigue: Children with acute bronchitis may feel more tired than usual."
-    ],
-    "Red Flags": [
-      "1. Severe Difficulty Breathing: If the child is struggling to breathe, breathing rapidly, or using extra muscles to breathe, it's a serious concern. Signs of severe respiratory distress include flaring nostrils, retractions (visible pulling in of the chest between or under the ribs), and a grunting sound with each breath.",
-      "2. Persistent High Fever: While fever is a common symptom of acute bronchitis, a persistently high fever, especially if it doesn't respond to fever-reducing medications, may be a cause for concern.",
-      "3. Bluish Tint to Lips or Face: Bluish discoloration of the lips, face, or fingertips (cyanosis) is a sign that the child is not getting enough oxygen and requires immediate medical attention.",
-      "4. Dehydration: Signs of dehydration include a dry mouth, sunken eyes, lethargy, and reduced urine output. Dehydration can be a serious complication and may require medical intervention.",
-      "5. Worsening Cough: If the cough becomes increasingly severe, persistent, or if it is associated with wheezing, it may indicate a more severe respiratory problem that requires medical evaluation.",
-      "6. Persistent Vomiting: Vomiting that persists or is severe can lead to dehydration and may require medical attention.",
-      "7. Lethargy or Excessive Sleepiness: If the child is unusually lethargic, difficult to wake up, or excessively sleepy, it may be a sign of more severe illness.",
-      "8. Chest Pain: Severe chest pain, especially if it's persistent or worsening, should be evaluated by a healthcare professional."
-    ],
-    "Initial management": [
-      "1. Rest and Hydration: - Ensure the child gets plenty of rest to allow the body to recover. - Encourage increased fluid intake, such as water, clear soups, and oral rehydration solutions, to prevent dehydration.",
-      "2. Fever Management: - Use age-appropriate over-the-counter fever reducers, such as acetaminophen or ibuprofen, to alleviate fever and discomfort. Follow dosage recommendations carefully.",
-      "3. Humidification: - Use a cool-mist humidifier in the child's room to add moisture to the air, which can help relieve cough and ease breathing.",
-      "4. Cough Medications: - Over-the-counter cough medications are generally not recommended for young children. Instead, consider honey for children over one year of age, as it has been shown to be effective in relieving cough symptoms.",
-      "5. Avoiding Irritants: - Keep the child away from tobacco smoke and other environmental irritants that can worsen respiratory symptoms.",
-      "6. Prophylaxis for Secondary Infections: - Ensure that the child is up-to-date on vaccinations, as this can help prevent certain bacterial infections that might complicate viral illnesses.",
-      "7. Medical Evaluation: - If the child's symptoms are severe, persist for more than a week to ten days, or worsen over time, consult a healthcare professional for an accurate diagnosis and appropriate management.",
-      "8. Avoiding Antibiotics: - Antibiotics are not effective against viral infections, and their misuse can contribute to antibiotic resistance. They are typically not recommended for uncomplicated cases of acute bronchitis.",
-      "9. Monitoring for Complications: - Keep a close eye on the child's symptoms and seek medical attention if there are signs of respiratory distress, persistent high fever, or other concerning symptoms."
-    ],
-    "Do Or Not to Do": {
-      "Do": [
-        "1. Encourage Fluids: - Ensure the child stays well-hydrated by encouraging them to drink plenty of fluids. This helps keep the airways moist and can help ease coughing.",
-        "2. Provide Rest: - Allow the child to get adequate rest to support the body's natural healing process.",
-        "3. Humidify the Air: - Using a cool mist humidifier in the child's room can help relieve cough and congestion by adding moisture to the air.",
-        "4. Use Saline Nasal Drops: - Saline nasal drops can help loosen mucus and relieve nasal congestion. These are generally safe for children.",
-        "5. Over-the-Counter Cough Medicines (if recommended by a healthcare provider): - Some cough medicines may be recommended by a healthcare provider, especially if the cough is severe. However, these are generally not recommended for young children, and their use should be discussed with a healthcare professional."
+  {
+    "_id": {
+      "$oid": "65e4a50c402042be5560eed9"
+    },
+    "Acute Bronchitis": {
+      "Symptoms": [
+        "**1. Cough:** The most prominent symptom of acute bronchitis is a persistent cough. The cough may start as a dry cough and later produce mucus (phlegm). The cough can last for several weeks.",
+        "**2. Runny or stuffy nose:** Children with acute bronchitis may experience nasal congestion or a runny nose, similar to symptoms of a cold.",
+        "**3. Sore throat:** Irritation of the throat can occur, leading to a sore throat.",
+        "**4. Wheezing:** Some children may develop wheezing, which is a high-pitched sound that occurs during breathing. This is due to the inflammation of the airways.",
+        "**5. Shortness of breath:** In more severe cases, children may experience difficulty breathing or shortness of breath, especially during physical activity.",
+        "**6. Fever:** A mild fever is common in acute bronchitis. It's the body's response to the infection.",
+        "**7. Fatigue:** Children with acute bronchitis may feel more tired than usual."
       ],
-      "Do Not": [
-        "1. Avoid Antibiotics: - Acute bronchitis is usually caused by viruses, and antibiotics are not effective against viral infections. Avoid using antibiotics unless prescribed by a healthcare provider.",
-        "2. Limit Cough Suppressants for Young Children: - Cough suppressants are generally not recommended for children under the age of 6. Consult with a healthcare provider before using any cough medications.",
-        "3. Avoid Exposure to Secondhand Smoke: - Exposure to tobacco smoke can worsen respiratory symptoms. Keep the child away from secondhand smoke.",
-        "4. Limit Use of Over-the-Counter Cold Medications: - Over-the-counter cold medications may contain ingredients that are not suitable for young children. Consult with a healthcare provider before using any over-the-counter medications.",
-        "5. Avoid Irritants: - Keep the child away from irritants such as strong odors, fumes, or environmental pollutants.",
-        "6. Don't Overuse Bronchodilators: - Bronchodilators (inhaled medications that open up the airways) are generally not recommended for routine use in acute bronchitis unless there is a specific indication."
-      ]
-    }
-  }
-},
-{
-  "_id": {
-    "$oid": "65e4a50c402042be5560eeda"
-  },
-  "Tonsilitis": {
-    "Symptoms": [
-      "1. Sore Throat: One of the primary symptoms is a sore throat, which can be mild to severe.",
-      "2. Difficulty Swallowing: Children with tonsillitis may find it painful or difficult to swallow.",
-      "3. Fever: Tonsillitis can be accompanied by a fever. A higher body temperature is a common response to infection.",
-      "4. Swollen Tonsils: The tonsils may appear red and swollen, and there might be white or yellow patches on their surface.",
-      "5. Bad Breath: Due to the presence of infection and the accumulation of debris on the tonsils, children with tonsillitis may have bad breath.",
-      "6. Headache: Some children may experience headaches as a result of tonsillitis.",
-      "7. Stomachache: Children with tonsillitis might complain of a stomachache.",
-      "8. Ear Pain: Tonsillitis can sometimes cause referred pain to the ears, leading to ear discomfort.",
-      "9. Fatigue: General feelings of tiredness and fatigue are common with many infections, including tonsillitis."
-    ],
-    "Red Flags": [
-      "1. Difficulty Breathing: If the child is having difficulty breathing or swallowing, it is a serious concern and requires immediate medical attention.",
-      "2. High Fever: A persistently high fever (over 103°F or 39.4°C) that does not respond to over-the-counter fever-reducing medications may be a cause for concern.",
-      "3. Severe Dehydration: Signs of dehydration, such as decreased urination, dry mouth, or lethargy, are red flags that require medical attention.",
-      "4. Severe Throat Pain: If the child is experiencing severe throat pain that is not alleviated by pain medication, it may indicate a more serious condition.",
-      "5. Persistent Vomiting: Continuous vomiting or the inability to keep fluids down can lead to dehydration and requires medical evaluation.",
-      "6. Neck Stiffness: Stiffness in the neck, especially when accompanied by other symptoms, could be a sign of a more serious infection that needs immediate attention.",
-      "7. Severe Headache: A severe headache, especially if accompanied by other neurological symptoms, could indicate a more serious infection that requires medical assessment.",
-      "8. Difficulty Opening the Mouth: If the child has difficulty opening their mouth or if there is significant swelling around the throat, it may indicate a more severe case of tonsillitis or other complications.",
-      "9. Rash: The presence of a rash, especially if it does not blanch (turn white) when pressed, could be a sign of a more serious infection that requires urgent medical attention."
-    ],
-    "Initial management": [
-      {
-        "Supportive Care": [
-          "1. Rest: Encourage the child to get plenty of rest to help their body recover.",
-          "2. Hydration: Ensure the child drinks plenty of fluids, such as water, clear soups, and oral rehydration solutions, to prevent dehydration.",
-          "3. Humidification: Use a cool-mist humidifier in the child's room to soothe the throat and ease breathing."
-        ]
-      },
-      {
-        "Symptom Relief": [
-          "1. Pain Relief: Over-the-counter pain relievers such as acetaminophen (Tylenol) or ibuprofen can help alleviate pain and reduce fever. Follow proper dosing guidelines based on the child's weight and age.",
-          "2. Throat Lozenges or Popsicles: For children old enough to safely use throat lozenges, these can provide relief. Cold foods like popsicles can also soothe a sore throat."
-        ]
-      },
-      {
-        "Antibiotics": [
-          "1. Strep Throat: If the tonsillitis is caused by a bacterial infection, particularly streptococcus bacteria, the doctor may prescribe antibiotics, usually penicillin or amoxicillin. It's important to complete the full course of antibiotics, even if symptoms improve."
-        ]
-      },
-      {
-        "Prophylaxis": [
-          "1. Preventive Measures: If a child has recurrent episodes of tonsillitis, the healthcare provider might consider prophylactic (preventive) measures, especially if the infections significantly impact the child's health or quality of life. This could involve a discussion about the potential benefits and risks of a tonsillectomy (surgical removal of the tonsils)."
-        ]
-      },
-      {
-        "Other Considerations": [
-          "1. Warm Salt Gargle: For older children who can gargle, a warm saltwater gargle may provide some relief.",
-          "2. Avoid Irritants: Encourage the child to avoid irritants such as tobacco smoke."
+      "Red Flags": [
+        "**1. Severe Difficulty Breathing:** If the child is struggling to breathe, breathing rapidly, or using extra muscles to breathe, it's a serious concern. Signs of severe respiratory distress include flaring nostrils, retractions (visible pulling in of the chest between or under the ribs), and a grunting sound with each breath.",
+        "**2. Persistent High Fever:** While fever is a common symptom of acute bronchitis, a persistently high fever, especially if it doesn't respond to fever-reducing medications, may be a cause for concern.",
+        "**3. Bluish Tint to Lips or Face:** Bluish discoloration of the lips, face, or fingertips (cyanosis) is a sign that the child is not getting enough oxygen and requires immediate medical attention.",
+        "**4. Dehydration:** Signs of dehydration include a dry mouth, sunken eyes, lethargy, and reduced urine output. Dehydration can be a serious complication and may require medical intervention.",
+        "**5. Worsening Cough:** If the cough becomes increasingly severe, persistent, or if it is associated with wheezing, it may indicate a more severe respiratory problem that requires medical evaluation.",
+        "**6. Persistent Vomiting:** Vomiting that persists or is severe can lead to dehydration and may require medical attention.",
+        "**7. Lethargy or Excessive Sleepiness:** If the child is unusually lethargic, difficult to wake up, or excessively sleepy, it may be a sign of more severe illness.",
+        "**8. Chest Pain:** Severe chest pain, especially if it's persistent or worsening, should be evaluated by a healthcare professional."
+      ],
+      "Initial management": [
+        "**1. Rest and Hydration:** - Ensure the child gets plenty of rest to allow the body to recover. - Encourage increased fluid intake, such as water, clear soups, and oral rehydration solutions, to prevent dehydration.",
+        "**2. Fever Management:** - Use age-appropriate over-the-counter fever reducers, such as acetaminophen or ibuprofen, to alleviate fever and discomfort. Follow dosage recommendations carefully.",
+        "**3. Humidification:** - Use a cool-mist humidifier in the child's room to add moisture to the air, which can help relieve cough and ease breathing.",
+        "**4. Cough Medications:** - Over-the-counter cough medications are generally not recommended for young children. Instead, consider honey for children over one year of age, as it has been shown to be effective in relieving cough symptoms.",
+        "**5. Avoiding Irritants:** - Keep the child away from tobacco smoke and other environmental irritants that can worsen respiratory symptoms.",
+        "**6. Prophylaxis for Secondary Infections:** - Ensure that the child is up-to-date on vaccinations, as this can help prevent certain bacterial infections that might complicate viral illnesses.",
+        "**7. Medical Evaluation:** - If the child's symptoms are severe, persist for more than a week to ten days, or worsen over time, consult a healthcare professional for an accurate diagnosis and appropriate management.",
+        "**8. Avoiding Antibiotics:** - Antibiotics are not effective against viral infections, and their misuse can contribute to antibiotic resistance. They are typically not recommended for uncomplicated cases of acute bronchitis.",
+        "**9. Monitoring for Complications:** - Keep a close eye on the child's symptoms and seek medical attention if there are signs of respiratory distress, persistent high fever, or other concerning symptoms."
+      ],
+      "Do Or Not to Do": {
+        "Do": [
+          "**1. Encourage Fluids:** - Ensure the child stays well-hydrated by encouraging them to drink plenty of fluids. This helps keep the airways moist and can help ease coughing.",
+          "**2. Provide Rest:** - Allow the child to get adequate rest to support the body's natural healing process.",
+          "**3. Humidify the Air:** - Using a cool mist humidifier in the child's room can help relieve cough and congestion by adding moisture to the air.",
+          "**4. Use Saline Nasal Drops:** - Saline nasal drops can help loosen mucus and relieve nasal congestion. These are generally safe for children.",
+          "**5. Over-the-Counter Cough Medicines (if recommended by a healthcare provider):** - Some cough medicines may be recommended by a healthcare provider, especially if the cough is severe. However, these are generally not recommended for young children, and their use should be discussed with a healthcare professional."
+        ],
+        "Do Not": [
+          "**1. Avoid Antibiotics:** - Acute bronchitis is usually caused by viruses, and antibiotics are not effective against viral infections. Avoid using antibiotics unless prescribed by a healthcare provider.",
+          "**2. Limit Cough Suppressants for Young Children:** - Cough suppressants are generally not recommended for children under the age of 6. Consult with a healthcare provider before using any cough medications.",
+          "**3. Avoid Exposure to Secondhand Smoke:** - Exposure to tobacco smoke can worsen respiratory symptoms. Keep the child away from secondhand smoke.",
+          "**4. Limit Use of Over-the-Counter Cold Medications:** - Over-the-counter cold medications may contain ingredients that are not suitable for young children. Consult with a healthcare provider before using any over-the-counter medications.",
+          "**5. Avoid Irritants:** - Keep the child away from irritants such as strong odors, fumes, or environmental pollutants.",
+          "**6. Don't Overuse Bronchodilators:** - Bronchodilators (inhaled medications that open up the airways) are generally not recommended for routine use in acute bronchitis unless there is a specific indication."
         ]
       }
-    ],
-    "Do Or Not to Do": {
-      "Do": [
-        "1. Encourage Rest: Ensure that the child gets plenty of rest to aid in the recovery process.",
-        "2. Hydrate: Keep the child well-hydrated with water, clear soups, and oral rehydration solutions to prevent dehydration.",
-        "3. Use Humidifiers: Employ cool-mist humidifiers in the child's room to ease throat discomfort and improve breathing.",
-        "4. Provide Pain Relief: Use over-the-counter pain relievers like acetaminophen or ibuprofen to alleviate pain and reduce fever, following proper dosing guidelines.",
-        "5. Offer Throat Soothers: Throat lozenges or popsicles can be soothing for older children with a sore throat.",
-        "6. Follow Antibiotic Course: If antibiotics are prescribed, ensure that the child completes the full course, even if symptoms improve before the medication is finished.",
-        "7. Practice Good Hygiene: Teach and reinforce good hand hygiene to prevent the spread of infections."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e4a50c402042be5560eeda"
+    },
+    "Tonsilitis": {
+      "Symptoms": [
+        "**1. Sore Throat:** One of the primary symptoms is a sore throat, which can be mild to severe.",
+        "**2. Difficulty Swallowing:** Children with tonsillitis may find it painful or difficult to swallow.",
+        "**3. Fever:** Tonsillitis can be accompanied by a fever. A higher body temperature is a common response to infection.",
+        "**4. Swollen Tonsils:** The tonsils may appear red and swollen, and there might be white or yellow patches on their surface.",
+        "**5. Bad Breath:** Due to the presence of infection and the accumulation of debris on the tonsils, children with tonsillitis may have bad breath.",
+        "**6. Headache:** Some children may experience headaches as a result of tonsillitis.",
+        "**7. Stomachache:** Children with tonsillitis might complain of a stomachache.",
+        "**8. Ear Pain:** Tonsillitis can sometimes cause referred pain to the ears, leading to ear discomfort.",
+        "**9. Fatigue:** General feelings of tiredness and fatigue are common with many infections, including tonsillitis."
       ],
-      "Do Not": [
-        "1. Avoid Self-Medication: Do not give any medication, especially antibiotics, without consulting a healthcare professional first.",
-        "2. No Aspirin for Viral Infections: Do not give aspirin to children with viral infections, as it has been associated with Reye's syndrome, a rare but serious condition.",
-        "3. Limit Exposure to Irritants: Keep the child away from tobacco smoke and other environmental irritants.",
-        "4. Not All Sore Throats Need Antibiotics: Understand that not all cases of tonsillitis are bacterial, and antibiotics are not effective against viral infections. Follow the healthcare provider's guidance.",
-        "5. Avoid Overuse of Throat Lozenges: For younger children, avoid using throat lozenges as they can pose a choking hazard.",
-        "6. Not Ignoring Red Flags: If you observe severe symptoms such as difficulty breathing, persistent high fever, or signs of dehydration, seek immediate medical attention.",
-        "7. Don't Delay Medical Attention: If symptoms are severe or if the child is not improving, consult with a healthcare professional promptly."
-      ]
+      "Red Flags": [
+        "**1. Difficulty Breathing:** If the child is having difficulty breathing or swallowing, it is a serious concern and requires immediate medical attention.",
+        "**2. High Fever:** A persistently high fever (over 103°F or 39.4°C) that does not respond to over-the-counter fever-reducing medications may be a cause for concern.",
+        "**3. Severe Dehydration:** Signs of dehydration, such as decreased urination, dry mouth, or lethargy, are red flags that require medical attention.",
+        "**4. Severe Throat Pain:** If the child is experiencing severe throat pain that is not alleviated by pain medication, it may indicate a more serious condition.",
+        "**5. Persistent Vomiting:** Continuous vomiting or the inability to keep fluids down can lead to dehydration and requires medical evaluation.",
+        "**6. Neck Stiffness:** Stiffness in the neck, especially when accompanied by other symptoms, could be a sign of a more serious infection that needs immediate attention.",
+        "**7. Severe Headache:** A severe headache, especially if accompanied by other neurological symptoms, could indicate a more serious infection that requires medical assessment.",
+        "**8. Difficulty Opening the Mouth:** If the child has difficulty opening their mouth or if there is significant swelling around the throat, it may indicate a more severe case of tonsillitis or other complications.",
+        "**9. Rash:** The presence of a rash, especially if it does not blanch (turn white) when pressed, could be a sign of a more serious infection that requires urgent medical attention."
+      ],
+      "Initial management": [
+        {
+          "Supportive Care": [
+            "**1. Rest:** Encourage the child to get plenty of rest to help their body recover.",
+            "**2. Hydration:** Ensure the child drinks plenty of fluids, such as water, clear soups, and oral rehydration solutions, to prevent dehydration.",
+            "**3. Humidification:** Use a cool-mist humidifier in the child's room to soothe the throat and ease breathing."
+          ]
+        },
+        {
+          "Symptom Relief": [
+            "**1. Pain Relief:** Over-the-counter pain relievers such as acetaminophen (Tylenol) or ibuprofen can help alleviate pain and reduce fever. Follow proper dosing guidelines based on the child's weight and age.",
+            "**2. Throat Lozenges or Popsicles:** For children old enough to safely use throat lozenges, these can provide relief. Cold foods like popsicles can also soothe a sore throat."
+          ]
+        },
+        {
+          "Antibiotics": [
+            "**1. Strep Throat:** If the tonsillitis is caused by a bacterial infection, particularly streptococcus bacteria, the doctor may prescribe antibiotics, usually penicillin or amoxicillin. It's important to complete the full course of antibiotics, even if symptoms improve."
+          ]
+        },
+        {
+          "Prophylaxis": [
+            "**1. Preventive Measures:** If a child has recurrent episodes of tonsillitis, the healthcare provider might consider prophylactic (preventive) measures, especially if the infections significantly impact the child's health or quality of life. This could involve a discussion about the potential benefits and risks of a tonsillectomy (surgical removal of the tonsils)."
+          ]
+        },
+        {
+          "Other Considerations": [
+            "**1. Warm Salt Gargle:** For older children who can gargle, a warm saltwater gargle may provide some relief.",
+            "**2. Avoid Irritants:** Encourage the child to avoid irritants such as tobacco smoke."
+          ]
+        }
+      ],
+      "Do Or Not to Do": {
+        "Do": [
+          "**1. Encourage Rest:** Ensure that the child gets plenty of rest to aid in the recovery process.",
+          "**2. Hydrate:** Keep the child well-hydrated with water, clear soups, and oral rehydration solutions to prevent dehydration.",
+          "**3. Use Humidifiers:** Employ cool-mist humidifiers in the child's room to ease throat discomfort and improve breathing.",
+          "**4. Provide Pain Relief:** Use over-the-counter pain relievers like acetaminophen or ibuprofen to alleviate pain and reduce fever, following proper dosing guidelines.",
+          "**5. Offer Throat Soothers:** Throat lozenges or popsicles can be soothing for older children with a sore throat.",
+          "**6. Follow Antibiotic Course:** If antibiotics are prescribed, ensure that the child completes the full course, even if symptoms improve before the medication is finished.",
+          "**7. Practice Good Hygiene:** Teach and reinforce good hand hygiene to prevent the spread of infections."
+        ],
+        "Do Not": [
+          "**1. Avoid Self-Medication:** Do not give any medication, especially antibiotics, without consulting a healthcare professional first.",
+          "**2. No Aspirin for Viral Infections:** Do not give aspirin to children with viral infections, as it has been associated with Reye's syndrome, a rare but serious condition.",
+          "**3. Limit Exposure to Irritants:** Keep the child away from tobacco smoke and other environmental irritants.",
+          "**4. Not All Sore Throats Need Antibiotics:** Understand that not all cases of tonsillitis are bacterial, and antibiotics are not effective against viral infections. Follow the healthcare provider's guidance.",
+          "**5. Avoid Overuse of Throat Lozenges:** For younger children, avoid using throat lozenges as they can pose a choking hazard.",
+          "**6. Not Ignoring Red Flags:** If you observe severe symptoms such as difficulty breathing, persistent high fever, or signs of dehydration, seek immediate medical attention.",
+          "**7. Don't Delay Medical Attention:** If symptoms are severe or if the child is not improving, consult with a healthcare professional promptly."
+        ]
+      }
     }
   }
-}]
+]
